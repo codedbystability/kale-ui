@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Store, mindre og eksotiske valutapariteter",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Den udenlandske valuta er det generelle navn givet til de fremmede valutaers valutaer p\u00e5 tyrkisk. Paritet er v\u00e6rdien af et lands valuta mod et andet lands valuta. Den f\u00f8rste valuta i valutaen refererer til basisvalutaen. Den anden valuta er den modsatte valuta. USD \/ TRY er USD-basiskursen, mens TRY er den modsatte valuta. V\u00e6rdien af USD \/ TRY-pariteten er v\u00e6rdien af den amerikanske dollar mod den tyrkiske lire. For eksempel; Antag at USD = 2, TRY = 1; V\u00e6rdien af USD \/ TRY paritet vil v\u00e6re 2. 1 USD = 2 Turkish Liras er lige, hvis vi forenkler det. Centralbankernes pengepolitik og \u00f8konomiske udvikling p\u00e5virker v\u00e6rdien af valutaerne i landene og skaber seri\u00f8se investeringsmuligheder i valutapariteterne.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

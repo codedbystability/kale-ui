@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "F\u00e5 adgang til platforme, hvor du kan investere p\u00e5 den hurtigste m\u00e5de.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 er en popul\u00e6r Forex handels- og analyseplatform, der giver handelsvalutaer, aktier, \u00e6dle metaller og CFD&#39;er i aktieindekser. I dette afsnit kan Ekol FX kunder downloade MetaTrader 4 handelsplatformen og mobile applikationer til PDA, iPhone, iPad og Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">ALLE PLATFORMER MED ET PASSORD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">NEM OG HURT\u0130G F\u0130NANS\u0130EL DR\u0130FT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">GRATIS FOREX SIGNALER<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOBBEL DIREKTE INVESTERING<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENT OG \u00c5BEN POSITION F\u00d8LGE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform Egenskaber<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Et kodeord p\u00e5 alle platforme <!-- li--><\/li><li>Ordre- og \u00e5ben positionssporing <!-- li--><\/li><li>Visningsgr\u00e6nse og sikkerhedsoplysninger <!-- li--><\/li><li>Teknisk analyse og diagrammer med Tradingview <!-- li--><\/li><li>Afsendelse af ordrer via grafik <!-- li--><\/li><li>One-klik ordre indsendelse <!-- li--><\/li><li>Billet eller listevisning, indsend ordre via liste <!-- li--><\/li><li>Billet eller listevisning, send ordre via liste <!-- li--><\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Systemkrav<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 OG OVER<\/span><\/li><li><span class=\"title\">INTERNET<\/span><span class=\"val\">4 MB OG OVER<\/span><\/li><li><span class=\"title\">SCREEN RESOLUTION<\/span><span class=\"val\">1920X1080 (ANBEFALES)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB OG OVER<\/span><\/li><li><span class=\"title\">OPERATING SYSTEMS<\/span><span class=\"val\">WINDOWS 7 OG OVER, MAC OS<\/span><\/li><li><span class=\"title\">WEB BROWSER<\/span><span class=\"val\">ALLE BROWSER (OVER CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

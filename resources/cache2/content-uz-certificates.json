@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Sertifikatlar",
+        "Title2": "Bizning rasmiy hujjatlarimiz va sertifikatlarimiz",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Sertifikatlar<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - UZBEKISTAN Ekol Global bozorlar Hujjatlar va sertifikatlar qisqa vaqt ichida yangilanadi.<\/p><p>Bizning litsenziyamizni ko&#39;rish uchun telefoningiz kamerasi bilan quyidagi QR kodini skanerdan o&#39;tkazganingizdan so&#39;ng tizim avtomatik ravishda sizni litsenziya hujjatiga yuboradi.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Litsenziyalar yuqorida ko&#39;rsatilganidek, ular yangilanadi.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

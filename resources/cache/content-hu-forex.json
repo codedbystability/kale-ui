@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Major, Kisebb \u00e9s Egzotikus Valuta Parit\u00e1sok",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>A k\u00fclf\u00f6ldi p\u00e9nznem a k\u00fclf\u00f6ldi orsz\u00e1gok p\u00e9nznem\u00e9nek t\u00f6r\u00f6k \u200b\u200bnyelven adott \u00e1ltal\u00e1nos neve. A parit\u00e1s az orsz\u00e1g valut\u00e1j\u00e1nak \u00e9rt\u00e9ke egy m\u00e1sik orsz\u00e1g valut\u00e1j\u00e1val szemben. Az els\u0151 p\u00e9nznem a p\u00e9nznemben az alap p\u00e9nznemre vonatkozik. A m\u00e1sodik valuta az ellenkez\u0151 p\u00e9nznem. Az USD \/ TRY az USD b\u00e1zis\u00e1rfolyam, m\u00edg a TRY az ellenkez\u0151 p\u00e9nznem. Az USD \/ TRY parit\u00e1s \u00e9rt\u00e9ke az amerikai doll\u00e1r \u00e9rt\u00e9ke a t\u00f6r\u00f6k \u200b\u200bl\u00edra ellen. P\u00e9ld\u00e1ul; Tegy\u00fck fel, hogy USD = 2, TRY = 1; Az USD \/ TRY parit\u00e1s \u00e9rt\u00e9ke 2 lesz. 1 USD = 2 t\u00f6r\u00f6k \u200b\u200bl\u00edra egyenl\u0151, ha egyszer\u0171s\u00edtj\u00fck. A k\u00f6zponti bankok monet\u00e1ris politik\u00e1ja \u00e9s gazdas\u00e1gi fejlem\u00e9nyei befoly\u00e1solj\u00e1k az orsz\u00e1gok valut\u00e1inak \u00e9rt\u00e9k\u00e9t, \u00e9s komoly befektet\u00e9si lehet\u0151s\u00e9geket teremtenek a valuta parit\u00e1sokban.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

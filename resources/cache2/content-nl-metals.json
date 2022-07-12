@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metals",
+        "Title2": "Toegang tot metaal tot enkel platform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metals<\/h2><\/div><div class=\"fw simpleContent\"><p>Metalen zijn de namen die worden gegeven aan alle goederen en producten in de handel. De Forex-markt is &#39;s werelds grootste financi\u00eble markt, waar u kunt handelen op metalen. Beleggingsinstrumenten, met name goud, aluminium en zilver; Met het voorrecht van Ekol Global Markets kunt u kopen en verkopen op de Forex-markt.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

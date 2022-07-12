@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "\u0130leti\u015fim",
+        "Title2": "",
+        "ShortDesc": "",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "\u0130leti\u015fim",
+        "SeoDesc": "Firmam\u0131z ve hizmetlerimiz hakk\u0131nda t\u00fcm soru, g\u00f6r\u00fc\u015f, \u00f6neri veya \u015fikayetlerinizi bu b\u00f6l\u00fcm \u00fczerinden bizler ile payla\u015fabilirsiniz.",
+        "SeoTags": "iletisim",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

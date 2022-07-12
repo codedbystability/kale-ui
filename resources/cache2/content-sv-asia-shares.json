@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 14,
+        "Title": "AS\u0130A Aktier",
+        "Title2": "N\u00e4stan varje land har en b\u00f6rs d\u00e4r b\u00f6rshandlade f\u00f6retag handlas.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AS\u0130A Aktier<\/h2><\/div><div class=\"fw simpleContent\"><p>Asien lager; avser en av motsvarande delar av huvudstaden i ett f\u00f6retag. Genom att k\u00f6pa aktier i ett f\u00f6retag blir du en av partnerna i f\u00f6retaget. N\u00e4r du investerar i aktier b\u00f6r du unders\u00f6ka f\u00f6retagets verksamhet, skulds\u00e4ttning, tillv\u00e4xtf\u00f6rv\u00e4ntningar, vinststatus, utdelning (vinstm\u00e4ngd) och kortfattat allt om f\u00f6retaget. Du kan dra nytta av aktieinvesteringar genom att v\u00e4lja framg\u00e5ngsrika, l\u00e5ngsiktiga och vinstgivande f\u00f6retag.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "asia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

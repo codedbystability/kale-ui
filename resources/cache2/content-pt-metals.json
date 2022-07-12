@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metais",
+        "Title2": "Acessar Metal para Plataforma \u00danica",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metais<\/h2><\/div><div class=\"fw simpleContent\"><p>Metais s\u00e3o os nomes dados a todos os bens e produtos no com\u00e9rcio. O mercado Forex \u00e9 o maior mercado financeiro do mundo, onde voc\u00ea pode negociar em metais. Instrumentos de investimento, em particular ouro, alum\u00ednio e prata; Com o privil\u00e9gio de Ekol Global Markets, voc\u00ea pode comprar e vender no mercado Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

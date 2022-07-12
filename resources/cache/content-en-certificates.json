@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certificates",
+        "Title2": "Our Official documents and certificates",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certificates<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - UN\u0130TED K\u0130NGDOM Ekol Global Markets Documents and certificates will be updated shortly.<\/p><p>After you scan the following QR code with your phone&#39;s camera to see our license document, the system will automatically forward you to the license document.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Licenses will be listed above as they are updated.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Certificates",
+        "SeoDesc": "It contains EkolFX is Certificates of Competence and the official documents  of our organization.",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

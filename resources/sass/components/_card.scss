@@ -1,0 +1,191 @@
+.c-card {
+  $card: &;
+  position: relative;
+  img {
+    position: relative;
+    z-index: 1;
+  }
+  &__content {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 $space-2;
+    svg {
+      width: 75px;
+      height: 75px;
+    }
+    h4 {
+      color: $color-white;
+      margin-top: $space-3;
+    }
+  }
+  &.radius {
+    border-radius: 15px;
+    img {
+      border-radius: 15px;
+    }
+    #{$card}__content {
+      border-radius: 15px;
+    }
+  }
+}
+
+.c-product-card {
+  $productCard: &;
+  display: flex;
+  border-radius: 15px;
+  background-color: $color-white;
+  &__header {
+    display: flex;
+    padding: $space-1;
+    background-color: $color-dark;
+    color: $color-white;
+    .product-name,
+    .product-price {
+      font-weight: $font-weight-bold;
+    }
+    .product-name {
+      display: flex;
+      align-items: flex-start;
+      line-height: 1;
+      &::before {
+        content: '';
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        margin-right: $space-050;
+        display: none;
+      }
+    }
+  }
+  &__content {
+    .product-chart {
+      background-color: #25242f;
+      background-image: url("data:image/svg+xml,%0A%3Csvg width='290px' height='121px' viewBox='0 0 290 121' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpolygon id='path-1' points='0 0 362 0 362 194 0 194'%3E%3C/polygon%3E%3C/defs%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'%3E%3Cg id='Group' transform='translate(-35.000000, -36.000000)'%3E%3Cpath d='M35,156.5 L325,156.5' id='Path' stroke='%23FFFFFF' opacity='0.1'%3E%3C/path%3E%3Cpath d='M35,116.5 L325,116.5' id='Path' stroke='%23FFFFFF' opacity='0.1'%3E%3C/path%3E%3Cpath d='M35,76.5 L325,76.5' id='Path' stroke='%23FFFFFF' opacity='0.1'%3E%3C/path%3E%3Cpath d='M35,36.5 L325,36.5' id='Path' stroke='%23FFFFFF' opacity='0.1'%3E%3C/path%3E%3Cg id='Clipped'%3E%3Cmask id='mask-2' fill='white'%3E%3Cuse xlink:href='%23path-1'%3E%3C/use%3E%3C/mask%3E%3Cg id='Path'%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+      background-position: center;
+      background-repeat: repeat-x;
+      min-height: 150px;
+    }
+    .product-price {
+      &__table {
+        padding: $space-1;
+        &__cell {
+          display: flex;
+          padding: $space-1 $space-025;
+          justify-content: space-between;
+          border-bottom: 1px solid rgba($color-black, 0.1);
+          font-size: $font-size-sm;
+          color: $color-dark;
+          font-weight: $font-weight-medium;
+          &:last-child {
+            border-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  &.vertical {
+    flex-direction: column;
+    #{$productCard}__header {
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 15px 15px 0 0;
+      flex: 0 0 40%;
+      .product-name {
+        font-size: $font-size-xxl;
+      }
+      .product-price {
+        font-size: $font-size-sm;
+        span {
+          margin-left: $space-1;
+          display: inline-block;
+          padding: $space-025 $space-075;
+          border-radius: 15px;
+        }
+      }
+    }
+    &.blue-skin {
+      #{$productCard}__header {
+        .product-price {
+          span {
+            background-color: $color-primary;
+          }
+        }
+      }
+    }
+    &.green-skin {
+      #{$productCard}__header {
+        .product-price {
+          span {
+            background-color: $color-success;
+          }
+        }
+      }
+    }
+    &.red-skin {
+      #{$productCard}__header {
+        .product-price {
+          span {
+            background-color: $color-error;
+          }
+        }
+      }
+    }
+  }
+  &.horizontal {
+    #{$productCard}__header {
+      flex-direction: column;
+      flex: 0 0 40%;
+      border-radius: 15px 0 0 15px;
+      align-items: center;
+      justify-content: center;
+      svg {
+        max-width: 50px;
+      }
+      .product-name {
+        margin-top: $space-2;
+        font-size: $font-size-xl;
+      }
+    }
+    #{$productCard}__content {
+      flex: 0 0 60%;
+    }
+  }
+  &.blue-skin {
+    #{$productCard}__header {
+      .product-name {
+        &::before {
+          display: inline-block;
+          background-color: $color-primary;
+        }
+      }
+    }
+  }
+  &.green-skin {
+    #{$productCard}__header {
+      .product-name {
+        &::before {
+          display: inline-block;
+          background-color: $color-success;
+        }
+      }
+    }
+  }
+  &.red-skin {
+    #{$productCard}__header {
+      .product-name {
+        &::before {
+          display: inline-block;
+          background-color: $color-error;
+        }
+      }
+    }
+  }
+}

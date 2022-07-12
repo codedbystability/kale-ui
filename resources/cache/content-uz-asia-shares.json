@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 14,
+        "Title": "AS\u0130A hissa",
+        "Title2": "Deyarli har bir mamlakatda ommaviy savdo qiladigan kompaniyalar sotuvga qo'yilgan birjalar mavjud.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AS\u0130A hissa<\/h2><\/div><div class=\"fw simpleContent\"><p>Osiyo hissasi; kompaniyaning kapitalining ekvivalent qismlaridan biriga tegishlidir. Kompaniyaning aktsiyalarini sotib olib, Siz ushbu kompaniyaning hamkorlaridan biriga aylanasiz. Qimmatli qog&#39;ozlarga investitsiyalar kiritishda kompaniyaning faoliyati, qarzdorligi, o&#39;sish istiqbollari, foydaning holati, dividend miqdori va kompaniyani qisqacha o&#39;rganish kerak. Siz muvaffaqiyatli, uzoq muddatli va foyda keltiruvchi kompaniyalarni tanlab, aktsiyadorlik investitsiyalaridan foydalanishingiz mumkin.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "asia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

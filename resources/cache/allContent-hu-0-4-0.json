@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "Kapjon hozz\u00e1f\u00e9r\u00e9st olyan platformokhoz, ahol a leggyorsabb m\u00f3don lehet befektetni.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>A MetaTrader 4 egy n\u00e9pszer\u0171 Forex keresked\u00e9si \u00e9s elemz\u00e9si platform, amely keresked\u00e9si valut\u00e1kat, r\u00e9szv\u00e9nyeket, nemesf\u00e9meket \u00e9s CFD-ket k\u00edn\u00e1l a r\u00e9szv\u00e9nyindexekben. Ebben a r\u00e9szben az Ekol FX \u00fcgyfelek let\u00f6lthetik a MetaTrader 4 kereskedelmi platformot \u00e9s mobilalkalmaz\u00e1sokat PDA-ra, iPhone-ra, iPadre \u00e9s Androidra.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">MINDEN JELZ\u0150 SZEM\u00c9LYEK<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">K\u00d6NNY\u00dc ES GYORS PENZUGY\u0130 M\u00dcVELETEK<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">\u0130NGYENES FOREX JELEK<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">KETT\u00d6S K\u00d6ZVETLEN BEFEKTETES<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">ELK\u00dcLD\u00d6TT ES MEGNY\u0130TOTT ALLASPONT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform funkci\u00f3k<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Egy jelsz\u00f3 minden platformon<\/li><li>Rendel\u00e9s \u00e9s nyitott poz\u00edci\u00f3k\u00f6vet\u00e9s<\/li><li>Kijelz\u00e9si limit \u00e9s biztos\u00edt\u00e9k inform\u00e1ci\u00f3<\/li><li>Technikai elemz\u00e9s \u00e9s diagramok a Tradingview-val<\/li><li>Megrendel\u00e9sek k\u00fcld\u00e9se grafikusan<\/li><li>Egy kattint\u00e1sos megrendel\u00e9s beny\u00fajt\u00e1sa<\/li><li>Jegy vagy lista n\u00e9zet, rendel\u00e9si lista elk\u00fcld\u00e9se<\/li><li>T\u00f6bb mint 40 parit\u00e1s, arany, \u00e1ru \u00e9s CFD befektet\u00e9s<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Rendszerk\u00f6vetelm\u00e9nyek<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSZOR<\/span><span class=\"val\">\u01305 \u00c9S V\u00c9GE<\/span><\/li><li><span class=\"title\">INTERNET KAPCSOLAT<\/span><span class=\"val\">4 MB \u00c9S V\u00c9GE<\/span><\/li><li><span class=\"title\">K\u00c9PERNY\u0150FELBONT\u00c1S<\/span><span class=\"val\">1920X1080 (AJ\u00c1NLOTT)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB \u00c9S V\u00c9GE<\/span><\/li><li><span class=\"title\">OPER\u00c1CI\u00d3S RENDSZER<\/span><span class=\"val\">WINDOWS 7 \u00c9S V\u00c9GE, MAC OS<\/span><\/li><li><span class=\"title\">B\u00d6NG\u00c9SZ\u0150<\/span><span class=\"val\">ALL BROWSER (V\u00c9GE CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

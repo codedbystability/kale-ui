@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Paridades de Moeda Maior, Menor e Ex\u00f3tica",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>A moeda estrangeira \u00e9 o nome geral dado \u00e0s moedas dos pa\u00edses estrangeiros em turco. Paridade \u00e9 o valor da moeda de um pa\u00eds em rela\u00e7\u00e3o \u00e0 moeda de outro pa\u00eds. A primeira moeda na moeda refere-se \u00e0 moeda base. A segunda moeda \u00e9 a moeda oposta. USD \/ TRY \u00e9 a taxa de c\u00e2mbio b\u00e1sica do d\u00f3lar, enquanto TRY \u00e9 a moeda oposta. O valor da paridade USD \/ TRY \u00e9 o valor do d\u00f3lar dos EUA contra a Lira Turca. Por exemplo; Suponha que USD = 2, TRY = 1; O valor da paridade USD \/ TRY ser\u00e1 2. 1 USD = 2 Liras turcas \u00e9 igual se simplificarmos. As pol\u00edticas monet\u00e1rias e a evolu\u00e7\u00e3o econ\u00f4mica dos bancos centrais afetam o valor das moedas dos pa\u00edses e criam oportunidades de investimento s\u00e9rias nas paridades cambiais.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Tan\u00fas\u00edtv\u00e1nyok",
+        "Title2": "Hivatalos dokumentumok \u00e9s tan\u00fas\u00edtv\u00e1nyok",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Tan\u00fas\u00edtv\u00e1nyok<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - HUNGARY Ekol Global Markets A dokumentumok \u00e9s tan\u00fas\u00edtv\u00e1nyok hamarosan friss\u00fclnek.<\/p><p>Miut\u00e1n az al\u00e1bbi QR-k\u00f3dot a telefon f\u00e9nyk\u00e9pez\u0151g\u00e9p\u00e9vel szkennelte a licencdokumentum megtekint\u00e9s\u00e9hez, a rendszer automatikusan tov\u00e1bb\u00edtja \u00d6nt a licencdokumentumhoz.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Az enged\u00e9lyeket a fentiekben felsoroljuk, ahogy azok friss\u00fclnek.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Contact",
+        "Title2": "U kunt ons berichten sturen door de contactgegevens of het formulier in te vullen!",
+        "ShortDesc": "<h2>Wij staan altijd voor u klaar<br \/><br \/>We hebben een geweldig team van uitstekende EkolFX-gebruikers die altijd beschikbaar zijn voor vragen, opmerkingen, suggesties of klachten. U kunt contact met ons opnemen via onze onderstaande communicatiekanalen of via ons contactformulier.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

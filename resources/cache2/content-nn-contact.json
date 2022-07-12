@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Ta kontakt med",
+        "Title2": "Du kan sende oss meldinger ved \u00e5 fylle ut kontaktinformasjon eller skjema!",
+        "ShortDesc": "<h2>Vi er alltid klare for deg<br \/><br \/>Vi har et godt team av fremragende EkolFX-brukere som alltid er tilgjengelige for sp\u00f8rsm\u00e5l, kommentarer, forslag eller klager. Du kan kontakte oss ved \u00e5 bruke v\u00e5re kommunikasjonskanaler under eller bruke v\u00e5rt kontaktskjema.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

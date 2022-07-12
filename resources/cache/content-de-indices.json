@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indizes",
+        "Title2": "Zugriff auf die World Stock Exchange-Indizes \u00fcber eine einzige Plattform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indizes<\/h2><\/div><div class=\"fw simpleContent\"><p>Aktienmarktindizes, wird verwendet, um die allgemeine Richtung der B\u00f6rse zu bestimmen. Die allgemeinen B\u00f6rsenkurse an den einzelnen B\u00f6rsen werden \u00fcber spezielle Indizes \u00fcberwacht. Aktienindizes enthalten mehr als eine Aktie und stellen einen Gesamtwert dar, der sich aus mathematischen Berechnungen ergibt, bei denen die Performance von Aktien gemessen wird.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Commodities",
+        "Title2": "Access to Commodities from a Single Platform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Commodities<\/h2><\/div><div class=\"fw simpleContent\"><p>Commodities, precious metals and metals are very important sources for national economies. Gold, which has been popular for years, is perceived as a safe haven by investors. In addition to the gold in Forex, silver, platinum and other precious metals that can be invested in palladium.<\/p><p>With Ekol Fx&#39;s fast processing platform, you can easily carry out your operations for 5\/24 hours. Take the place of fast and secure investment in Ekol Fx and become one of the professional investors!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Commodities",
+        "SeoDesc": "All commodities and products subject to trade are called commodities. Access Commodities from one platform and trade instantly through Ekol Global Markets. ",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

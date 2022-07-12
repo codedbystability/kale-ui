@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metaller",
+        "Title2": "F\u00e5 \u00e5tkomst till metall till enkel plattform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metaller<\/h2><\/div><div class=\"fw simpleContent\"><p>Metaller \u00e4r namnen p\u00e5 alla varor och produkter i handeln. Forexmarknaden \u00e4r v\u00e4rldens st\u00f6rsta finansmarknad, d\u00e4r du kan handla p\u00e5 metaller. Investeringsinstrument, s\u00e4rskilt guld, aluminium och silver; Med f\u00f6rm\u00e5nen f\u00f6r Ekol Global Markets kan du k\u00f6pa och s\u00e4lja p\u00e5 Forex marknaden.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

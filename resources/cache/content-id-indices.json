@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indeks",
+        "Title2": "Akses ke Indeks Bursa Efek Dunia dari satu platform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indeks<\/h2><\/div><div class=\"fw simpleContent\"><p>Indeks Narket Saham, digunakan untuk menentukan arah umum pasar saham. Pertukaran umum harga di setiap pasar saham dipantau melalui indeks khusus. Indeks saham mengandung lebih dari satu saham dan merupakan nilai total yang dihasilkan dari perhitungan matematika di mana kinerja saham diukur.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 14,
+        "Title": "AS\u0130A r\u00e9szv\u00e9nyek",
+        "Title2": "Szinte minden orsz\u00e1gban van olyan t\u0151zsde, amelyben a nyilv\u00e1nosan forgalmazott v\u00e1llalatok kereskednek.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AS\u0130A r\u00e9szv\u00e9nyek<\/h2><\/div><div class=\"fw simpleContent\"><p>\u00c1zsia \u00e1llom\u00e1ny; a t\u00e1rsas\u00e1g t\u0151ke egyen\u00e9rt\u00e9k\u0171 r\u00e9sz\u00e9nek egyike. Egy v\u00e1llalat r\u00e9szv\u00e9nyeinek megv\u00e1s\u00e1rl\u00e1s\u00e1val \u00d6n a v\u00e1llalat egyik partnere lesz. A r\u00e9szv\u00e9nyekbe t\u00f6rt\u00e9n\u0151 befektet\u00e9s sor\u00e1n meg kell vizsg\u00e1lnia a v\u00e1llalat tev\u00e9kenys\u00e9g\u00e9t, elad\u00f3sodotts\u00e1g\u00e1t, n\u00f6veked\u00e9si v\u00e1rakoz\u00e1sait, nyeres\u00e9g\u00e1llapot\u00e1t, osztal\u00e9k\u00e1t (nyeres\u00e9g \u00f6sszege) \u00e9s r\u00f6viden mindent a v\u00e1llalatr\u00f3l. A r\u00e9szv\u00e9nybefektet\u00e9seket a sikeres, hossz\u00fa t\u00e1v\u00fa \u00e9s nyeres\u00e9ges t\u00e1rsas\u00e1gok kiv\u00e1laszt\u00e1s\u00e1val \u00e9rheti el.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "asia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

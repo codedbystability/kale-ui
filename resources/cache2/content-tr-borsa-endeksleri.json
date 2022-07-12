@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Borsa Endeksleri",
+        "Title2": "D\u00fcnya\u2019n\u0131n en b\u00fcy\u00fck borsalar\u0131na ayn\u0131 platform \u00fczerinden ula\u015fabilirsiniz.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Borsa Endeksleri<\/h2><\/div><div class=\"fw simpleContent\"><p>T\u00fcrkiye&rsquo;de borsa dedi\u011fimizde hemen hemen herkesin akl\u0131na borsa \u0130stanbul gelir. Ancak D\u00fcnya&rsquo;da borsa dedi\u011fimizde; Amerikan Borsalar\u0131 (DJ, S&amp;P, Nasdaq), Alman Borsas\u0131 (DAX) , Asya Borsalar\u0131 (HSI, NIK) d\u00fcnyada en \u00e7ok i\u015flem g\u00f6ren endekslerdir. Ayn\u0131 platform \u00fczerinden siz de d\u00fcnyan\u0131n \u00f6nde gelen endesklerine yat\u0131r\u0131m yapabilirsiniz.<\/p><\/div>",
+        "LongDesc": "T\u00fcrkiye\u2019de borsa dedi\u011fimizde hemen hemen herkesin akl\u0131na borsa \u0130stanbul gelir. Ancak D\u00fcnya\u2019da borsa dedi\u011fimizde; Amerikan Borsalar\u0131 (DJ, S&P, Nasdaq), Alman Borsas\u0131 (DAX) , Asya Borsalar\u0131 (HSI, NIK) d\u00fcnyada en \u00e7ok i\u015flem g\u00f6ren endekslerdir. Ayn\u0131 platform \u00fczerinden siz de d\u00fcnyan\u0131n \u00f6nde gelen endesklerine yat\u0131r\u0131m yapabilirsiniz.",
+        "Link": null,
+        "SeoTitle": "Borsa Endeksleri",
+        "SeoDesc": "Borsa endeksleri, hisselerdeki fiyat hareketlerinden hareket ederek, ait oldu\u011fu borsan\u0131n y\u00f6n\u00fcn\u00fcn belirlenmesinde kullan\u0131lmaktad\u0131r.",
+        "SeoTags": "borsa-endeksleri",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

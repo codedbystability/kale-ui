@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "K\u0131ymetli Madenler ",
+        "Title2": " K\u0131ymetli Madenlere tek platformdan eri\u015fin, an\u0131nda i\u015flem yap\u0131n..",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">K\u0131ymetli Madenler<\/h2><\/div><div class=\"fw simpleContent\"><p>K\u0131ymetli madenler her \u00fclkenin sahip olmak isteyece\u011fi \u00f6nemli kaynaklard\u0131r. G\u00fcn\u00fcm\u00fczde Petrol, do\u011falgaz, paladyum, platin gibi yeralt\u0131 kaynaklar\u0131 \u00fclkelerin d\u00fcnya ekonomisinde ad\u0131ndan s\u00f6z ettirmelerini sa\u011flayabilmektedir. Siz de Forex piyasas\u0131nda ticaret yaparak en yeni nesil i\u015flem platformu MetaTrader 5 ile bu kaynaklar\u0131 tek tu\u015f ile alabilir veya satabilirsiniz.<\/p><\/div>",
+        "LongDesc": "K\u0131ymetli madenler her \u00fclkenin sahip olmak isteyece\u011fi \u00f6nemli kaynaklard\u0131r. G\u00fcn\u00fcm\u00fczde Petrol, do\u011falgaz, paladyum, platin gibi yeralt\u0131 kaynaklar\u0131 \u00fclkelerin d\u00fcnya ekonomisinde ad\u0131ndan s\u00f6z ettirmelerini sa\u011flayabilmektedir. Siz de Forex piyasas\u0131nda ticaret yaparak en yeni nesil i\u015flem platformu MetaTrader 5 ile bu kaynaklar\u0131 tek tu\u015f ile alabilir veya satabilirsiniz.",
+        "Link": null,
+        "SeoTitle": "K\u0131ymetli Madenler",
+        "SeoDesc": "Kale FX G\u00fcvencesiyle; Petrol, do\u011falgaz, paladyum, platin gibi yeralt\u0131 kaynaklar\u0131n\u0131 tek platform \u00fczerinden (MetaTrader 5) kolayca al\u0131p, satabilirsiniz.",
+        "SeoTags": "kiymetli-madenler",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

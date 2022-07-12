@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metals",
+        "Title2": "Access Metal to Single Platform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metals<\/h2><\/div><div class=\"fw simpleContent\"><p>Metals are the names given to all goods and products in trade. The Forex market is the world&#39;s largest financial market, where you can trade on metals. Investment instruments, in particular gold, aluminum and silver; With the privilege of Ekol Global Markets, you can buy and sell in the Forex market.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": " Forex Metal Trading",
+        "SeoDesc": "In Forex markets; You can purchase and sell instruments such as gold, aluminum and silver with the privilege of Ekol Global Markets.",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,75 @@
+<section
+  class="c-create-demo{% if pull == true %} is-pull-up{% endif %}{% if margin == true %} is-margin-top{% endif %}{% if bg == true %} is-bg{% endif %}{% if shadow == true %} is-shadow{% endif %}"
+>
+  <div class="container">
+    <div class="row">
+      <div
+        class="col-12 d-flex flex-column flex-sm-column flex-lg-row justify-content-between align-items-start align-items-sm-start align-items-lg-center"
+      >
+        <h3>{{LangValue('slider_form_title')}}</h3>
+        <h6 class="text-sm">
+          {{LangValue('slider_4_line4')}}
+        </h6>
+      </div>
+    </div>
+    <form
+      id="create-demo-form"
+      class="mt-1"
+      data-form-type="demo"
+      data-submit-msg-success="{{LangValue('forms_return_custom3')}}"
+      data-submit-msg-err1="{{LangValue('forms_return_error')}}"
+      data-submit-msg-err2="{{ LangValue('forms_return_custom2') }}"
+      data-sms-code-title="Sms Doğrulama"
+      data-sms-code-desc="Kayıt olmak için telefonunuza gönderilen kodu <b></b> sn içerisinde yazınız."
+      data-sms-code-error1="Lütfen size gönderilen doğrulama kodunu yazınız."
+      data-sms-code-error2="Lütfen size gönderilen kodunu 6 haneli olacak sekilde yazınız."
+      data-sms-code-btn="GÖNDER"
+    >
+      <div class="row">
+        <div class="col-12 col-md-3">
+          <input
+            type="text"
+            class="create-demo-form-input form-input light form-input__outline"
+            placeholder="{{LangValue('slider_form_name')}}"
+            data-validation="required"
+            name="name"
+          />
+        </div>
+        <div class="col-12 col-md-3">
+          <input
+            type="tel"
+            class="create-demo-form-input form-input light form-input__outline"
+            placeholder="{{LangValue('slider_form_phone')}}"
+            data-validation="required phone"
+            name="phone"
+          />
+        </div>
+        <div class="col-12 col-md-3">
+          <input
+            type="text"
+            class="create-demo-form-input form-input light form-input__outline"
+            placeholder="{{LangValue('slider_form_email')}}"
+            data-validation="required email"
+             name="email"
+          />
+        </div>
+        <div class="col-12 col-md-3">
+         
+          <button
+            id="create-demo-btn"
+            type="submit"
+            class="btn btn-primary btn-lg btn-block btn-loading"
+          >
+            {{LangValue('slider_form_button_text')}}
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</section>
+<script type="text/javascript">
+  // function onSubmitInvisivibleCaptcha() {
+    // console.log('onSubmitInvisivibleCaptcha');
+    // grecaptcha.execute();
+  // }
+</script>

@@ -1,0 +1,28 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Name": "EkolFX Ticaret ve Yazilim A.S.",
+        "Desc1": "Licenced existing trade names: EkolFX Trading B.V. KVK: 45636286",
+        "Desc2": "",
+        "Desc3": "",
+        "Whatsapp": "+90 543 726 97 86",
+        "Facebook": "facebok.com\/ekolfx",
+        "Instagram": "instagram.com\/ekolfx",
+        "Twitter": "twitter.com\/ekolfx",
+        "Youtube": "youtube.com\/ekolfx",
+        "Adress": "",
+        "City": "",
+        "Country": "",
+        "Phone": "0850 123 45 67",
+        "Fax": "",
+        "Mobile": "",
+        "Mail": "info@ekolfx.com",
+        "LogoTitle": "EKOL GLOBAL MARKETS - MALAY",
+        "SeoTitle": "EKOL GLOBAL MARKETS MALAY",
+        "SeoDesc": "EKOL GLOBAL MARKETS MALAY",
+        "SeosubFix": "EKOL GLOBAL MARKETS MALAY"
+    }
+}

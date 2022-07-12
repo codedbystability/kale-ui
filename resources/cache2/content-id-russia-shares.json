@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 15,
+        "Title": "saham rusia",
+        "Title2": "Hampir setiap negara memiliki bursa efek di mana perusahaan publik diperdagangkan.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">saham rusia<\/h2><\/div><div class=\"fw simpleContent\"><p>Saham Rusia; mengacu pada salah satu bagian yang setara dengan modal perusahaan. Dengan membeli saham perusahaan, Anda menjadi salah satu mitra perusahaan itu. Ketika Anda berinvestasi dalam saham, Anda harus menyelidiki aktivitas perusahaan, hutang, harapan pertumbuhan, status laba, dividen (jumlah laba) dan secara singkat segala sesuatu tentang perusahaan. Anda dapat mengambil manfaat dari investasi saham dengan memilih perusahaan yang sukses, jangka panjang dan menghasilkan laba.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "russia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

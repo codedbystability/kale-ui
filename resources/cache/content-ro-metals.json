@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metale",
+        "Title2": "Accesa\u021bi platforma metalic\u0103 la platform\u0103 unic\u0103",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metale<\/h2><\/div><div class=\"fw simpleContent\"><p>Metalele sunt denumirile tuturor produselor \u0219i produselor din comer\u021b. Pia\u021ba Forex este cea mai mare pia\u021b\u0103 financiar\u0103 din lume, unde pute\u021bi tranzac\u021biona pe metale. Instrumente de investi\u021bii, \u00een special aur, aluminiu \u0219i argint; Cu privilegiul Ekol Global Markets, pute\u021bi cump\u0103ra \u0219i vinde pe pia\u021ba Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

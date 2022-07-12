@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "Akcie USA",
+        "Title2": "T\u00e9m\u011b\u0159 ka\u017ed\u00e1 zem\u011b m\u00e1 burzu, na kter\u00e9 jsou obchodov\u00e1ny ve\u0159ejn\u011b obchodovan\u00e9 spole\u010dnosti.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Akcie USA<\/h2><\/div><div class=\"fw simpleContent\"><p>USA Stock; odkazuje na jednu z ekvivalentn\u00edch \u010d\u00e1st\u00ed kapit\u00e1lu spole\u010dnosti. N\u00e1kupem akci\u00ed spole\u010dnosti se stanete jedn\u00edm z partner\u016f t\u00e9to spole\u010dnosti. Kdy\u017e investujete do akci\u00ed, m\u011bli byste prozkoumat aktivity spole\u010dnosti, zadlu\u017eenost, o\u010dek\u00e1v\u00e1n\u00ed r\u016fstu, stav zisku, dividendu (v\u00fd\u0161e zisku) a stru\u010dn\u011b v\u0161e o spole\u010dnosti. M\u016f\u017eete t\u011b\u017eit z akciov\u00fdch investic v\u00fdb\u011brem \u00fasp\u011b\u0161n\u00fdch, dlouhodob\u00fdch a ziskov\u00fdch spole\u010dnost\u00ed.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

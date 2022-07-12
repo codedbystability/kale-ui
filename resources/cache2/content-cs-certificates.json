@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certifik\u00e1ty",
+        "Title2": "Na\u0161e ofici\u00e1ln\u00ed dokumenty a certifik\u00e1ty",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certifik\u00e1ty<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - CZECH Ekol Global Markets Dokumenty a certifik\u00e1ty budou brzy aktualizov\u00e1ny.<\/p><p>Po naskenov\u00e1n\u00ed n\u00e1sleduj\u00edc\u00edho k\u00f3du QR se fotoapar\u00e1tem telefonu zobraz\u00ed licen\u010dn\u00ed dokument a syst\u00e9m v\u00e1m automaticky p\u0159ed\u00e1 licen\u010dn\u00ed dokument.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Licence budou uvedeny v\u00fd\u0161e, proto\u017ee budou aktualizov\u00e1ny.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indici",
+        "Title2": "Accesso agli indici World Stock Exchange da un'unica piattaforma.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indices<\/h2><\/div><div class=\"fw simpleContent\"><p>Indici del mercato azionario, &amp; nbsp; \u00e8 usato per determinare la direzione generale del mercato azionario. Gli scambi generali di prezzi in ciascuna borsa sono monitorati attraverso indici speciali. Gli indici azionari contengono pi\u00f9 di un titolo e sono un valore totale derivante da calcoli matematici in cui viene misurata la performance degli stock.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

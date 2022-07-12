@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Mahsulotlar",
+        "Title2": "Yagona platformadan mollarga kirish",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Mahsulotlar<\/h2><\/div><div class=\"fw simpleContent\"><p>Tovarlar, qimmatbaho metallar va metallar milliy iqtisodiyot uchun juda muhim manbadir. Ko&#39;p yillardan buyon mashhur bo&#39;lgan Oltin investorlarning xavfsiz hududi sifatida qabul qilinadi. Forex, oltin, kumush, platina va boshqa qimmatbaho metallarga qo&#39;shimcha ravishda palladiyga investitsiya qilish mumkin.<\/p><p>Ekol FX ning tezkor ishlov berish platformasi yordamida siz operatsiyalaringizni 5\/24 soat osongina bajarishingiz mumkin. &quot;Ekol Fx&quot; ga tez va xavfsiz investitsiyalar o&#39;rnini egallab oling va professional investorlardan biriga aylang!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

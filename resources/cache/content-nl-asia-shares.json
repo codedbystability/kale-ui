@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 14,
+        "Title": "AS\u0130A aandelen",
+        "Title2": "Bijna elk land heeft een beurs waar beursgenoteerde bedrijven worden verhandeld.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AS\u0130A aandelen<\/h2><\/div><div class=\"fw simpleContent\"><p>Azi\u00eb Stock; verwijst naar een van de equivalente delen van het kapitaal van een bedrijf. Door aandelen van een bedrijf te kopen, wordt u een van de partners van dat bedrijf. Wanneer u in aandelen belegt, moet u de activiteiten van het bedrijf, de schuldenlast, de groeiverwachtingen, de winststatus, het dividend (winstbedrag) en kortweg alles over het bedrijf onderzoeken. U kunt profiteren van aandeleninvesteringen door succesvolle, langdurige en winstgevende bedrijven te kiezen.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "asia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

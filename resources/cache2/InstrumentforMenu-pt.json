@@ -1,0 +1,368 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 7,
+            "Title": "Forex",
+            "Title2": "Paridades de Moeda Maior, Menor e Ex\u00f3tica",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>A moeda estrangeira \u00e9 o nome geral dado \u00e0s moedas dos pa\u00edses estrangeiros em turco. Paridade \u00e9 o valor da moeda de um pa\u00eds em rela\u00e7\u00e3o \u00e0 moeda de outro pa\u00eds. A primeira moeda na moeda refere-se \u00e0 moeda base. A segunda moeda \u00e9 a moeda oposta. USD \/ TRY \u00e9 a taxa de c\u00e2mbio b\u00e1sica do d\u00f3lar, enquanto TRY \u00e9 a moeda oposta. O valor da paridade USD \/ TRY \u00e9 o valor do d\u00f3lar dos EUA contra a Lira Turca. Por exemplo; Suponha que USD = 2, TRY = 1; O valor da paridade USD \/ TRY ser\u00e1 2. 1 USD = 2 Liras turcas \u00e9 igual se simplificarmos. As pol\u00edticas monet\u00e1rias e a evolu\u00e7\u00e3o econ\u00f4mica dos bancos centrais afetam o valor das moedas dos pa\u00edses e criam oportunidades de investimento s\u00e9rias nas paridades cambiais.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "forex",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-bar-chart",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AUDCAD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDJPY",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 8,
+            "Title": "Metais",
+            "Title2": "Acessar Metal para Plataforma \u00danica",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metais<\/h2><\/div><div class=\"fw simpleContent\"><p>Metais s\u00e3o os nomes dados a todos os bens e produtos no com\u00e9rcio. O mercado Forex \u00e9 o maior mercado financeiro do mundo, onde voc\u00ea pode negociar em metais. Instrumentos de investimento, em particular ouro, alum\u00ednio e prata; Com o privil\u00e9gio de Ekol Global Markets, voc\u00ea pode comprar e vender no mercado Forex.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metals",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-magnet-hand-drawn-tool-outline",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "XAGAUD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 9,
+            "Title": "\u00cdndices",
+            "Title2": "Acesso aos \u00cdndices da Bolsa de Valores do Mundo a partir de uma \u00fanica plataforma.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u00cdndices<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices, \u00e9 usado para determinar a dire\u00e7\u00e3o geral do mercado de a\u00e7\u00f5es. As trocas gerais de pre\u00e7os em cada mercado de a\u00e7\u00f5es s\u00e3o monitoradas por meio de \u00edndices especiais. Os \u00edndices de a\u00e7\u00f5es cont\u00eam mais de um estoque e s\u00e3o um valor total resultante de c\u00e1lculos matem\u00e1ticos nos quais o desempenho dos estoques \u00e9 medido.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "indices",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-profit",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "DAXEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "F40EUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "FTSGBP",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 10,
+            "Title": "Commodities",
+            "Title2": "Acesso a commodities a partir de uma plataforma \u00fanica",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Commodities<\/h2><\/div><div class=\"fw simpleContent\"><p>Commodities, metais preciosos e metais s\u00e3o fontes muito importantes para as economias nacionais. O ouro, que \u00e9 popular h\u00e1 anos, \u00e9 percebido como um porto seguro pelos investidores. Al\u00e9m do ouro em Forex, prata, platina e outros metais preciosos que podem ser investidos em pal\u00e1dio.<\/p><p>Com a plataforma de processamento r\u00e1pido da Ekol Fx, voc\u00ea pode facilmente realizar suas opera\u00e7\u00f5es por 5 a 24 horas. Tome o lugar do investimento r\u00e1pido e seguro na Ekol Fx e torne-se um dos investidores profissionais!<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "commodities",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-stone",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "WTIUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BRNUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CUCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 11,
+            "Title": "Criptomoeda",
+            "Title2": "Crypto Money \u00e9 o dinheiro eletr\u00f4nico b\u00e1sico ou dinheiro digital",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Criptomoeda<\/h2><\/div><div class=\"fw simpleContent\"><p>O Crypto Money \u00e9 basicamente dinheiro eletr\u00f4nico ou dinheiro digital. Mas como no banco online, ele n\u00e3o tem um equivalente f\u00edsico. \u00c9 uma moeda que nunca pode ser vista ou tocada, exceto para exibi\u00e7\u00f5es digitais. As moedas de criptografia s\u00e3o moedas que podem ser transmitidas de pessoa para pessoa e armazenadas em bolsas virtuais totalmente seguras, n\u00e3o conectadas a nenhum pa\u00eds ou autoridade. \u00c9 um sistema global de transfer\u00eancia de dinheiro, pagamento e investimento que pode ser transferido de pessoa para pessoa, n\u00e3o do interbanc\u00e1rio. As moedas de criptografia que come\u00e7am com Bitcoin criaram seu pr\u00f3prio mercado com muitos tipos diferentes. Entre estes est\u00e3o Bitcoin, Litecoin e Ethereum. As moedas criptogr\u00e1ficas, que s\u00e3o usadas como sistema de pagamento em muitas \u00e1reas da vida, s\u00e3o vistas como o sistema financeiro do futuro.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "cyrpto-currency",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-cryptography",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "BATUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BCHUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BTCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 12,
+            "Title": "A\u00e7\u00f5es dos EUA",
+            "Title2": "Quase todos os pa\u00edses t\u00eam uma bolsa de valores na qual as empresas de capital aberto s\u00e3o negociadas.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">A\u00e7\u00f5es dos EUA<\/h2><\/div><div class=\"fw simpleContent\"><p>EUA Stock; refere-se a uma das partes equivalentes do capital de uma empresa. Ao comprar a\u00e7\u00f5es de uma empresa, voc\u00ea se torna um dos parceiros dessa empresa. Quando voc\u00ea investe em a\u00e7\u00f5es, voc\u00ea deve investigar as atividades da empresa, endividamento, expectativas de crescimento, status de lucro, dividendos (quantidade de lucro) e brevemente tudo sobre a empresa. Voc\u00ea pode se beneficiar do investimento em a\u00e7\u00f5es escolhendo empresas de sucesso, de longo prazo e lucrativas.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "usa-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "en.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AAPL",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AMZN",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 13,
+            "Title": "A\u00e7\u00f5es da UE",
+            "Title2": "Quase todos os pa\u00edses t\u00eam uma bolsa de valores na qual as empresas de capital aberto s\u00e3o negociadas.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">A\u00e7\u00f5es da UE<\/h2><\/div><div class=\"fw simpleContent\"><p>Estoque da Europa; refere-se a uma das partes equivalentes do capital de uma empresa. Ao comprar a\u00e7\u00f5es de uma empresa, voc\u00ea se torna um dos parceiros dessa empresa. Quando voc\u00ea investe em a\u00e7\u00f5es, voc\u00ea deve investigar as atividades da empresa, endividamento, expectativas de crescimento, status de lucro, dividendos (quantidade de lucro) e brevemente tudo sobre a empresa. Voc\u00ea pode se beneficiar do investimento em a\u00e7\u00f5es escolhendo empresas de sucesso, de longo prazo e lucrativas.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "eu-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "eu.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "ADIDAS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AI",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AIR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 14,
+            "Title": "A\u00e7\u00f5es ASISA",
+            "Title2": "Quase todos os pa\u00edses t\u00eam uma bolsa de valores na qual as empresas de capital aberto s\u00e3o negociadas.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">A\u00e7\u00f5es ASISA<\/h2><\/div><div class=\"fw simpleContent\"><p>A\u00e7\u00f5es da \u00c1sia; refere-se a uma das partes equivalentes do capital de uma empresa. Ao comprar a\u00e7\u00f5es de uma empresa, voc\u00ea se torna um dos parceiros dessa empresa. Quando voc\u00ea investe em a\u00e7\u00f5es, voc\u00ea deve investigar as atividades da empresa, endividamento, expectativas de crescimento, status de lucro, dividendos (quantidade de lucro) e brevemente tudo sobre a empresa. Voc\u00ea pode se beneficiar do investimento em a\u00e7\u00f5es escolhendo empresas de sucesso, de longo prazo e lucrativas.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "asia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-asia",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AIA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "Canon",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ChinaMob",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 15,
+            "Title": "a\u00e7\u00f5es russia",
+            "Title2": "Quase todos os pa\u00edses t\u00eam uma bolsa de valores na qual as empresas de capital aberto s\u00e3o negociadas.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">a\u00e7\u00f5es russia<\/h2><\/div><div class=\"fw simpleContent\"><p>Estoque da R\u00fassia; refere-se a uma das partes equivalentes do capital de uma empresa. Ao comprar a\u00e7\u00f5es de uma empresa, voc\u00ea se torna um dos parceiros dessa empresa. Quando voc\u00ea investe em a\u00e7\u00f5es, voc\u00ea deve investigar as atividades da empresa, endividamento, expectativas de crescimento, status de lucro, dividendos (quantidade de lucro) e brevemente tudo sobre a empresa. Voc\u00ea pode se beneficiar do investimento em a\u00e7\u00f5es escolhendo empresas de sucesso, de longo prazo e lucrativas.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "russia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "ru.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AFLT",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ALRS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CHMF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        }
+    ]
+}

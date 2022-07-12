@@ -1,0 +1,63 @@
+<style>
+.c-card__content img {
+  max-width: 75px;
+  max-height: 75px;
+  border-radius: 0px!important;
+  display: unset!important;
+}
+</style>
+<div class="c-section dark-style s-investment-diversity">
+    <div class="c-section__title">
+        <div class="container">
+            <h1>{{LangValue('index_c7_h1')}}</h1>
+        </div>
+    </div>
+    <div class="c-section__content">
+        <div class="container mt-2">
+            <div class="row">
+                <div class="col s-investment-diversity__nav">
+                    {% for rows in data.instrumentsList %}
+                      <a href="#" data-content="{{ rows.SeoDesc}}">{{ rows.Title }}</a>
+
+                    {% endfor %}
+               </div>
+            </div>
+            <div class="row mt-3 mb-3">
+                <div class="col-12 col-md-4 d-inline-flex align-items-center">
+                    <h5 class="s-investment-diversity__text">{{LangValue('index_c7_h2')}}</h5>
+                </div>
+                <div class="col-12 col-md-8">
+                    <div class="carousel__wrapper" data-pull-right>
+                        <div class="carousel">
+                          {% for rows in data.instrumentsList %}
+                            <div class="carousel-cell">
+                              <div class="c-card radius">
+                                <img src="assets/img/{{rows.Id}}-bg.png" alt="">
+                                <div class="c-card__content">
+                                  <a href="{{localizeURL(rows.SeoTags) }}">
+                                    <img src="assets/img/{{rows.Id}}-icon.png" />
+                                    <h4>{{ rows.Title }} </h4>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="c-section__footer" >
+        <div class="container text-center">
+            <a href="{{localizeURL('/live') }}" class="btn btn-primary btn-show-all">
+
+                {{LangValue('index_c7_tb1')}}
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                    <defs/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M.763129 5.81769H6.665c.322 0 .483.45577.253.72386L5.17 8.57909c-.276.32172-.276.85791 0 1.17962.276.32169.736.32169 1.012 0l3.611-4.1823c.276-.32172.276-.85791 0-1.17963L6.228.241287C6.09.0804284 5.906-6.2e-7 5.722-6.2e-7S5.354.0804285 5.216.241287c-.276.321716-.276.857913 0 1.179623l1.702 2.01073c.23.26809.069.72386-.253.72386H.717127c-.413999 0-.7589996.42895-.71299903.91152.04599953.42896.39100103.75067.75900103.75067z"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>

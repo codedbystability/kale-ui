@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": " Contact",
+        "Title2": " Vous pouvez nous envoyer des messages en remplissant les coordonn\u00e9es ou le formulaire! ",
+        "ShortDesc": "<h2>Nous sommes toujours pr\u00eats pour vous<br \/><br \/>Nous avons une excellente \u00e9quipe d&#39;utilisateurs EkolFX exceptionnels qui sont toujours disponibles pour des questions, des commentaires, des suggestions ou des plaintes. Vous pouvez nous contacter en utilisant nos canaux de communication ci-dessous ou en utilisant notre formulaire de contact.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

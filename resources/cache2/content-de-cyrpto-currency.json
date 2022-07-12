@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto W\u00e4hrung",
+        "Title2": "Krypto-Geld ist das grundlegende elektronische Geld oder digitales Geld",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Cyrpto-W\u00e4hrung<\/h2><\/div><div class=\"fw simpleContent\"><p>Krypto-Geld ist grunds\u00e4tzlich elektronisches Geld oder digitales Geld. Aber wie beim Online-Banking gibt es kein physisches \u00c4quivalent. Es ist eine W\u00e4hrung, die au\u00dfer f\u00fcr digitale Displays niemals gesehen oder ber\u00fchrt werden kann. Kryptom\u00fcnzen sind M\u00fcnzen, die von Person zu Person \u00fcbertragen und in vollst\u00e4ndig sicheren virtuellen Geldb\u00f6rsen gespeichert werden k\u00f6nnen, die nicht mit einem Land oder einer Beh\u00f6rde verbunden sind. Es handelt sich um ein globales System f\u00fcr Geldtransfers, Zahlungen und Investitionen, das von Person zu Person und nicht von einer Interbank \u00fcbertragen werden kann. Kryptom\u00fcnzen, die mit Bitcoin beginnen, haben einen eigenen Markt mit vielen verschiedenen Arten geschaffen. Dazu geh\u00f6ren Bitcoin, Litecoin und Ethereum. Kryptom\u00fcnzen, die in vielen Bereichen des Lebens als Zahlungsmittel eingesetzt werden, gelten als das Finanzsystem der Zukunft.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

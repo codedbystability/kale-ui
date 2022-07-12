@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u0130ndekser ",
+        "Title2": "Tilgang til verdens b\u00f8rsindekser fra en enkelt plattform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">indekser<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices, brukes til \u00e5 fastsl\u00e5 aksjemarkedets generelle retning. Generelle prisutvekslinger p\u00e5 hvert aksjemarked overv\u00e5kes gjennom spesielle indekser. Aksjeindeksene inneholder mer enn ett lager og er en totalverdi som f\u00f8lge av matematiske beregninger hvor lagerbeholdningen blir m\u00e5lt.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

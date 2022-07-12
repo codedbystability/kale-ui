@@ -1,0 +1,706 @@
+{% set liveFlowMenus = {
+  'live-flow-menu-1': { 'name': 'Forex', 'id': 'doviz', 'contentID': '7', },
+  'live-flow-menu-2': { 'name': 'Metals', 'id': 'metaller', 'contentID': '8',},
+  'live-flow-menu-3': { 'name': 'Indexes', 'id': 'borsa', 'contentID': '9',},
+  'live-flow-menu-4': { 'name': 'CFD', 'id': 'emtialar', 'contentID': '10',},
+  'live-flow-menu-5': { 'name': 'Crypto ', 'id': 'kripto', 'contentID': '11',},
+  'live-flow-menu-6': { 'name': 'USA Shares', 'id': 'borsa-abd', 'contentID': '12',},
+  'live-flow-menu-7': { 'name': 'Eu Shares', 'id': 'borsa-avrupa', 'contentID': '13',},
+  'live-flow-menu-8': { 'name': 'Asia Shares', 'id': 'borsa-asya', 'contentID': '14',},
+  'live-flow-menu-9': { 'name': 'Russian Shares', 'id': 'borsa-rusya', 'contentID': '15',},
+} %}
+<div
+  class="c-investment{% if searchUp == true %} is-search-up{% endif %} border--{{ border }}{% if margin == 'signal-margin' %} signal-margin{% endif %}"
+>
+  {# live flow menu start #}
+  {% if page == 'economic-calendar' %}
+    <div class="c-investment__filter">
+      <div class="date-range">
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g opacity="0.3">
+            <path
+              d="M7.51584 8.98438H6.20531C5.95268 8.98438 5.73163 9.18964 5.73163 9.45806V10.2633C5.73163 10.516 5.93689 10.737 6.20531 10.737H7.51584C7.76847 10.737 7.98952 10.5317 7.98952 10.2633V9.45806C7.98952 9.20543 7.76847 8.98438 7.51584 8.98438Z"
+              fill="#2F2D3B"/>
+            <path
+              d="M4.13693 8.98438H2.82641C2.57377 8.98438 2.35272 9.18964 2.35272 9.45806V10.2633C2.35272 10.516 2.55799 10.737 2.82641 10.737H4.13693C4.38956 10.737 4.61062 10.5317 4.61062 10.2633V9.45806C4.61062 9.20543 4.38956 8.98438 4.13693 8.98438Z"
+              fill="#2F2D3B"/>
+            <path
+              d="M7.51584 6.03125H6.20531C5.95268 6.03125 5.73163 6.23651 5.73163 6.50493V7.3102C5.73163 7.56283 5.93689 7.78388 6.20531 7.78388H7.51584C7.76847 7.78388 7.98952 7.57862 7.98952 7.3102V6.50493C7.98952 6.2523 7.76847 6.03125 7.51584 6.03125Z"
+              fill="#2F2D3B"/>
+            <path
+              d="M4.13693 6.03125H2.82641C2.57377 6.03125 2.35272 6.23651 2.35272 6.50493V7.3102C2.35272 7.56283 2.55799 7.78388 2.82641 7.78388H4.13693C4.38956 7.78388 4.61062 7.57862 4.61062 7.3102V6.50493C4.61062 6.2523 4.38956 6.03125 4.13693 6.03125Z"
+              fill="#2F2D3B"/>
+            <path
+              d="M10.8947 6.03125H9.58422C9.33159 6.03125 9.11053 6.23651 9.11053 6.50493V7.3102C9.11053 7.56283 9.3158 7.78388 9.58422 7.78388H10.8947C11.1474 7.78388 11.3684 7.57862 11.3684 7.3102V6.50493C11.3684 6.2523 11.1474 6.03125 10.8947 6.03125Z"
+              fill="#2F2D3B"/>
+            <path
+              d="M13.7211 9.12632V2.85789C13.7211 2.44737 13.5632 2.08421 13.3105 1.8V1.78421H13.2947C12.9947 1.45263 12.5684 1.24737 12.0947 1.24737H10.9105V0.536842C10.9105 0.236842 10.6737 0 10.3737 0H9.56842C9.26842 0 9.03158 0.236842 9.03158 0.536842V1.24737H4.67368V0.536842C4.67368 0.236842 4.43684 0 4.13684 0H3.33158C3.03158 0 2.79474 0.236842 2.79474 0.536842V1.24737H1.61053C1.13684 1.24737 0.710526 1.45263 0.410526 1.78421V1.8C0.157895 2.08421 0 2.44737 0 2.85789V11.4632C0 12.3474 0.726316 13.0737 1.61053 13.0737H9.17368C9.69474 14.0526 10.7211 14.7158 11.9053 14.7158C13.6105 14.7158 15 13.3263 15 11.6211C15 10.5947 14.4947 9.67895 13.7211 9.12632ZM8.81053 11.6211C8.81053 11.7474 8.82632 11.8737 8.8421 12H1.61053C1.31053 12 1.07368 11.7632 1.07368 11.4632V4.89474H12.6316V8.62105C12.3947 8.55789 12.1579 8.52632 11.9053 8.52632C10.2 8.52632 8.81053 9.91579 8.81053 11.6211ZM13.1842 11.3053L11.9053 12.6789C11.8263 12.7579 11.7158 12.8053 11.6053 12.8053C11.4947 12.8053 11.3842 12.7579 11.3053 12.6789L10.5474 11.8579C10.3895 11.7 10.4053 11.4474 10.5632 11.2895C10.7211 11.1316 10.9737 11.1474 11.1316 11.3053L11.6053 11.8105L12.5842 10.7526C12.7421 10.5947 12.9947 10.5789 13.1526 10.7368C13.3263 10.8947 13.3421 11.1474 13.1842 11.3053Z"
+              fill="#2F2D3B"/>
+          </g>
+        </svg>
+
+        <input type="text" class="form-input" data-datepicker>
+      </div>
+      <a class="btn btn-white btn-filter" data-toggle-class="is-open" data-toggle-target-next="" data-toggle-outside=""
+         data-toggle-escape="" aria-haspopup="listbox" aria-controls="dropdownList" aria-expanded="false">
+        Filters
+        <svg width="13" height="11" viewBox="0 0 13 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g opacity="0.3">
+            <path
+              d="M9.4106 4.93228V0.711864C9.4106 0.318713 9.72932 0 10.1225 0C10.5156 0 10.8343 0.318713 10.8343 0.711864V4.93228C11.6137 5.22144 12.1691 5.97171 12.1691 6.8517C12.1691 7.73168 11.6137 8.48195 10.8343 8.77111V9.78814C10.8343 10.1813 10.5156 10.5 10.1225 10.5C9.72932 10.5 9.4106 10.1813 9.4106 9.78814V8.77111C8.63124 8.48195 8.07586 7.73168 8.07586 6.8517C8.07586 5.97171 8.63124 5.22144 9.4106 4.93228ZM1.40213 4.93228V0.711864C1.40213 0.318713 1.72084 0 2.11399 0C2.50715 0 2.82586 0.318713 2.82586 0.711864V4.93228C3.60522 5.22144 4.1606 5.97171 4.1606 6.8517C4.1606 7.73168 3.60522 8.48195 2.82586 8.77111V9.78814C2.82586 10.1813 2.50715 10.5 2.11399 10.5C1.72084 10.5 1.40213 10.1813 1.40213 9.78814V8.77111C0.622762 8.48195 0.0673828 7.73168 0.0673828 6.8517C0.0673828 5.97171 0.622762 5.22144 1.40213 4.93228ZM5.40637 5.56772C4.627 5.27856 4.07162 4.52829 4.07162 3.64831C4.07162 2.76832 4.627 2.01805 5.40637 1.72889V0.711864C5.40637 0.318713 5.72508 0 6.11823 0C6.51138 0 6.8301 0.318713 6.8301 0.711864V1.72889C7.60946 2.01805 8.16484 2.76832 8.16484 3.64831C8.16484 4.52829 7.60946 5.27856 6.8301 5.56772V9.78814C6.8301 10.1813 6.51138 10.5 6.11823 10.5C5.72508 10.5 5.40637 10.1813 5.40637 9.78814V5.56772ZM6.11823 4.27119C6.46224 4.27119 6.74111 3.99231 6.74111 3.64831C6.74111 3.3043 6.46224 3.02542 6.11823 3.02542C5.77422 3.02542 5.49535 3.3043 5.49535 3.64831C5.49535 3.99231 5.77422 4.27119 6.11823 4.27119ZM2.11399 7.47458C2.458 7.47458 2.73687 7.1957 2.73687 6.8517C2.73687 6.50769 2.458 6.22881 2.11399 6.22881C1.76999 6.22881 1.49111 6.50769 1.49111 6.8517C1.49111 7.1957 1.76999 7.47458 2.11399 7.47458ZM10.1225 7.47458C10.4665 7.47458 10.7453 7.1957 10.7453 6.8517C10.7453 6.50769 10.4665 6.22881 10.1225 6.22881C9.77846 6.22881 9.49959 6.50769 9.49959 6.8517C9.49959 7.1957 9.77846 7.47458 10.1225 7.47458Z"
+              fill="#2F2D3B"/>
+          </g>
+        </svg>
+      </a>
+      <div class="filter-menu" role="listbox" aria-labelledby="dropdownButton" aria-hidden="true"
+           data-toggle-state="false">
+        <h6>.</h6>
+        <ul class="list-unstyled filter-menu__list">
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-effect-all" name="filter-effect" type="checkbox" class="checkbox"/>
+              <label for="filter-effect-all">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-effect-all">All</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-effect-none" name="filter-effect" type="checkbox" class="checkbox"/>
+              <label for="filter-effect-none">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-effect-none">None</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-effect-low" name="filter-effect" type="checkbox" class="checkbox"/>
+              <label for="filter-effect-low">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-effect-low">Low</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-effect-moderate" name="filter-effect" type="checkbox" class="checkbox"/>
+              <label for="filter-effect-moderate">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-effect-moderate">Mid</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-effect-high" name="filter-effect" type="checkbox" class="checkbox"/>
+              <label for="filter-effect-high">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-effect-high">High</label>
+            </div>
+          </li>
+        </ul>
+        <h6>Ülke</h6>
+        <ul class="list-unstyled filter-menu__list">
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-all" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-all">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-all">All</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-abd" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-abd">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-abd">USA</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-uk" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-uk">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-uk">UK</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-ab" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-ab">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-ab">Avrupa Para Birliği</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-germany" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-germany">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-germany">Almanya</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-ch" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-ch">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-ch">Çin</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-country-jp" name="filter-country" type="checkbox" class="checkbox"/>
+              <label for="filter-country-jp">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-country-jp">Japonya</label>
+            </div>
+          </li>
+        </ul>
+        <h6>Kategori</h6>
+        <ul class="list-unstyled filter-menu__list">
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-category-all" name="filter-category" type="checkbox" class="checkbox"/>
+              <label for="filter-category-all">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-category-all">Tümü</label>
+            </div>
+          </li>
+          <li>
+            <div class="form-checkbox">
+              <input id="filter-category-tahvil" name="filter-category" type="checkbox" class="checkbox"/>
+              <label for="filter-category-tahvil">
+                <svg viewBox="0,0,50,50">
+                  <path d="M5 30 L 20 45 L 45 5"></path>
+                </svg>
+              </label>
+              <label for="filter-category-tahvil">Tahvil İhaleleri</label>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="c-investment__nav c-investment__nav--top calendar-padding">
+      <div class="c-investment__calendar" data-js="economic-calendar">
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas252019"
+          data-toggle-radio-group="tabsGroup"
+          data-toggle-is-active
+          role="tab"
+        >
+          <strong>25 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a
+        >
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas262019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>26 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas272019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>27 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas282019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>28 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas292019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>29 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas302019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>30 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Kas312019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>31 <small>Kasım Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+        <a
+          class="btn btn-calendar"
+          data-toggle-class
+          data-toggle-target="#Arl012019"
+          data-toggle-radio-group="tabsGroup"
+          role="tab"
+        >
+          <strong>01 <small>Aralık Pts</small></strong>
+          <span>10 Olay</span>
+        </a>
+      </div>
+    </div>
+  {% endif %}
+  {% if page == 'live-flow' or page == 'processing-features' or page ==
+    'daily-signals' %}
+    <div class="c-investment__nav c-investment__nav--top">
+      <div class="c-investment__nav__wrap">
+        {% for menu in liveFlowMenus %} {% if loop.first %}
+          <a
+            class="btn btn-secondary btn-bottom btn-tab"
+            data-toggle-class
+            data-toggle-target="#{{ menu.id }}"
+            data-toggle-radio-group="tabsGroup"
+            data-toggle-is-active
+            role="tab"
+            data-content-id="{{ menu.contentID }}"
+          >{{ menu.name }}</a
+          >
+        {% else %}
+          <a
+            class="btn btn-secondary btn-bottom btn-tab"
+            data-toggle-class
+            data-toggle-target="#{{ menu.id }}"
+            data-toggle-radio-group="tabsGroup"
+            data-content-id="{{ menu.contentID }}"
+            role="tab"
+          >{{ menu.name }}</a
+          >
+        {% endif %} {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+  {# live flow menu end #}
+  {% if page == 'spread' %} {# spread menu start #}
+    <div
+      class="c-investment__nav c-investment__nav--top {% if page == 'spread' %}spread full-padding{% endif %}"
+    >
+      <div class="c-investment__nav__wrap">
+        {% for menu in liveFlowMenus %}
+          {% if loop.first %}
+            <a
+              class="btn btn-secondary btn-full"
+              data-toggle-class
+              data-toggle-target="#{{ menu.id }}"
+              data-toggle-radio-group="tabsGroup"
+              data-toggle-is-active
+              role="tab"
+            >{{ menu.name }}</a>
+          {% else %}
+            <a
+              class="btn btn-secondary btn-full"
+              data-toggle-class
+              data-toggle-target="#{{ menu.id }}"
+              data-toggle-radio-group="tabsGroup"
+              role="tab"
+            >{{ menu.name }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %} {# spread menu end #}
+  <div class="c-investment__content {% if page == 'spread' %}spread{% endif %}">
+    {% if page != 'spread' and page != 'daily-signals' %}
+      <div class="c-investment__search">
+        <input
+          type="text"
+          class="form-input"
+          placeholder="Search..."
+          data-investment-table-search
+        />
+      </div>
+    {% endif %} {# default table start #} {% if page == 'default' %}
+      <div class="c-investment__wrapper">
+        <table class="c-investment__table" data-investment-table investment-table>
+        <thead>
+        <tr>
+          <th class="name">Desc</th>
+          <th>Symbol</th>
+          <th>Buy</th>
+          <th>Şatış</th>
+        </tr>
+        </thead>
+        <tbody data-investment-table-body>
+
+        </tbody>
+      </table>
+      </div>
+    {% endif %} {# default table end #}
+    {# processing features table start #}
+    {% if page == 'processing-features' %}
+      {% for menu in liveFlowMenus %}
+      <div
+        id="{{ menu.id }}"
+        data-content-id="{{ menu.contentID }}"
+        role="tabpanel"
+        aria-labelledby="{{ menu.id }}"
+        class="live-flow-table-content"
+      >
+        <div class="table--loading"></div>
+        <table class="c-investment__table small" data-investment-table processing-features>
+          <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Desc</th>
+            <th>Contract</th>
+            <th>Tick Size</th>
+            <th class="is-mob-hidden">Margin %</th>
+            <th class="is-mob-hidden">Swap Short Puan</th>
+            <th class="is-mob-hidden">Swap Long Puan</th>
+            <th class="is-mob-hidden">3 Günlük Swap</th>
+          </tr>
+          </thead>
+          <tbody>
+
+          </tbody>
+        </table>
+      </div>
+    {% endfor %}
+    {% endif %} {# processing features table end #} {# live flow table start #}
+    {% if page == 'live-flow' %} {% for menu in liveFlowMenus %}
+      <div
+        id="{{ menu.id }}"
+        role="tabpanel"
+        aria-labelledby="{{ menu.id }}"
+        class="live-flow-table-content"
+      >
+        <div class="table--loading"></div>
+        <table class="c-investment__table small" data-investment-table live-flow>
+          <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Desc</th>
+            <th>Alış</th>
+            <th>Sell</th>
+            <th class="is-mob-hidden">Low</th>
+            <th class="is-mob-hidden">High</th>
+            <th class="is-mob-hidden">Spread</th>
+          </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    {% endfor %}
+    {% endif %}
+    {% if page == 'spread' %} {# spread table start #}
+      <div class="row">
+        <div class="col-12 col-md-2">
+          <a href="#" class="btn btn-dark is-selected">Small</a>
+          <a href="#" class="btn btn-dark">Standart</a>
+          <a href="#" class="btn btn-dark">Silver</a>
+          <a href="#" class="btn btn-dark">Gold</a>
+          <a href="#" class="btn btn-dark">Platinum</a>
+          <a href="#" class="btn btn-dark">VIP</a>
+          <a href="#" class="btn btn-dark">ECN</a>
+          <div class="mobile-account-select">
+            <span>Hesap Türü Seçiniz</span>
+            <select name="" id="" class="form-select">
+              <option value="standart">Standart</option>
+              <option value="silver">Silver</option>
+              <option value="gold">Gold</option>
+              <option value="platinum">Platinum</option>
+              <option value="vip">VIP</option>
+              <option value="ecn">ECN</option>
+              <option value="small">Small</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-12 col-md-10">
+          <div class="c-investment__search">
+            <input
+              type="text"
+              class="form-input"
+              placeholder="Search..."
+              data-investment-table-search
+            />
+          </div>
+          {% for menu in liveFlowMenus %}
+            <div
+              id="{{ menu.id }}"
+              role="tabpanel"
+              aria-labelledby="{{ menu.id }}"
+              class="live-flow-table-content"
+            >
+              <div class="table--loading"></div>
+              <table class="c-investment__table small" data-investment-table spread-table>
+                <thead>
+                <tr>
+                  <th>Symbol</th>
+                  <th>Desc</th>
+                  <th>Ham Spread Point</th>
+                  <th>Ham Spread Pips</th>
+                  <th class="is-mob-hidden">Komisyon</th>
+                </tr>
+                </thead>
+                <tbody data-investment-table-body>
+
+                </tbody>
+              </table>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}{# spread table end #} {# daily signals table start #} {% if page == 'daily-signals' %} {% for menu in liveFlowMenus %}
+      <div
+        id="{{ menu.id }}"
+        role="tabpanel"
+        aria-labelledby="{{ menu.id }}"
+        class="live-flow-table-content"
+      >
+        <div class="table--loading"></div>
+        <table class="c-investment__table daily-signals small" data-investment-table>
+          <thead>
+          <tr>
+            <th class="is-mob-hidden">Desc</th>
+            <th>Symbol</th>
+            <th>Alış</th>
+            <th>Sell</th>
+            <th>1 Y. Değişim</th>
+            <th>Sinyal</th>
+          </tr>
+          </thead>
+          <tbody>
+
+          </tbody>
+        </table>
+      </div>
+    {% endfor %} {% endif %} {# processing features table end #}
+    {# spread table start #}
+    {% if page == 'economic-calendar' %}
+      <div id="Kas252019" role="tabpanel" class="calendar-table-content">
+        <table class="c-investment__table economic-calendar small" data-investment-table>
+          <thead>
+          <tr>
+            <th>Saat</th>
+            <th>Doviz</th>
+            <th>Etki</th>
+            <th>Olay</th>
+            <th class="is-mob-hidden">Gerçek</th>
+            <th>Tahmin</th>
+            <th class="is-mob-hidden">Önceki</th>
+          </tr>
+          </thead>
+          <tbody>
+          {% for i in 1..2 %}
+            <tr>
+              <td class="time">
+                <strong>01:50</strong>
+              </td>
+              <td class="name with-icon searchable">
+                <strong>AUDCAD{{ i }}asd</strong>
+              </td>
+              <td class="searchable effect low">
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+              </td>
+              <td class="is-wrapable">
+                <span class="font-weight-bold news" data-tooltip
+                      title="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.">Lorem Ipsum is simply dummy text of the printing and typesetting..</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.7</span>
+              </td>
+              <td>
+                <span class="font-weight-bold">9.6</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.6</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="time">
+                <strong>01:50</strong>
+              </td>
+              <td class="name with-icon searchable">
+                <strong>AUDCAD{{ i }}</strong>
+              </td>
+              <td class="searchable effect moderate">
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+              </td>
+              <td class="is-wrapable">
+                <span class="font-weight-bold news" data-tooltip title="12213123123213">RBA Debelle Speech</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.7</span>
+              </td>
+              <td>
+                <span class="font-weight-bold">9.6</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.6</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="time">
+                <strong>01:50</strong>
+              </td>
+              <td class="name with-icon searchable">
+                <strong>AUDCAD{{ i }}</strong>
+              </td>
+              <td class="searchable effect high">
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+                <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <g opacity="0.2">
+                    <path
+                      d="M9.94664 15.74C13.4774 14.8874 16.1001 11.7073 16.1001 7.91463C16.1001 6.06151 15.474 4.35472 14.4218 2.99426C14.4538 3.34668 14.4697 3.69122 14.4697 4.0286C14.4697 5.70695 14.0747 7.20498 13.2946 8.5708C12.3035 6.05543 8.74558 3.98996 8.74558 0.256707C8.74558 0.171019 8.7479 0.0855094 8.75255 0C5.72967 1.4932 3.27226 4.61161 3.1007 7.34809C1.7889 5.02252 2.24668 2.39731 2.25849 2.32325C0.860282 3.77136 0 5.74255 0 7.91463C0 11.3298 2.12664 14.2482 5.12788 15.4178C4.62467 14.6083 4.30749 13.416 4.72395 11.7348C5.33862 12.9457 6.44111 13.8041 7.72161 14.398C7.72089 14.3706 7.72233 14.3432 7.72054 14.3162C7.55578 11.8502 9.05434 11.2939 9.91409 9.75362C12.0452 12.3869 11.0017 15.0107 9.94664 15.74Z"
+                      fill="black"/>
+                  </g>
+                </svg>
+              </td>
+              <td class="is-wrapable">
+                <span class="font-weight-bold news" data-tooltip title="ash1243123123svdhjsav">RBA Debelle Speech</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.7</span>
+              </td>
+              <td>
+                <span class="font-weight-bold">9.6</span>
+              </td>
+              <td class="is-mob-hidden">
+                <span class="font-weight-bold">9.6</span>
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div id="Kas262019" role="tabpanel" class="calendar-table-content">
+        26kas2019 asdasdasd
+      </div>
+      <div id="Kas272019" role="tabpanel" class="calendar-table-content">
+        27kas2019 asdasdasd
+      </div>
+      <div id="Kas282019" role="tabpanel" class="calendar-table-content">
+        28kas2019 asdasdasd
+      </div>
+      <div id="Kas292019" role="tabpanel" class="calendar-table-content">
+        29kas2019 asdasdasd
+      </div>
+      <div id="Kas302019" role="tabpanel" class="calendar-table-content">
+        30kas2019 asdasdasd
+      </div>
+      <div id="Kas312019" role="tabpanel" class="calendar-table-content">
+        31kas2019 asdasdasd
+      </div>
+    {% endif %}
+    {# processing features table end #}
+  </div>
+</div>

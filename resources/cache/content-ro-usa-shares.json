@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "Ac\u021biunile SUA",
+        "Title2": "Aproape fiecare \u021bar\u0103 are o burs\u0103 \u00een care sunt tranzac\u021bionate societ\u0103\u021bi cotate la burs\u0103.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Ac\u021biunile SUA<\/h2><\/div><div class=\"fw simpleContent\"><p>Stoc SUA; se refer\u0103 la una dintre p\u0103r\u021bile echivalente ale capitalului unei societ\u0103\u021bi. Prin achizi\u021bionarea de ac\u021biuni ale unei companii, deveni\u021bi unul dintre partenerii acestei companii. C\u00e2nd investi\u021bi \u00een ac\u021biuni, trebuie s\u0103 investiga\u021bi activit\u0103\u021bile companiei, \u00eendatorarea, a\u0219tept\u0103rile de cre\u0219tere, statutul profitului, dividendul (suma profitului) \u0219i, pe scurt, totul despre companie. Pute\u021bi beneficia de investi\u021bii \u00een ac\u021biuni prin alegerea companiilor de succes, pe termen lung \u0219i profitabile.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

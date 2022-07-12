@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Komodity",
+        "Title2": "P\u0159\u00edstup k komodit\u00e1m z jedin\u00e9 platformy",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Komodity<\/h2><\/div><div class=\"fw simpleContent\"><p>Komodity, drah\u00e9 kovy a kovy jsou velmi d\u016fle\u017eit\u00fdmi zdroji pro n\u00e1rodn\u00ed ekonomiky. Zlato, kter\u00e9 je ji\u017e l\u00e9ta popul\u00e1rn\u00ed, je investory vn\u00edm\u00e1no jako bezpe\u010dn\u00e9 \u00fato\u010di\u0161t\u011b. Krom\u011b zlata v Forexu, st\u0159\u00edbra, platiny a dal\u0161\u00edch drah\u00fdch kov\u016f, kter\u00e9 mohou b\u00fdt investov\u00e1ny do palladia.<\/p><p>S platformou Ekol Fx pro rychl\u00e9 zpracov\u00e1n\u00ed m\u016f\u017eete snadno prov\u00e1d\u011bt sv\u00e9 operace po dobu 5\/24 hodin. P\u0159ijm\u011bte m\u00edsto rychl\u00fdch a bezpe\u010dn\u00fdch investic do spole\u010dnosti Ekol Fx a sta\u0148te se jedn\u00edm z profesion\u00e1ln\u00edch investor\u016f!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

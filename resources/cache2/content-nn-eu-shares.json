@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 13,
+        "Title": "Aksjer EU",
+        "Title2": "Nesten alle land har en b\u00f8rs der b\u00f8rsnoterte selskaper handles.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Aksjer EU<\/h2><\/div><div class=\"fw simpleContent\"><p>Europe Stock; refererer til en av de tilsvarende deler av hovedstaden til et selskap. Ved \u00e5 kj\u00f8pe aksjer i et selskap blir du en av selskapets partnere. N\u00e5r du investerer i aksje, b\u00f8r du unders\u00f8ke selskapets aktiviteter, gjeld, vekstforventninger, fortjeneste, utbytte (fortjeneste) og kort alt om selskapet. Du kan dra nytte av aksjeinvesteringer ved \u00e5 velge vellykkede, langsiktige og profittgivende selskaper.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "eu-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

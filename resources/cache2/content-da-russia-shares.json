@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 15,
+        "Title": "RUSS\u0130A Aktier",
+        "Title2": "N\u00e6sten alle lande har en b\u00f8rs, hvor b\u00f8rsnoterede selskaber handles.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">RUSS\u0130A Aktier<\/h2><\/div><div class=\"fw simpleContent\"><p>Rusland Stock; henviser til en af de tilsvarende dele af et selskabs kapital. Ved at k\u00f8be aktier i et firma bliver du en af selskabets partnere. N\u00e5r du investerer i aktier, b\u00f8r du unders\u00f8ge virksomhedens aktiviteter, g\u00e6lds\u00e6tning, v\u00e6kstforventninger, fortjenestestatus, udbytte (fortjeneste) og kort sagt alt om virksomheden. Du kan drage fordel af aktieinvesteringer ved at v\u00e6lge succesfulde, langsigtede og profitable virksomheder.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "russia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

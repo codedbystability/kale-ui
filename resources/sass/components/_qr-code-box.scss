@@ -1,0 +1,16 @@
+.c-qr-code-box {
+  border-radius: 25px;
+  background-color: $color-white;
+  padding: $space-2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+  h5 {
+    color: $color-text;
+    text-align: center;
+    line-height: 1.7;
+    margin-top: $space-2;
+  }
+}

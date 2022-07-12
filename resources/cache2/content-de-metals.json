@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metalle",
+        "Title2": "Greifen Sie auf Metall zu einzelner Plattform zu",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metalle<\/h2><\/div><div class=\"fw simpleContent\"><p>Metalle sind die Namen aller Waren und Produkte im Handel. Der Forex-Markt ist der weltweit gr\u00f6\u00dfte Finanzmarkt, an dem Sie mit Metallen handeln k\u00f6nnen. Anlageinstrumente, insbesondere Gold, Aluminium und Silber; Mit dem Privileg von Ekol Global Markets k\u00f6nnen Sie auf dem Forex-Markt kaufen und verkaufen.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

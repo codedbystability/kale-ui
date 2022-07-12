@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Criptomoneda",
+        "Title2": "Crypto Money es el dinero electr\u00f3nico b\u00e1sico o digital.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Criptomoneda<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money es b\u00e1sicamente dinero electr\u00f3nico o digital. Pero como en la banca en l\u00ednea, no tiene un equivalente f\u00edsico. Es una moneda que nunca se puede ver o tocar, excepto para las pantallas digitales. Las monedas criptogr\u00e1ficas son monedas que pueden ser transmitidas de persona a persona y almacenadas en carteras virtuales totalmente seguras, no conectadas a ning\u00fan pa\u00eds o autoridad. Es un sistema global de transferencia de dinero, pago e inversi\u00f3n que puede transferirse de una persona a otra, no de un banco interbancario. Las monedas criptogr\u00e1ficas que comienzan con Bitcoin han creado su propio mercado con muchos tipos diferentes. Entre estos se encuentran Bitcoin, Litecoin y Ethereum. Las monedas criptogr\u00e1ficas, que se utilizan como sistema de pago en muchas \u00e1reas de la vida, se consideran el sistema financiero del futuro.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

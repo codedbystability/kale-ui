@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certificaten",
+        "Title2": "Onze offici\u00eble documenten en certificaten",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certificaten<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - NEDERLANDS Ekol Global Markets Documenten en certificaten worden binnenkort bijgewerkt.<\/p><p>Nadat u de volgende QR-code met de camera van uw telefoon hebt gescand om ons licentiedocument te bekijken, stuurt het systeem u automatisch door naar het licentiedocument.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Licenties worden hierboven vermeld als ze worden bijgewerkt.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

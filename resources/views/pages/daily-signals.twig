@@ -1,0 +1,419 @@
+{% extends '../layouts/default.twig' %} {% set head_title = 'Index' %} {% set body_class =
+'p-daily-signals' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange =
+true %} {% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title mt-4">
+    <div class="container">
+      <h1><strong>Günlük</strong> Sinyaller</h1>
+    </div>
+  </div>
+  <div class="container mt-4 pb-4">
+    <div class="row">
+      <div class="col-12 col-md-9">
+        {% include '../../modules/investment-table/investment-table.twig' with {'searchUp': false,
+        'border': 'bottom', 'page': 'daily-signals', 'margin': 'signal-margin' } %}
+      </div>
+      <div class="col-12 col-md-3 pt-1">
+        <div class="c-signal-sidebar__menu top-rated mt-5">
+          <h5>
+            <span>En çok <strong>Yükselenler</strong></span>
+          </h5>
+          <ul class="list-unstyled">
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="c-signal-sidebar__menu top-rated-down mt-3">
+          <h5>
+            <span>En çok <strong>Düşenler</strong></span>
+          </h5>
+          <ul class="list-unstyled">
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="c-signal-sidebar__item">
+                <div class="content">
+                  <span class="name">
+                    Litecoin
+                    <small class="d-flex">Kripto Paralar</small>
+                  </span>
+                  <span class="value">
+                    %38,48
+                  </span>
+                </div>
+                <div class="logo">
+                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28">
+                    <defs />
+                    <g clip-path="url(#clip0)">
+                      <path
+                        fill="#fff"
+                        d="M28.0006 13.9999C28.0006 21.7319 21.7327 28 14.0007 28S.00073242 21.7319.00073242 13.9999C.00073242 6.26797 6.2687 0 14.0007 0c7.7319 0 13.9999 6.26797 13.9999 13.9999z"
+                      />
+                      <path
+                        fill="#fff"
+                        d="M25.0277 14.0002c0 6.09-4.9372 11.0276-11.0275 11.0276-6.09027 0-11.02779-4.9376-11.02779-11.0276 0-6.09052 4.93752-11.02779 11.02779-11.02779 6.0904 0 11.0275 4.93718 11.0275 11.02779z"
+                      />
+                      <path
+                        fill="#637AF0"
+                        d="M13.1819 17.74l.9094-3.4241 2.1528-.7865.5355-2.0123-.0183-.05-2.1192.7742 1.5269-5.74936h-4.3303L9.84188 13.995l-1.66721.6091-.55089 2.0746 1.66594-.6086-1.17687 4.4219H19.6376l.7388-2.752h-7.1945z"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0">
+                        <path fill="#fff" d="M0 0h28v28H0z" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page-title mt-2">
+    <div class="container">
+      <h1><strong>Size Özel</strong> Analizler</h1>
+      <p>
+        Ürün özelliklerimizin gelişmiş detaylarına aşağıdan ulaşabilirsiniz
+      </p>
+    </div>
+  </div>
+  <div class="container mt-3">
+    {% include '../../modules/customized-analysis/customized-analysis.twig' %}
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with {'pull': true, 'margin': true, 'bg':
+  true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

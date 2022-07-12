@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 21,
+        "Title": "Domande frequenti",
+        "Title2": "Abbiamo risposto alle domande pi\u00f9 frequenti dei nostri utenti.",
+        "ShortDesc": "",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "frequently-asked-questions",
+        "Sort": 0,
+        "ModuleID": 1,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metals",
+        "Title2": "Hozz\u00e1f\u00e9r\u00e9s a f\u00e9mhez egyetlen platformhoz",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metals<\/h2><\/div><div class=\"fw simpleContent\"><p>A f\u00e9mek a kereskedelemben l\u00e9v\u0151 \u00f6sszes \u00e1ru \u00e9s term\u00e9k neve. A Forex piac a vil\u00e1g legnagyobb p\u00e9nz\u00fcgyi piaca, ahol f\u00e9mekkel kereskedhet. Befektet\u00e9si eszk\u00f6z\u00f6k, k\u00fcl\u00f6n\u00f6sen arany, alum\u00ednium \u00e9s ez\u00fcst; Az Ekol Global Markets kiv\u00e1lts\u00e1g\u00e1val a Forex piacon v\u00e1s\u00e1rolhat \u00e9s eladhat.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

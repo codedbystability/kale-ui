@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "USA Shares",
+        "Title2": "Almost every country has a stock exchange in which publicly traded companies are traded.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">USA Shares<\/h2><\/div><div class=\"fw simpleContent\"><p>USA Stock; refers to one of the equivalent parts of the capital of a company. By purchasing shares of a company, you become one of the partners of that company. When you invest in stock, you should investigate the company&#39;s activities, indebtedness, growth expectations, profit status, dividend (amount of profit) and briefly everything about the company. You can benefit from stock investment by choosing successful, long-term and profit-making companies.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "US Stock Exchange Markets",
+        "SeoDesc": "With the assurance of Ekol Global Markets; Perform instant transactions on a lot of stocks in the US Stock Exchange such as Apple, Microsoft!",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

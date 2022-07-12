@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certifikater",
+        "Title2": "Vores officielle dokumenter og certifikater",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certifikater<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - DANMARK Ekol Global Markets Dokumenter og certifikater vil blive opdateret inden for kort tid.<\/p><p>N\u00e5r du har scanet f\u00f8lgende QR-kode med telefonens kamera for at se vores licensdokument, sender systemet automatisk dig til licensdokumentet.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Licenser vil blive opf\u00f8rt ovenfor, da de opdateres.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

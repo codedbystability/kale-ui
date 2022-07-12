@@ -1,0 +1,54 @@
+$commission-card--standart: $color-secondary;
+$commission-card--silver: #abc;
+$commission-card--gold: #fbb809;
+$commission-card--dark: #3e3b4b;
+
+.c-commission-card {
+  $commissionCard: &;
+  color: $color-white;
+  font-weight: $font-weight-bold;
+  border-radius: 15px;
+  text-align: center;
+  background-color: $commission-card--dark;
+  transition: background-color 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  &__title {
+    padding: $space-2;
+    font-size: rem(34);
+    border-radius: 15px 15px 0 0;
+    line-height: 0.9;
+  }
+  &__content {
+    padding: $space-2;
+    font-size: rem(40);
+    border-radius: 0 0 15px 15px;
+    background-color: darken($commission-card--dark, 5%);
+    transition: background-color 0.2s cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  }
+  &:hover {
+    background-color: $color-secondary;
+    #{$commissionCard}__content {
+      background-color: darken($color-secondary, 5%);
+    }
+  }
+  // &.standart {
+
+  // }
+  // &.silver {
+  //   background-color: $commission-card--silver;
+  //   #{$commissionCard}__content {
+  //     background-color: darken($commission-card--silver, 5%);
+  //   }
+  // }
+  // &.gold {
+  //   background-color: $commission-card--gold;
+  //   #{$commissionCard}__content {
+  //     background-color: darken($commission-card--gold, 5%);
+  //   }
+  // }
+  // &.dark {
+
+  //   #{$commissionCard}__content {
+
+  //   }
+  // }
+}

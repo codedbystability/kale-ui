@@ -1,0 +1,58 @@
+/**
+ * Carousel
+ */
+.c-price {
+  $price: &;
+  &-boxes {
+    &.is-hidden {
+      display: none;
+    }
+    &.flickity-enabled {
+      opacity: 1;
+    }
+    .flickity-prev-next-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba($color-white, 0.5);
+      transition: $transition-base-bg;
+      top: -10%;
+      @include respond-below(md) {
+        top: auto;
+        bottom: -10%;
+      }
+      .flickity-button-icon {
+        position: unset;
+        width: 30%;
+        height: 30%;
+        fill: $gray-600;
+        transition: $transition-base-fill;
+      }
+      &.previous {
+        left: auto;
+        right: 60px;
+        @include respond-below(md) {
+          right: calc(30% + 50px);
+        }
+      }
+      &.next {
+        @include respond-below(md) {
+          right: 30%;
+        }
+      }
+      &:hover {
+        background: rgba($color-primary, 1);
+        .flickity-button-icon {
+          fill: $color-white;
+        }
+      }
+    }
+    &__col {
+      width: 33.33334%;
+      padding: ($grid-gutter-width / 2);
+      @include respond-below(md) {
+        width: 100%;
+      }
+    }
+  }
+}

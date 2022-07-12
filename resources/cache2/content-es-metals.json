@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Rieles",
+        "Title2": "Acceso Metal a Plataforma \u00danica",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Rieles<\/h2><\/div><div class=\"fw simpleContent\"><p>Los metales son los nombres dados a todos los bienes y productos en el comercio. El mercado Forex es el mercado financiero m\u00e1s grande del mundo, donde puede comerciar con metales. Instrumentos de inversi\u00f3n, en particular oro, aluminio y plata; Con el privilegio de Ekol Global Markets, usted puede comprar y vender en el mercado Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

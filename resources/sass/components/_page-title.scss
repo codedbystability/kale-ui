@@ -1,0 +1,16 @@
+.c-page-title {
+  h1 {
+    font-size: rem(60);
+    color: $color-dark;
+    @include respond-below(md) {
+      font-size: rem(36);
+    }
+  }
+  &.vertical {
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+}

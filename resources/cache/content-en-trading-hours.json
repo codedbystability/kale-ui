@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 41,
+        "Title": "Trading Hours",
+        "Title2": "",
+        "ShortDesc": "",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Trading Hours",
+        "SeoDesc": "Ekol Global Markets Forex trading hours (weekday and weekend opening and closing hours)",
+        "SeoTags": "trading-hours",
+        "Sort": 0,
+        "ModuleID": 9,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

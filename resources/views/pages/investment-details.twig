@@ -1,0 +1,172 @@
+{% extends '../layouts/default.twig' %} 
+{% set head_title = data.item.Symbol ~ ' ' ~  CoInfo('SeosubFix') %}
+ {% set body_class =
+'p-investment-details' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange
+= true %} {% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="container mt-3">
+    <div class="c-investment-card">
+      <div class="c-investment-card__title">
+        <div class="row">
+          <div class="col-3 title-col ">
+
+           <img src="/assets/img/7-icon.png">
+          </div>
+          <div class="col-9 title-col name">
+            <h1 class="investment-slug" >{{data.item.Symbol}} </h1>
+            <h6>
+              <img src="assets/img/flag.png" alt="" class="flag" style='display:none' />
+              <span style="margin-left:0px">{{data.item.Exchange}} </span>
+              <span class="investment-slug">{{data.item.Value}}</span>
+            </h6>
+          </div>
+        </div>
+      </div>
+      <div class="c-investment-card__content">
+        <div class="row">
+          <div class="col-12 col-md-6 align-self-center">
+            <span>Market Close (15:59 UTC 0)</span>
+            <h2 class="text-white">
+              {{data.itemPrice.BID}}
+              <span class="text-success">+0.71 (+0.27%)</span>
+              {# <span class="text-error">+0.71 (+0.27%)</span> #}
+            </h2>
+          </div>
+          <div class="col-6 col-md-3 align-self-center">
+            <span>{{LangValue('instruman-param1')}}</span>
+            <h2 class="text-success"> {{data.itemPrice.ASK}}</h2>
+          </div>
+          <div class="col-6 col-md-3 align-self-center">
+            <span>{{LangValue('instruman-param2')}}</span>
+            <h2 class="text-error"> {{data.itemPrice.BID}}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container mt-3 mb-3">
+    <div class="row" style="display:none">
+      <div class="col-12">
+        <div class="p-investment-details__nav">
+          <a href="#" class="is-selected">Overview</a>
+          <a href="#">Ideas</a>
+          <a href="#">Index Component</a>
+          <a href="#">Technicals</a>
+        </div>
+      </div>
+    </div>
+    <div class="row mt-2">
+      <div class="col-12 col-md-9">
+        <div class="p-investment-details__content">
+          <div class="row pt-1 pb-1">
+            <div class="col-6 col-md-5 align-self-center">
+              <h4 class="pl-2 text-dark font-weight-bold mb-0">{{data.item.Symbol}}  Price Graph </h4>
+            </div>
+            <div class="col-6 col-md-7 text-right pr-2">
+              <a href="#" class="btn btn-link btn-sm btn-chart-day is-selected" data-type="daily">Daily</a>
+              <a href="#" class="btn btn-link btn-sm btn-chart-day" data-type="weekly">Weekly</a>
+              <a href="#" class="btn btn-link btn-sm btn-chart-day" data-type="monthly">Monthly</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <div class="c-chart">
+                <div class="chart-loading"></div>
+                <canvas id="investment-chart"></canvas>
+              </div>
+            </div>
+          </div>
+          <div class="row" style="display:none">
+            <div class="col-12">
+              <div class="p-2 md-p-3">
+                <h3 class="text-dark font-weight-bold">-</h3>
+                <p class="text-dark mb-0">
+                 -
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <div class="bg-gray1 p-2 md-p-3">
+                <div class="row">
+                  <div class="col-6">
+                    <h5 class="text-dark">MIN SPREAD*</h5>
+                    <h3 class="text-dark font-weight-bold">0.00006</h3>
+                  </div>
+                  <div class="col-6">
+                    <h5 class="text-dark">SWAP POINT LONG/SHORT</h5>
+                    <h3 class="text-dark font-weight-bold">-9.675 / 3.546</h3>
+                  </div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-6">
+                    <h5 class="text-dark">TARGET SPREAD*</h5>
+                    <h3 class="text-dark font-weight-bold">0.00007</h3>
+                  </div>
+                  <div class="col-6">
+                    <h5 class="text-dark">OMINAL VALUE OF ONE LOT</h5>
+                    <h3 class="text-dark font-weight-bold">EUR 100 000</h3>
+                  </div>
+                </div>
+                <div class="row mt-3 mb-3">
+                  <div class="col-6">
+                    <h5 class="text-dark">LEVERAGE / MARGIN</h5>
+                    <h3 class="text-dark font-weight-bold">1:30 (3.33%)</h3>
+                    <h5 class="text-dark mt-3">COMMISSION</h5>
+                    <h3 class="text-dark font-weight-bold">Yok</h3>
+                  </div>
+                  <div class="col-6">
+                    <h5 class="text-dark">TRADING HOURS</h5>
+                    <h3 class="text-dark font-weight-bold">
+                      24 h from Sunday <br />
+                      11:00 pm to Friday <br />
+                      10:00 pm
+                    </h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="p-1 md-p-3 pt-0">
+            <div class="row">
+              <div class="col-6">
+                <div class="price-box sell">
+                  <div class="price-box__title">SELL</div>
+                  <div class="price-box__content"> {{data.itemPrice.BID}}</div>
+                </div>
+                <h4 class="text-error mt-2 text-center font-weight-bold">{{LangValue('instruman-btn3')}}  {{data.itemPrice.HIGH}}</h4>
+              </div>
+              <div class="col-6">
+                <div class="price-box buy">
+                  <div class="price-box__title">BUY</div>
+                  <div class="price-box__content"> {{data.itemPrice.ASK}}</div>
+                </div>
+                <h4 class="text-success mt-2 text-center font-weight-bold">{{LangValue('instruman-btn4')}}   {{data.itemPrice.LOW}}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-3">
+        <div class="p-investment-details__sidebar mt-3 md-mt-0">
+          <div class="c-sidebar-menu">
+            <div class="c-sidebar-menu__title">
+              <h4> {{LangValue('instruman-fast-menu')}}</h4>
+            </div>
+            <ul class="c-sidebar-menu__nav list-unstyled">
+            {% for rows in data.instrumentsList %}
+               <li><a href="{{localizeURL(rows.SeoTags) }}">{{ rows.Title }}</a></li>
+            {% endfor %}
+
+            </ul>
+          </div>
+          {% include '../../modules/create-demo/create-demo.twig' with {'pull': false, 'margin':
+          false, 'bg': false, 'shadow': false} %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

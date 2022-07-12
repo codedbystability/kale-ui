@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto valuta",
+        "Title2": "Crypto Money er grunnleggende elektroniske penger eller digitale penger",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">kryptovaluta<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money er i utgangspunktet elektroniske penger eller digitale penger. Men som i nettbank, har den ikke en fysisk ekvivalent. Det er en valuta som aldri kan sees eller r\u00f8res, bortsett fra digitale skjermer. Crypto mynter er mynter som kan overf\u00f8res fra person til person og lagres i helt sikre virtuelle vesker, ikke knyttet til noe land eller noen myndighet. Det er et globalt pengeoverf\u00f8rings-, betalings- og investeringssystem som kan overf\u00f8res fra person til person, ikke fra interbank. Crypto-mynter som starter med Bitcoin har skapt sitt eget marked med mange forskjellige typer. Blant disse er Bitcoin, Litecoin og Ethereum. Crypto-mynter, som brukes som betalingssystem p\u00e5 mange omr\u00e5der av livet, ses som fremtidens finansielle system.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Komoditas",
+        "Title2": "Akses ke Komoditas dari Platform Tunggal",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Komoditas<\/h2><\/div><div class=\"fw simpleContent\"><p>Komoditas, logam mulia dan logam adalah sumber yang sangat penting bagi perekonomian nasional. Emas, yang telah populer selama bertahun-tahun, dianggap sebagai tempat yang aman bagi investor. Selain emas di Forex, perak, platinum, dan logam mulia lainnya yang dapat diinvestasikan dalam paladium.<\/p><p>Dengan platform pemrosesan cepat Ekol Fx, Anda dapat dengan mudah menjalankan operasi selama 5\/24 jam. Ambil tempat investasi cepat dan aman di Ekol Fx dan menjadi salah satu investor profesional!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,24 @@
+{% extends '../layouts/default.twig' %} 
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class =
+'p-investment' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange = true
+%} {% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title text-center mt-4">
+    <div class="container">
+      <h1><strong>İşlem</strong> Özellikleri</h1>
+      <p>
+        Ürün özelliklerimizin gelişmiş detaylarına aşağıdan ulaşabilirsiniz
+      </p>
+    </div>
+  </div>
+  <div class="container mt-4 pb-4">
+    {% include '../../modules/investment-table/investment-table.twig' with {'searchUp': false,
+    'border': 'bottom', 'page': 'processing-features' } %}
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with {'pull': true, 'margin': true, 'bg':
+  true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

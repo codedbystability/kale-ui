@@ -1,0 +1,11 @@
+/**
+ * Transitions
+ */
+
+$transition-base: all 0.2s ease-in-out !default;
+$transition-base-color: color 0.2s ease-in-out !default;
+$transition-base-bg: background-color 0.2s ease-in-out !default;
+$transition-base-opacity: opacity 0.2s ease-in-out !default;
+$transition-base-fill: opacity 0.2s ease-in-out !default;
+$transition-base-collapse: §height 0.35s ease !default;
+$transition-base-svg-fill: fill 0.2s ease-in-out !default;

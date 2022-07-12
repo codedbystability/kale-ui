@@ -1,0 +1,122 @@
+.c-investment-card {
+  display: flex;
+  background-color: $color-dark;
+  border-radius: 15px;
+  @include respond-below(md) {
+    flex-direction: column;
+  }
+  &__title,
+  &__content {
+    // flex: 0 0 auto;
+  }
+  &__title {
+    border-radius: 15px 0 0 15px;
+    background-color: lighten($color-dark, 5%);
+    //padding: $space-2 $space-1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 40%;
+    @include respond-below(md) {
+      max-width: 100%;
+      border-radius: 15px 15px 0 0;
+    }
+    .row {
+      height: 100%;
+      @include respond-below(md) {
+        height: auto;
+        margin: 0;
+        align-items: stretch;
+      }
+      .title-col {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        @include respond-below(md) {
+          padding: $space-3 0;
+          height: auto;
+          border-top-right-radius: 15px;
+        }
+        &.name {
+          flex-direction: column;
+          align-items: flex-start;
+          background-color: $color-dark;
+          padding-left: $space-3;
+        }
+      }
+    }
+    svg,
+    img {
+      width: 40%;
+      display: block;
+      place-self: center;
+    }
+    h1,
+    h6 {
+      margin: 0;
+      font-weight: bold;
+      color: $color-white;
+    }
+    h1 {
+      position: relative;
+      &::before {
+        content: '';
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        position: absolute;
+        right: 101%;
+        top: 6px;
+        background-color: $color-primary;
+      }
+    }
+    h6 {
+      display: flex;
+      align-items: center;
+      img {
+        max-width: fit-content;
+      }
+      span {
+        display: inline-flex;
+        align-items: center;
+        margin-left: $space-050;
+        &::before {
+          content: '•';
+          display: inline-block;
+          margin-right: $space-050;
+        }
+        &:nth-child(2) {
+          &::before {
+            content: unset;
+          }
+        }
+      }
+    }
+  }
+  &__content {
+    flex-grow: 1;
+    padding: $space-3;
+    @include respond-below(md) {
+      padding: $space-2;
+    }
+    span {
+      color: rgba($color-white, 0.7);
+      font-size: rem(14);
+      font-weight: $font-weight-medium;
+    }
+    h2 {
+      margin: 0;
+      font-weight: bold;
+      color: $color-white;
+    }
+    .row {
+      .col-12 {
+        padding-bottom: $space-1;
+        margin-bottom: $space-1;
+        border-bottom: 1px solid rgba($color-white, 0.1);
+      }
+    }
+  }
+}

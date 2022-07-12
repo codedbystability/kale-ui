@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u00cdndices",
+        "Title2": "Acceso a los \u00edndices de la Bolsa Mundial desde una \u00fanica plataforma.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u00cdndices<\/h2><\/div><div class=\"fw simpleContent\"><p>\u00cdndices de Stock Market, &amp; nbsp; Se utiliza para determinar la direcci\u00f3n general del mercado de valores. Los intercambios generales de precios en cada mercado de valores son monitoreados a trav\u00e9s de \u00edndices especiales. Los \u00edndices de acciones contienen m\u00e1s de una acci\u00f3n y son un valor total resultante de los c\u00e1lculos matem\u00e1ticos donde se mide el desempe\u00f1o de las acciones.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Kryptovaluta",
+        "Title2": "Crypto Money \u00e4r de grundl\u00e4ggande elektroniska pengarna eller digitala pengar",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">kryptovaluta<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money \u00e4r i grunden elektroniska pengar eller digitala pengar. Men som i internetbank, har det inte en fysisk ekvivalent. Det \u00e4r en valuta som aldrig kan ses eller ber\u00f6rs f\u00f6rutom digitala sk\u00e4rmar. Crypto-mynt \u00e4r mynt som kan \u00f6verf\u00f6ras fr\u00e5n person till person och lagras i helt s\u00e4kra virtuella pl\u00e5nb\u00f6cker, inte kopplade till n\u00e5got land eller n\u00e5gon myndighet. Det \u00e4r ett globalt penning\u00f6verf\u00f6rings-, betalnings- och investeringssystem som kan \u00f6verf\u00f6ras fr\u00e5n person till person, inte fr\u00e5n interbank. Crypto-mynt som b\u00f6rjar med Bitcoin har skapat en egen marknad med m\u00e5nga olika typer. Bland dessa \u00e4r Bitcoin, Litecoin och Ethereum. Kryptomynt, som anv\u00e4nds som betalningssystem p\u00e5 m\u00e5nga omr\u00e5den i livet, ses som framtida finansiella system.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

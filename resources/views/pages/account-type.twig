@@ -1,0 +1,51 @@
+{% extends '../layouts/default.twig' %} 
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-account-type' %} {% set menu_active =
+'blank-page' %} {% block page %} {% set live_exchange = true %} {%
+include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title text-center mt-4 mb-4">
+    <div class="container">
+      <h1><strong>Account</strong> Types</h1>
+      <p>
+        KaleFx Global Markets, Trading at any level you want
+         It provides you with all the flexibility needed for any account type.
+         You can find premium services provided to you at KaleFx.
+      </p>
+    </div>
+  </div>
+
+  <div class="container pb-5 md-pb-0">
+    <div class="row">
+      <div class="col-4 col-md-2 d-flex align-items-end">
+        <div class="c-price-box head is-has-footer">
+          <div class="c-price-box__content">
+            <ul class="list-unstyled">
+           
+              <li>Spread</li>
+              <li>Instruments</li>
+              <li>Swap</li>
+              <li>Support</li>
+              <li>Personal Investment Advisor</li>
+              <li>deposit / witdrawl</li>
+              <li>Bonusus</li>
+            </ul>
+          </div>
+          <div class="c-price-box__footer"></div>
+        </div>
+      </div>
+      <div class="col-8 col-md-10">
+        <div class="price-boxes__wrapper" data-pull-right>
+          {% include '../../modules/price-boxes/price-boxes.twig' with
+          {'footer': true} %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% include '../../modules/create-demo/create-demo.twig' with
+  {'pull': true, 'margin': true, 'bg': true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

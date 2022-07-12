@@ -1,0 +1,70 @@
+.c-user-card {
+  padding: $space-2 $space-2 0;
+  background-color: $color-white;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba($color-white, 0.1);
+  .user-image {
+    background-color: $color-primary;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    svg {
+      width: 40%;
+    }
+    img {
+      border-radius: 15px;
+    }
+  }
+  .user-name {
+    color: $color-dark;
+    margin: 0;
+    margin-top: $space-15;
+    font-weight: $font-weight-bold;
+  }
+  .user-win-rate {
+    margin-top: $space-1;
+    h6,
+    h2 {
+      margin: 0;
+      font-weight: $font-weight-bold;
+    }
+    h6 {
+      font-size: $font-size-sm;
+      color: rgba ($color-dark, 0.5);
+    }
+    h2 {
+      color: $color-success;
+      font-size: rem(36);
+    }
+  }
+  .user-followers {
+    color: $color-dark;
+    display: block;
+    margin-top: $space-1;
+    font-size: rem(13);
+    strong {
+      font-size: rem(17);
+    }
+  }
+  .user-win-instrument {
+    margin: $space-1 -#{$space-2} 0;
+    padding: $space-2;
+    background-color: $gray-100;
+    border-radius: 0 0 15px 15px;
+    li {
+      display: flex;
+      justify-content: space-between;
+      color: $color-dark;
+      font-size: rem(13);
+      line-height: 1.5;
+      font-weight: $font-weight-semibold;
+      strong {
+        color: $color-success;
+      }
+    }
+  }
+}

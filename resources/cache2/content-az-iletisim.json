@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "\u018flaq\u0259",
+        "Title2": "\u018flaq\u0259 m\u0259lumatlar\u0131 v\u0259 ya formas\u0131n\u0131 dolduraraq biz\u0259 mesaj g\u00f6nd\u0259r\u0259 bil\u0259rsiniz!",
+        "ShortDesc": "<h2>Biz h\u0259r zaman sizin \u00fc\u00e7\u00fcn haz\u0131r\u0131q!<br \/><br \/>H\u0259r zaman suallar, \u015f\u0259rhl\u0259r, t\u0259klifl\u0259r v\u0259 ya \u015fikay\u0259tl\u0259r \u00fc\u00e7\u00fcn \u0259l\u00e7atan olan \u00fcst\u00fcn EkolFX istifad\u0259\u00e7il\u0259rind\u0259n ibar\u0259t b\u00f6y\u00fck bir komanda var. A\u015fa\u011f\u0131dak\u0131 \u00fcnsiyy\u0259t kanallar\u0131m\u0131z\u0131 v\u0259 ya \u0259laq\u0259 formumuzu istifad\u0259 ed\u0259r\u0259k biz\u0259 m\u00fcraci\u0259t ed\u0259 bil\u0259rsiniz.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "iletisim",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

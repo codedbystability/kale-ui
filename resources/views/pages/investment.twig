@@ -1,0 +1,100 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class =
+'p-investment' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange = true
+%} {% include '../components/header.twig' %}
+
+<script type="text/javascript">
+  const investmentCID = {{data.CID}}
+</script>
+<div class="main-wrapper">
+  <div class="container mt-4">
+    <div class="p-investment__title row">
+      <div class="col-12 col-md-4 d-flex flex-column justify-content-center">
+        <h1>{{data.SefContent.Title}}</h1>
+        <span>{{data.SefContent.Title2}}</span>
+      </div>
+      <div class="col-12 col-md-8">
+      {{data.SefContent.ShortDesc| raw}}
+      </div>
+    </div>
+  </div>
+  <div class="c-page-title text-center mt-4">
+    <div class="container">
+      <h1>{{LangValue('livefeed_title')}}</h1>
+    </div>
+  </div>
+  <div class="container mt-4 pb-4">
+    <div class="p-investment__content">
+      {% include '../../modules/investment-table/investment-table.twig' with {'searchUp': true,
+      'border': 'full', 'page': 'default'} %}
+    </div>
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with {'pull': true, 'margin': true, 'bg':
+  true, 'shadow': true} %}
+  <div class="bg-white pb-5" style="display:none">
+    <div class="c-page-title text-center pt-3 pb-3">
+      <div class="container">
+        <h1>{{LangValue('instrument_commision_h1')}}</h1>
+      </div>
+    </div>
+    <div class="container mb-2 mt-2 md-mb-5 md-mt-5">
+      <div class="p-investment__content">
+        <div class="row">
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card standart">
+              <div class="c-commission-card__title">Standart</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card silver">
+              <div class="c-commission-card__title">Silver</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card gold">
+              <div class="c-commission-card__title">Gold</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card dark">
+              <div class="c-commission-card__title">Platinum</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-0 md-mt-2">
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card dark">
+              <div class="c-commission-card__title">Vip</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card dark">
+              <div class="c-commission-card__title">Ecn</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card dark">
+              <div class="c-commission-card__title">Small</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+          <div class="col mt-2 md-mt-0">
+            <div class="c-commission-card dark">
+              <div class="c-commission-card__title">All</div>
+              <div class="c-commission-card__content">$ 10.00</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

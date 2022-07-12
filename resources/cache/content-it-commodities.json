@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Commodities",
+        "Title2": "Accesso alle materie prime da un'unica piattaforma",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Commodities<\/h2><\/div><div class=\"fw simpleContent\"><p>Materie prime, metalli preziosi e metalli sono fonti molto importanti per le economie nazionali. L&#39;oro, che \u00e8 stato popolare per anni, \u00e8 percepito come un rifugio sicuro dagli investitori. Oltre all&#39;oro nel Forex, argento, platino e altri metalli preziosi che possono essere investiti in palladio.<\/p><p>Con la piattaforma di elaborazione rapida di Ekol Fx, \u00e8 possibile eseguire facilmente le operazioni per 5\/24 ore. Prendi il posto dell&#39;investimento rapido e sicuro in Ekol Fx e diventa uno degli investitori professionali!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

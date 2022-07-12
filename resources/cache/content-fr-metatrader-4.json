@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Acc\u00e9dez \u00e0 des plateformes sur lesquelles vous pouvez investir de la mani\u00e8re la plus rapide.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 est une plate-forme d&#39;analyse et de trading Forex tr\u00e8s populaire qui fournit des devises de trading, des actions, des m\u00e9taux pr\u00e9cieux et des CFD dans des indices boursiers. Dans cette section, les clients d&#39;Ekol FX peuvent t\u00e9l\u00e9charger la plate-forme de trading MetaTrader 4 et les applications mobiles pour PDA, iPhone, iPad et Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">TOUTES LES PLATEFORMES AVEC UN SEUL MOT DE PASSE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OPERATIONS FINANCIERES FACILES ET RAPIDES<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">SIGNAUX FOREX GRATUITS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOUBLE DIRECTEMENT INVESTISSEMENT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">ENVOY\u00c9 ET POSITION OUVERTE SUIVRE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform Features<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Un mot de passe sur toutes les plateformes <!-- li--><\/li><li>Suivi des commandes et des positions ouvertes <!-- li--><\/li><li>Afficher les informations de limite et de garantie <!-- li--><\/li><li>Analyse technique et graphiques avec Tradingview <!-- li--><\/li><li>Envoi de commandes via des graphiques <!-- li--><\/li><li>Soumission de commande en un clic <!-- li--><\/li><li>Vue du ticket ou de la liste, soumettre la commande via la liste <!-- li--><\/li><li>Plus de 40 investissements en parit\u00e9, en or, en mati\u00e8res premi\u00e8res et en CFD <!-- li--><\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Configuration requise<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSEUR<\/span><span class=\"val\">\u01305 ET PLUS DE<\/span><\/li><li><span class=\"title\">CONNEXION INTERNET<\/span><span class=\"val\">4 MB ET PLUS DE<\/span><\/li><li><span class=\"title\">R\u00c9SOLUTION D&#39;\u00c9CRAN<\/span><span class=\"val\">1920X1080 (CONSEILL\u00c9)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB ET PLUS DE<\/span><\/li><li><span class=\"title\">SYST\u00c8MES D&#39;EXPLOITATION<\/span><span class=\"val\">WINDOWS 7 ET PLUS DE, MAC OS<\/span><\/li><li><span class=\"title\">NAVIGATEUR WEB<\/span><span class=\"val\">TOUS NAVIGATEUR (PLUS DE CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,368 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 7,
+            "Title": "Forex",
+            "Title2": "Store, mindre og eksotiske valutapariteter",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Den udenlandske valuta er det generelle navn givet til de fremmede valutaers valutaer p\u00e5 tyrkisk. Paritet er v\u00e6rdien af et lands valuta mod et andet lands valuta. Den f\u00f8rste valuta i valutaen refererer til basisvalutaen. Den anden valuta er den modsatte valuta. USD \/ TRY er USD-basiskursen, mens TRY er den modsatte valuta. V\u00e6rdien af USD \/ TRY-pariteten er v\u00e6rdien af den amerikanske dollar mod den tyrkiske lire. For eksempel; Antag at USD = 2, TRY = 1; V\u00e6rdien af USD \/ TRY paritet vil v\u00e6re 2. 1 USD = 2 Turkish Liras er lige, hvis vi forenkler det. Centralbankernes pengepolitik og \u00f8konomiske udvikling p\u00e5virker v\u00e6rdien af valutaerne i landene og skaber seri\u00f8se investeringsmuligheder i valutapariteterne.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "forex",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-bar-chart",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AUDCAD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDJPY",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 8,
+            "Title": "Metaller",
+            "Title2": "F\u00e5 adgang til metal til enkelt platform",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metaller<\/h2><\/div><div class=\"fw simpleContent\"><p>Metaller er navnene p\u00e5 alle varer og produkter i handel. Forexmarkedet er verdens st\u00f8rste finansielle marked, hvor du kan handle p\u00e5 metaller. Investeringsinstrumenter, is\u00e6r guld, aluminium og s\u00f8lv; Med privilegiet af Ekol Global Markets kan du k\u00f8be og s\u00e6lge p\u00e5 Forex markedet.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metals",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-magnet-hand-drawn-tool-outline",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "XAGAUD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 9,
+            "Title": "Indeks",
+            "Title2": "Adgang til World Stock Exchange Indices fra en enkelt platform.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indeks<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices, &amp; nbsp; bruges til at bestemme den generelle retning p\u00e5 aktiemarkedet. Generelle prisudvekslinger p\u00e5 hvert aktiemarked overv\u00e5ges gennem s\u00e6rlige indekser. Aktieindeks indeholder mere end et lager og er en samlet v\u00e6rdi som f\u00f8lge af matematiske beregninger, hvor lagerbeholdningen er m\u00e5lt.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "indices",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-profit",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "DAXEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "F40EUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "FTSGBP",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 10,
+            "Title": "R\u00e5varer",
+            "Title2": "Adgang til varer fra en enkelt platform",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">R\u00e5varer<\/h2><\/div><div class=\"fw simpleContent\"><p>R\u00e5varer, \u00e6dle metaller og metaller er meget vigtige kilder til nationale \u00f8konomier. Guld, som har v\u00e6ret popul\u00e6rt i \u00e5revis, opfattes som en sikker havn af investorer. Ud over guldet i Forex, s\u00f8lv, platin og andre \u00e6dle metaller, der kan investeres i palladium.<\/p><p>Med Ekol Fx hurtige forarbejdning platform, kan du nemt udf\u00f8re dine operationer i 5\/24 timer. Tag plads til hurtige og sikre investeringer i Ekol Fx og blive en af de professionelle investorer!<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "commodities",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-stone",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "WTIUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BRNUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CUCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 11,
+            "Title": "Cyrpto-Valuta",
+            "Title2": "Crypto Money er de grundl\u00e6ggende elektroniske penge eller digitale penge",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Cyrpto-valuta<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money er stort set elektroniske penge eller digitale penge. Men som i online banking har den ikke en fysisk \u00e6kvivalent. Det er en valuta, der aldrig kan ses eller r\u00f8res, undtagen for digitale sk\u00e6rme. Crypto-m\u00f8nter er m\u00f8nter, der kan overf\u00f8res fra person til person og opbevares i fuldt sikre virtuelle punge, ikke forbundet med noget land eller nogen myndighed. Det er et globalt pengeoverf\u00f8rsels-, betalings- og investeringssystem, som kan overf\u00f8res fra person til person, ikke fra interbank. Crypto-m\u00f8nter, der starter med Bitcoin, har skabt deres eget marked med mange forskellige typer. Blandt disse er Bitcoin, Litecoin og Ethereum. Kryptom\u00f8nter, der anvendes som betalingssystem p\u00e5 mange omr\u00e5der af livet, ses som fremtidens finansielle system.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "cyrpto-currency",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-cryptography",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "BATUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BCHUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BTCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 12,
+            "Title": "USA Aktier",
+            "Title2": "N\u00e6sten alle lande har en b\u00f8rs, hvor b\u00f8rsnoterede selskaber handles.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">USA Aktier<\/h2><\/div><div class=\"fw simpleContent\"><p>Amerikanske lager henviser til en af de tilsvarende dele af et selskabs kapital. Ved at k\u00f8be aktier i et firma bliver du en af selskabets partnere. N\u00e5r du investerer i aktier, b\u00f8r du unders\u00f8ge virksomhedens aktiviteter, g\u00e6lds\u00e6tning, v\u00e6kstforventninger, fortjenestestatus, udbytte (fortjeneste) og kort sagt alt om virksomheden. Du kan drage fordel af aktieinvesteringer ved at v\u00e6lge succesfulde, langsigtede og profitable virksomheder.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "usa-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "en.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AAPL",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AMZN",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 13,
+            "Title": "EU Aktier",
+            "Title2": "N\u00e6sten alle lande har en b\u00f8rs, hvor b\u00f8rsnoterede selskaber handles.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Shares EU<\/h2><\/div><div class=\"fw simpleContent\"><p>Europa Stock; henviser til en af de tilsvarende dele af et selskabs kapital. Ved at k\u00f8be aktier i et firma bliver du en af selskabets partnere. N\u00e5r du investerer i aktier, b\u00f8r du unders\u00f8ge virksomhedens aktiviteter, g\u00e6lds\u00e6tning, v\u00e6kstforventninger, fortjenestestatus, udbytte (fortjeneste) og kort sagt alt om virksomheden. Du kan drage fordel af aktieinvesteringer ved at v\u00e6lge succesfulde, langsigtede og profitable virksomheder.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "eu-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "eu.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "ADIDAS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AI",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AIR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 14,
+            "Title": "AS\u0130A Aktier",
+            "Title2": "N\u00e6sten alle lande har en b\u00f8rs, hvor b\u00f8rsnoterede selskaber handles.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\">&nbsp;<h2 class=\"title\">AS\u0130A Aktier<\/h2><\/div>&nbsp;<div class=\"fw simpleContent\">&nbsp;<p>Asien lager henviser til en af de tilsvarende dele af et selskabs kapital. Ved at k\u00f8be aktier i et firma bliver du en af selskabets partnere. N\u00e5r du investerer i aktier, b\u00f8r du unders\u00f8ge virksomhedens aktiviteter, g\u00e6lds\u00e6tning, v\u00e6kstforventninger, fortjenestestatus, udbytte (fortjeneste) og kort sagt alt om virksomheden. Du kan drage fordel af aktieinvesteringer ved at v\u00e6lge succesfulde, langsigtede og profitable virksomheder.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "asia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-asia",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AIA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "Canon",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ChinaMob",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 15,
+            "Title": "RUSS\u0130A Aktier",
+            "Title2": "N\u00e6sten alle lande har en b\u00f8rs, hvor b\u00f8rsnoterede selskaber handles.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">RUSS\u0130A Aktier<\/h2><\/div><div class=\"fw simpleContent\"><p>Rusland Stock; henviser til en af de tilsvarende dele af et selskabs kapital. Ved at k\u00f8be aktier i et firma bliver du en af selskabets partnere. N\u00e5r du investerer i aktier, b\u00f8r du unders\u00f8ge virksomhedens aktiviteter, g\u00e6lds\u00e6tning, v\u00e6kstforventninger, fortjenestestatus, udbytte (fortjeneste) og kort sagt alt om virksomheden. Du kan drage fordel af aktieinvesteringer ved at v\u00e6lge succesfulde, langsigtede og profitable virksomheder.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "russia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "ru.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AFLT",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ALRS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CHMF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indekslar",
+        "Title2": "Butunjahon fond birjasi indekslariga yagona platformadan kirish.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indekslar<\/h2><\/div><div class=\"fw simpleContent\"><p>Fond bozori indekslari, fond bozorining umumiy yo&#39;nalishini aniqlash uchun ishlatiladi. Har fond bozorida narxlarning umumiy almashinuvi maxsus indekslar orqali kuzatiladi. Aksiyadorlik indekslari bir nechta aktsiyalarni o&#39;z ichiga oladi va aktsiyalarning ishlashi o&#39;lchanadigan matematik hisob-kitoblarning natijasi hisoblanadi.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

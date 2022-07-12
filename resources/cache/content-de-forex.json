@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Major, Minor und Exotic Currency Parities",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Die Fremdw\u00e4hrung ist die allgemeine Bezeichnung f\u00fcr die W\u00e4hrungen des Auslandes in t\u00fcrkischer Sprache. Die Parit\u00e4t ist der Wert der W\u00e4hrung eines Landes gegen\u00fcber der W\u00e4hrung eines anderen Landes. Die erste W\u00e4hrung in der W\u00e4hrung bezieht sich auf die Basisw\u00e4hrung. Die zweite W\u00e4hrung ist die Gegenw\u00e4hrung. USD \/ TRY ist der USD-Basiswechselkurs, w\u00e4hrend TRY die Gegenw\u00e4hrung ist. Der Wert der USD \/ TRY-Parit\u00e4t ist der Wert des US-Dollars gegen\u00fcber der t\u00fcrkischen Lira. Zum Beispiel; Angenommen, USD = 2, TRY = 1; Der Wert der USD \/ TRY-Parit\u00e4t betr\u00e4gt 2. 1 USD = 2 T\u00fcrkische Lira ist gleich, wenn wir es vereinfachen. Die Geldpolitik und die wirtschaftliche Entwicklung der Zentralbanken wirken sich auf den Wert der W\u00e4hrungen der L\u00e4nder aus und schaffen ernsthafte Anlagem\u00f6glichkeiten bei den W\u00e4hrungsparit\u00e4ten.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

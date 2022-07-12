@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Uang Kripto",
+        "Title2": "Crypto Money adalah uang elektronik dasar atau uang digital",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Uang Kripto<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money pada dasarnya adalah uang elektronik atau uang digital. Tetapi seperti dalam perbankan online, itu tidak memiliki fisik yang setara. Ini adalah mata uang yang tidak pernah dapat dilihat atau disentuh kecuali untuk tampilan digital. Koin Crypto adalah koin yang dapat ditransmisikan dari orang ke orang dan disimpan dalam dompet virtual yang sepenuhnya aman, tidak terhubung ke negara atau otoritas mana pun. Ini adalah transfer uang global, pembayaran dan sistem investasi yang dapat ditransfer dari orang ke orang, bukan dari antar bank. Koin crypto yang dimulai dengan Bitcoin telah menciptakan pasar mereka sendiri dengan berbagai jenis. Di antaranya adalah Bitcoin, Litecoin dan Ethereum. Koin Crypto, yang digunakan sebagai sistem pembayaran di banyak bidang kehidupan, dipandang sebagai sistem keuangan masa depan.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

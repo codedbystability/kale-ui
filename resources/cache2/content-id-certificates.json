@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Sertifikat",
+        "Title2": "Dokumen dan sertifikat resmi kami",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Sertifikat<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - INDONESIA Dokumen dan sertifikat Ekol Global Markets akan segera diperbarui.<\/p><p>Setelah Anda memindai kode QR berikut dengan kamera ponsel Anda untuk melihat dokumen lisensi kami, sistem akan secara otomatis meneruskan Anda ke dokumen lisensi.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Lisensi akan dicantumkan di atas saat diperbarui.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indeks",
+        "Title2": "Adgang til World Stock Exchange Indices fra en enkelt platform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indeks<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices, &amp; nbsp; bruges til at bestemme den generelle retning p\u00e5 aktiemarkedet. Generelle prisudvekslinger p\u00e5 hvert aktiemarked overv\u00e5ges gennem s\u00e6rlige indekser. Aktieindeks indeholder mere end et lager og er en samlet v\u00e6rdi som f\u00f8lge af matematiske beregninger, hvor lagerbeholdningen er m\u00e5lt.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

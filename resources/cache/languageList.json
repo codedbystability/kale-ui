@@ -1,0 +1,17 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+       
+        {
+            "Id": 0,
+            "Title": "English",
+            "Flag": "en.png",
+            "ShortDesc": "en",
+            "LongDesc": "English",
+            "Link": null
+        }
+    ]
+}

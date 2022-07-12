@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certificati",
+        "Title2": "I nostri documenti e certificati ufficiali",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certificati<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - ITALY Ekol Global Markets I documenti e i certificati verranno aggiornati a breve.<\/p><p>Dopo aver scansionato il seguente codice QR con la fotocamera del telefono per vedere il nostro documento di licenza, il sistema ti inoltrer\u00e0 automaticamente al documento di licenza.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Le licenze saranno elencate sopra come sono aggiornate.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

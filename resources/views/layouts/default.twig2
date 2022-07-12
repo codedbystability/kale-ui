@@ -1,0 +1,94 @@
+<!doctype html>
+<html class="no-js" lang="{{ app().getLocale() }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>{{ head_title }}</title>
+    <meta name="description" content="{{ head_desc }}" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+
+
+
+
+     
+
+  <body{% if body_class is defined and body_class is not empty %} class="{{ body_class }}"{% endif %}>
+
+    {% block page %}{% endblock %}
+
+
+
+<!-- begin ClickGUARD Tracking Code -->
+<script defer type="application/javascript" src="https://io.clickguard.com/s/cHJvdGVjdG9y/ZOG8r7KA"></script>
+<script defer type="application/javascript">
+(function () {
+    window.cg_convert = function (x, y) { if (window._cg_convert) window._cg_convert(x || null, y || null); else setTimeout(function () { cg_convert(x || null, y || null) }, 500); };
+})();
+</script>
+<!-- end ClickGUARD Tracking Code -->
+
+
+    <script src="/vendor.js"></script>
+    <script src="/js/app.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+    <script>
+      window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+      ga('create','UA-XXXXX-Y','auto');ga('send','pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+    
+
+    <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5ececf14c75cbf1769f00315/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169802252-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169802252-1');
+gtag('config', 'AW-654387901');
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '465843491452192');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=465843491452192&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+ _gaq.push(['_setCustomVar', 1, 'IP', '{{ data.ip }}', 1]);
+
+
+</script>
+
+
+  </body>
+</html>

@@ -1,0 +1,332 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "StatusID": 1,
+            "Name": "kalefx1.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx2.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx3.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx4.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx30.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx31.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx32.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx33.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx34.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx35.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx36.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx37.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx38.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx39.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx41.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx42.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx43.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx44.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx45.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx46.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx47.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx48.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx49.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx51.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx52.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx53.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx54.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx55.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx56.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx57.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx58.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx59.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx60.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx61.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx62.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx63.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx64.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx65.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx66.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx67.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx68.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx69.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx71.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx72.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx73.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx74.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx75.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx76.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx77.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx78.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx79.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx80.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx81.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx82.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx83.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx84.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx85.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx86.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx87.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx88.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx89.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx90.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx91.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx92.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx93.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx94.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx95.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx96.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx97.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx98.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx99.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx100.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx101.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx102.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx103.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx104.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx105.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx106.com"
+        },
+        {
+            "StatusID": 1,
+            "Name": "kalefx108.com"
+        },
+        {
+            "StatusID": 3,
+            "Name": "kalefx109.com"
+        }
+    ]
+}

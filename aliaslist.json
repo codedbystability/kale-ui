@@ -1,0 +1,16 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "StatusID": 1,
+            "Name": "kalefx.com"
+        },
+        {
+            "StatusID": 3,
+            "Name": "kalefxglobal.com"
+        }
+    ]
+}

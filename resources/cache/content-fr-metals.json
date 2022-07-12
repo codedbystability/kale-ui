@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "M\u00e9taux",
+        "Title2": "M\u00e9tal d'acc\u00e8s \u00e0 la plate-forme simple",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">M\u00e9taux<\/h2><\/div><div class=\"fw simpleContent\"><p>Les m\u00e9taux sont les noms donn\u00e9s \u00e0 tous les biens et produits commercialis\u00e9s. Le march\u00e9 des changes est le plus grand march\u00e9 financier du monde, o\u00f9 vous pouvez n\u00e9gocier des m\u00e9taux. Instruments de placement, en particulier or, aluminium et argent; Avec le privil\u00e8ge d&rsquo;Ekol Global Markets, vous pouvez acheter et vendre sur le march\u00e9 Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

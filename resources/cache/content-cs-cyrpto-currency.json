@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Krypto pen\u00edze",
+        "Title2": "Crypto Money je z\u00e1kladn\u00ed elektronick\u00e9 pen\u00edze nebo digit\u00e1ln\u00ed pen\u00edze",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Krypto pen\u00edze<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money je v podstat\u011b elektronick\u00e9 pen\u00edze nebo digit\u00e1ln\u00ed pen\u00edze. Ale stejn\u011b jako v online bankovnictv\u00ed nem\u00e1 fyzick\u00fd ekvivalent. Je to m\u011bna, kterou nelze nikdy vid\u011bt ani se j\u00ed dotknout, s v\u00fdjimkou digit\u00e1ln\u00edch displej\u016f. Crypto mince jsou mince, kter\u00e9 mohou b\u00fdt p\u0159en\u00e1\u0161eny z osoby na osobu a uchov\u00e1v\u00e1ny v pln\u011b zabezpe\u010den\u00fdch virtu\u00e1ln\u00edch pen\u011b\u017eenk\u00e1ch, kter\u00e9 nejsou p\u0159ipojeny k \u017e\u00e1dn\u00e9 zemi nebo \u017e\u00e1dn\u00e9 autorit\u011b. Jedn\u00e1 se o glob\u00e1ln\u00ed pen\u011b\u017en\u00ed p\u0159evod, platebn\u00ed a investi\u010dn\u00ed syst\u00e9m, kter\u00fd lze p\u0159ev\u00e9st z osoby na osobu, nikoli z mezibankovn\u00edho. Crypto mince od Bitcoinu vytvo\u0159ily sv\u016fj vlastn\u00ed trh s mnoha r\u016fzn\u00fdmi typy. Mezi nimi jsou Bitcoin, Litecoin a Ethereum. Crypto mince, kter\u00e9 jsou pou\u017e\u00edv\u00e1ny jako platebn\u00ed syst\u00e9m v mnoha oblastech \u017eivota, jsou pova\u017eov\u00e1ny za finan\u010dn\u00ed syst\u00e9m budoucnosti.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

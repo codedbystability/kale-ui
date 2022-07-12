@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "M\u0103rfuri",
+        "Title2": "Accesul la m\u0103rfuri dintr-o singur\u0103 platform\u0103",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">M\u0103rfuri<\/h2><\/div><div class=\"fw simpleContent\"><p>M\u0103rfurile, metalele pre\u021bioase \u0219i metalele sunt surse foarte importante pentru economiile na\u021bionale. Aurul, care a fost popular de ani de zile, este perceput ca un paradis sigur de investitori. \u00cen plus fa\u021b\u0103 de aurul din Forex, argint, platin\u0103 \u0219i alte metale pre\u021bioase care pot fi investite \u00een paladiu.<\/p><p>Cu platforma de procesare rapid\u0103 Ekol Fx, pute\u021bi efectua cu u\u0219urin\u021b\u0103 opera\u021biunile dvs. timp de 5\/24 de ore. Lua\u021bi locul unei investi\u021bii rapide \u0219i sigure \u00een Ekol Fx \u0219i deveni\u021bi unul dintre investitorii profesioni\u0219ti!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

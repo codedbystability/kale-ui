@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "Azioni USA",
+        "Title2": "Quasi ogni paese ha una borsa valori in cui le societ\u00e0 quotate sono negoziate.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Azioni USA<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock USA; si riferisce a una delle parti equivalenti del capitale di una societ\u00e0. Acquistando azioni di un&#39;azienda, si diventa uno dei partner di tale societ\u00e0. Quando si investe in azioni, \u00e8 necessario indagare sulle attivit\u00e0 della societ\u00e0, l&#39;indebitamento, le aspettative di crescita, lo stato di profitto, il dividendo (importo del profitto) e brevemente tutto ci\u00f2 che riguarda l&#39;azienda. Puoi beneficiare degli investimenti azionari scegliendo aziende di successo, a lungo termine e redditizie.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

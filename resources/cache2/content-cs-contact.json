@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Kontakt",
+        "Title2": "Zpr\u00e1vy n\u00e1m m\u016f\u017eete zaslat vypln\u011bn\u00edm kontaktn\u00edch \u00fadaj\u016f nebo formul\u00e1\u0159e!",
+        "ShortDesc": "<h2>Jsme pro V\u00e1s v\u017edy p\u0159ipraveni<br \/><br \/>M\u00e1me skv\u011bl\u00fd t\u00fdm vynikaj\u00edc\u00edch u\u017eivatel\u016f EkolFX, kte\u0159\u00ed jsou v\u017edy k dispozici pro dotazy, p\u0159ipom\u00ednky, n\u00e1vrhy nebo st\u00ed\u017enosti. M\u016f\u017eete n\u00e1s kontaktovat prost\u0159ednictv\u00edm na\u0161ich komunika\u010dn\u00edch kan\u00e1l\u016f n\u00ed\u017ee nebo pomoc\u00ed na\u0161eho kontaktn\u00edho formul\u00e1\u0159e.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

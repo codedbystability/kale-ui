@@ -1,0 +1,22 @@
+/**
+ * Carousel
+ */
+.c-user-cards {
+  $price: &;
+  &.is-hidden {
+    display: none;
+  }
+  &.flickity-enabled {
+    opacity: 1;
+  }
+  &__col {
+    width: 40%;
+    padding: ($grid-gutter-width / 2);
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+    }
+    @include respond-below(md) {
+      width: 65%;
+    }
+  }
+}

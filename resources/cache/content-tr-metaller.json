@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metaller",
+        "Title2": "Alt\u0131n, G\u00fcm\u00fc\u015f gibi de\u011ferli metaller \u00fczerinden anl\u0131k i\u015flemler yap\u0131n",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metaller<\/h2><\/div><div class=\"fw simpleContent\"><p>Metaller, ticaret i\u00e7inde yer alan t\u00fcm mal ve \u00fcr\u00fcnlere verilen isimdir. Forex piyasas\u0131 ise metallerde i\u015flem yapabilece\u011finiz d\u00fcnyan\u0131n en b\u00fcy\u00fck finans piyasas\u0131d\u0131r.&nbsp;Alt\u0131n ve G\u00fcm\u00fc\u015f; ticaretin oldu\u011fu her d\u00f6nemde ad\u0131ndan s\u00f6z ettirmi\u015f ve yat\u0131r\u0131mc\u0131s\u0131n\u0131n y\u00fcz\u00fcn\u00fc g\u00fcld\u00fcrm\u00fc\u015ft\u00fcr. Teknoloji \u00e7a\u011f\u0131nda oldu\u011fumuz bug\u00fcnlerde alt\u0131n ve g\u00fcm\u00fc\u015f\u00fc tek tu\u015f ile sat\u0131n alabilir veya satabilirsiniz. \u00dcstelik sadece gram alt\u0131n olarak de\u011fil, ons alt\u0131n olarak da ABD ve Avrupa&rsquo;daki yat\u0131r\u0131mc\u0131lar ile ayn\u0131 fiyattan alabilirsiniz.<\/p><\/div>",
+        "LongDesc": "Metaller, ticaret i\u00e7inde yer alan t\u00fcm mal ve \u00fcr\u00fcnlere verilen isimdir. Forex piyasas\u0131 ise metallerde i\u015flem yapabilece\u011finiz d\u00fcnyan\u0131n en b\u00fcy\u00fck finans piyasas\u0131d\u0131r. Alt\u0131n ve G\u00fcm\u00fc\u015f; ticaretin oldu\u011fu her d\u00f6nemde ad\u0131ndan s\u00f6z ettirmi\u015f ve yat\u0131r\u0131mc\u0131s\u0131n\u0131n y\u00fcz\u00fcn\u00fc g\u00fcld\u00fcrm\u00fc\u015ft\u00fcr. Teknoloji \u00e7a\u011f\u0131nda oldu\u011fumuz bug\u00fcnlerde alt\u0131n ve g\u00fcm\u00fc\u015f\u00fc tek tu\u015f ile sat\u0131n alabilir veya satabilirsiniz. \u00dcstelik sadece gram alt\u0131n olarak de\u011fil, ons alt\u0131n olarak da ABD ve Avrupa\u2019daki yat\u0131r\u0131mc\u0131lar ile ayn\u0131 fiyattan alabilirsiniz.",
+        "Link": null,
+        "SeoTitle": "Metaller",
+        "SeoDesc": "Forex piyasalar\u0131nda; Alt\u0131n, g\u00fcm\u00fc\u015f gibi enstr\u00fcmanlar\u0131n al\u0131m sat\u0131m i\u015flemlerini Kale Forex ayr\u0131cal\u0131\u011f\u0131 ger\u00e7ekle\u015ftirebilirsiniz.",
+        "SeoTags": "metaller",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

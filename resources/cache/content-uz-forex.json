@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Katta, kichik va ekzotik valyutadagi ulushlar",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u0424\u043e\u0440\u0435\u043a\u0441<\/h2><\/div><div class=\"fw simpleContent\"><p>Chet el valyutasi, chet el valyutalari turkchaga berilgan umumiy nomdir. Birlik - boshqa mamlakat valyutasiga nisbatan mamlakat valyutasining qiymati. Pulning birinchi valyutasi asosiy valyutaga to&#39;g&#39;ri keladi. Ikkinchi pul - bu qarama-qarshi valyutadir. USD \/ TRY, AQSh dollari tayanch almashtirish kursi, TRY esa aksincha, valyuta hisoblanadi. USD \/ TRY paritesinin qiymati, AQSh dollari turk liras\u0131n\u0131n qiymatiga tengdir. Misol uchun; Aytaylik, USD = 2, TRY = 1; USD \/ TRY paritesinin qiymati 2. 2 USD = 2 Turk lirasi, biz uni soddalashtiramiz. Markaziy banklarning pul-kredit siyosati va iqtisodiy rivojlanishi mamlakatlar valyutalarining qiymatiga ta&#39;sir qiladi va valyuta paritetlari uchun jiddiy sarmoyaviy imkoniyatlarni yaratadi.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

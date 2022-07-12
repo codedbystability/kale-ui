@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Kovy",
+        "Title2": "P\u0159\u00edstup k aplikaci Metal to Single Platform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metals<\/h2><\/div><div class=\"fw simpleContent\"><p>Kovy jsou n\u00e1zvy v\u0161ech v\u00fdrobk\u016f a v\u00fdrobk\u016f v obchod\u011b. Forexov\u00fd trh je nejv\u011bt\u0161\u00edm finan\u010dn\u00edm trhem na sv\u011bt\u011b, kde m\u016f\u017eete obchodovat s kovy. Investi\u010dn\u00ed n\u00e1stroje, zejm\u00e9na zlato, hlin\u00edk a st\u0159\u00edbro; S privilegiem Ekol Global Markets m\u016f\u017eete nakupovat a prod\u00e1vat na trhu Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

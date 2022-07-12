@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto-Currency",
+        "Title2": "Crypto Money is the basic electronic money or digital money",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Cyrpto Currency<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money is basically electronic money or digital money. But as in online banking, it does not have a physical equivalent. It is a currency that can never be seen or touched except for digital displays. Crypto coins are coins that can be transmitted from person to person and stored in fully secure virtual purses, not connected to any country or any authority. It is a global money transfer, payment and investment system that can be transferred from person to person, not from interbank. Crypto coins starting with Bitcoin have created their own market with many different types. Among these are Bitcoin, Litecoin and Ethereum. Crypto coins, which are used as a payment system in many areas of life, are seen as the financial system of the future.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Crypto Currency Transactions",
+        "SeoDesc": "Through Ekol Global Markets, you can make instant transactions on crypto currencies in the Forex market and request consultancy on your investments.",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

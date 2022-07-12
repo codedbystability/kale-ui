@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Contact",
+        "Title2": "You can send us messages by filling out contact details or form!",
+        "ShortDesc": "<h2>We are always ready for you<br \/><br \/>We have a great team of outstanding EkolFX users who are always available for questions, comments, suggestions or complaints. You can contact us by using our communication channels below or using our contact form.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Contact",
+        "SeoDesc": "You can share all your questions, opinions, suggestions or complaints about our company and services through this section.",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

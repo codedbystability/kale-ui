@@ -1,0 +1,218 @@
+.c-form-card {
+  $formCard: &;
+  position: relative;
+  &__header {
+    height: 100px;
+    color: $color-white;
+    font-size: rem(34);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  &__content {
+    padding: $space-2 $space-3;
+    height: calc(100% - 100px);
+    color: $color-white;
+    .form-checkbox {
+      a {
+        color: $color-secondary;
+      }
+    }
+  }
+  &__footer {
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    height: 340px;
+    @include respond-below(md) {
+      position: relative;
+      height: auto;
+    }
+    .btn-create-account,
+    .btn-white {
+      line-height: 100px;
+      font-size: rem(25);
+      font-weight: $font-weight-bold;
+    }
+    .btn-create-account {
+      border-radius: 0 0 25px 25px;
+    }
+    p {
+      font-size: rem(25);
+    }
+  }
+  &.form {
+    order: 1;
+    .form-right & {
+      order: 2;
+    }
+    #{$formCard}__header {
+      background-color: $color-dark;
+      font-weight: $font-weight-medium;
+      border-radius: 25px 0 0 0;
+      @include respond-below(md) {
+        border-radius: 25px 25px 0 0;
+      }
+      .form-right & {
+        border-radius: 0 25px 0 0;
+        @include respond-below(md) {
+          border-radius: 25px 25px 0 0;
+        }
+      }
+    }
+    #{$formCard}__content {
+      background-color: $color-white;
+      p {
+        margin: -#{$space-2} -#{$space-3} $space-2 -#{$space-3};
+        padding: $space-2 $space-3;
+        background-color: $gray-200;
+        color: $color-dark;
+      }
+    }
+    &.contact {
+      #{$formCard}__content {
+        border-bottom-left-radius: 25px;
+      }
+    }
+  }
+  &.content {
+    order: 2;
+    @include respond-below(md) {
+      margin-top: $space-3;
+    }
+    .form-right & {
+      order: 1;
+      @include respond-below(md) {
+        order: 2;
+      }
+    }
+    #{$formCard}__header {
+      border-radius: 0 25px 0 0;
+      @include respond-below(md) {
+        border-radius: 25px 25px 0 0;
+      }
+      .form-right & {
+        border-radius: 25px 0 0 0;
+        @include respond-below(md) {
+          border-radius: 25px 25px 0 0;
+        }
+      }
+    }
+    #{$formCard}__content {
+      border-radius: 0 0 25px 0;
+      background: url('../assets/img/create-account-bg.png') center
+        center/cover no-repeat;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      @include respond-below(md) {
+        border-radius: 0 0 25px 25px;
+      }
+      .form-right & {
+        border-radius: 0 0 0 25px;
+        @include respond-below(md) {
+          border-radius: 0 0 25px 25px;
+        }
+      }
+      p {
+        font-size: rem(42);
+        line-height: 1.4;
+        font-weight: $font-weight-light;
+        strong {
+          font-weight: $font-weight-bold;
+        }
+      }
+      ul {
+        li {
+          margin-bottom: $space-1;
+          h4,
+          h5,
+          h6 {
+            line-height: 1.4;
+            small {
+              font-size: rem(14);
+            }
+            a {
+              color: $color-white;
+            }
+          }
+        }
+      }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        padding-left: 0;
+        color: $color-white;
+        font-size: rem(20);
+        opacity: 0.7;
+        line-height: 1;
+        font-weight: $font-weight-bold;
+        transition: $transition-base-opacity;
+        margin-top: $space-1;
+        i {
+          display: inline-block;
+          width: 13px;
+          height: 13px;
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 13 13'%3E%3Cdefs/%3E%3Cpath fill='%23fff' d='M1.152 7.563h6.27138c.4862 0 .7293.5925.38201.94102L5.16604 11.1528c-.41674.4182-.41674 1.1153 0 1.5335.41674.4183 1.11131.4183 1.52805 0l5.45231-5.43697c.4168-.41823.4168-1.11528 0-1.53351L6.76354.313673C6.55517.104557 6.27735-5.4e-7 5.99952-5.7e-7 5.72169-5.9e-7 5.44387.104557 5.2355.313672c-.41674.418231-.41674 1.115278 0 1.533508l2.56989 2.61395c.34729.34852.10419.94101-.38201.94101H1.08254c-.625111 0-1.146035.55764-1.07657898 1.18499C.075418 7.14477.596344 7.563 1.152 7.563z' /%3E%3C/svg%3E");
+          background-size: cover;
+          margin-right: $space-1;
+          position: relative;
+          top: -2px;
+          transition: transform 0.2s ease-in-out;
+        }
+        &:hover {
+          border-color: transparent;
+          opacity: 1;
+          i {
+            transform: translateX(5px);
+          }
+        }
+      }
+    }
+    &.blue-skin {
+      #{$formCard}__header,
+      #{$formCard}__content {
+        background-color: $color-secondary;
+      }
+      #{$formCard}__header {
+        background-color: $color-secondary;
+        font-weight: $font-weight-bold;
+      }
+      #{$formCard}__content {
+        background-color: $color-secondary;
+        p {
+          color: $color-white;
+        }
+      }
+    }
+    &.green-skin {
+      #{$formCard}__header,
+      #{$formCard}__content {
+        background-color: $color-success;
+      }
+      #{$formCard}__header {
+        font-weight: $font-weight-bold;
+      }
+      #{$formCard}__content {
+        p {
+          color: $color-white;
+        }
+      }
+    }
+    &.dark-skin {
+      #{$formCard}__header,
+      #{$formCard}__content {
+        background-color: $color-dark;
+      }
+      #{$formCard}__header {
+        font-weight: $font-weight-bold;
+      }
+      #{$formCard}__content {
+        p {
+          color: $color-white;
+        }
+      }
+    }
+  }
+}

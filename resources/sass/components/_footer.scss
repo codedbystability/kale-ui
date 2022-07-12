@@ -1,0 +1,114 @@
+/**
+ * Footer
+ */
+
+.footer {
+  background-color: $footer-background;
+  &__information {
+    padding: $space-4 0 $space-3;
+  }
+  &__navigation {
+    background-color: $footer-navigation-background;
+    padding: $space-2 0 $space-1;
+    span {
+      font-size: $font-size-sm;
+      color: $color-white;
+    }
+    .footer-logo {
+      display: inline-block;
+      svg {
+        display: block;
+        width: 150px;
+      }
+    }
+    .contact-navigation {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      .list-inline {
+        margin: 0;
+        &__item {
+          position: relative;
+          margin-right: 0;
+          display: inline-flex;
+          align-items: center;
+          &:after {
+            content: '•';
+            font-size: $font-size-xl;
+            padding: $space-025 $space-050 0 $space-075;
+            color: $color-gray;
+          }
+          &:last-child {
+            &:after {
+              content: '';
+              padding: 0;
+            }
+          }
+          a {
+            font-weight: $font-weight-semibold;
+            font-size: $font-size-sm;
+            transition: $transition-base-opacity;
+            color: $color-white;
+            opacity: 0.5;
+            &:hover {
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+  }
+  &__menu {
+    padding: $space-3 0 $space-2;
+    &__list {
+      h4 {
+        color: $color-white;
+        font-weight: $font-weight-normal;
+      }
+      ul {
+        li {
+          line-height: $line-height-base;
+          a {
+            display: inline-block;
+            font-size: $font-size-lg;
+            color: rgba($color-white, 0.5);
+            transition: $transition-base-color;
+            &:hover {
+              color: rgba($color-white, 1);
+            }
+          }
+        }
+      }
+    }
+  }
+  .sub-footer {
+    &__information {
+      padding: $space-3 0;
+      p {
+        font-size: $font-size-lg;
+        line-height: 2;
+        @include respond-below(md) {
+          font-size: rem(12);
+        }
+      }
+    }
+    &__navgation {
+      background-color: $sub-footer-background;
+      padding: $space-2 0;
+      a {
+        display: inline-block;
+        margin: 0 $space-050;
+        color: $color-white;
+        transition: $transition-base-opacity;
+        opacity: 0.5;
+        @include respond-below(md) {
+          font-size: rem(11);
+        }
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Kapcsolatba l\u00e9pni",
+        "Title2": "\u00dczenetet k\u00fcldhet nek\u00fcnk, ha kit\u00f6lti az el\u00e9rhet\u0151s\u00e9geket vagy az \u0171rlapot!",
+        "ShortDesc": "<h2>Mindig k\u00e9szen \u00e1llunk az \u00d6n sz\u00e1m\u00e1ra<br \/><br \/>Van egy kiv\u00e1l\u00f3 csapata kiv\u00e1l\u00f3 EkolFX felhaszn\u00e1l\u00f3knak, akik mindig rendelkez\u00e9sre \u00e1llnak k\u00e9rd\u00e9sek, megjegyz\u00e9sek, javaslatok vagy panaszok sz\u00e1m\u00e1ra. Az al\u00e1bbi kommunik\u00e1ci\u00f3s csatorn\u00e1ink seg\u00edts\u00e9g\u00e9vel vagy kapcsolatfelv\u00e9teli \u0171rlapunk seg\u00edts\u00e9g\u00e9vel kapcsolatba l\u00e9phet vel\u00fcnk.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

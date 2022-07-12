@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Contato",
+        "Title2": "Voc\u00ea pode nos enviar mensagens preenchendo detalhes de contato ou formul\u00e1rio!",
+        "ShortDesc": "<h2>Voc\u00ea est\u00e1 aqui: Alltid klare for deg<br \/><br \/>Temos uma excelente equipe de excelentes usu\u00e1rios EkolFX que est\u00e3o sempre dispon\u00edveis para perguntas, coment\u00e1rios, sugest\u00f5es ou reclama\u00e7\u00f5es. Voc\u00ea pode entrar em contato conosco usando nossos canais de comunica\u00e7\u00e3o abaixo ou usando nosso formul\u00e1rio de contato.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,1808 @@
+[
+  {
+    "GroupID": 7,
+    "Symbol": "AUDCAD",
+    "RawPoints": "17",
+    "RawPips": "1,7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AUDCHF",
+    "RawPoints": "20",
+    "RawPips": "2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AUDJPY",
+    "RawPoints": "20",
+    "RawPips": "2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AUDNZD",
+    "RawPoints": "18",
+    "RawPips": "1,8",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AUDUSD",
+    "RawPoints": "15",
+    "RawPips": "1,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CADCHF",
+    "RawPoints": "20",
+    "RawPips": "2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CADJPY",
+    "RawPoints": "20",
+    "RawPips": "2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CADSGD",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFDKK",
+    "RawPoints": "100",
+    "RawPips": "10",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFHUF",
+    "RawPoints": "265",
+    "RawPips": "26,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFJPY",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFNOK",
+    "RawPoints": "90",
+    "RawPips": "9",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFPLN",
+    "RawPoints": "70",
+    "RawPips": "7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFSEK",
+    "RawPoints": "220",
+    "RawPips": "22",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHFSGD",
+    "RawPoints": "50",
+    "RawPips": "5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DKKSEK",
+    "RawPoints": "110",
+    "RawPips": "11",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURAUD",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURCAD",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURCHF",
+    "RawPoints": "17",
+    "RawPips": "1,7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURCZK",
+    "RawPoints": "370",
+    "RawPips": "37",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURDKK",
+    "RawPoints": "250",
+    "RawPips": "25",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURGBP",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURHKD",
+    "RawPoints": "300",
+    "RawPips": "30",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURHUF",
+    "RawPoints": "70",
+    "RawPips": "7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURJPY",
+    "RawPoints": "16",
+    "RawPips": "1,6",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURNOK",
+    "RawPoints": "23",
+    "RawPips": "2,3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURNZD",
+    "RawPoints": "30",
+    "RawPips": "3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURPLN",
+    "RawPoints": "180",
+    "RawPips": "18",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURRUB ",
+    "RawPoints": "2500",
+    "RawPips": "250",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURSEK",
+    "RawPoints": "250",
+    "RawPips": "25",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURSGD",
+    "RawPoints": "30",
+    "RawPips": "3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURTRY",
+    "RawPoints": "50",
+    "RawPips": "5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURUSD",
+    "RawPoints": "12",
+    "RawPips": "1,2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EURZAR",
+    "RawPoints": "980",
+    "RawPips": "98",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPAUD",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPCAD",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPCHF",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPDKK",
+    "RawPoints": "370",
+    "RawPips": "37",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPHUF",
+    "RawPoints": "275",
+    "RawPips": "27,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPJPY",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPNOK",
+    "RawPoints": "40",
+    "RawPips": "4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPNZD",
+    "RawPoints": "40",
+    "RawPips": "4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPPLN",
+    "RawPoints": "160",
+    "RawPips": "16",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPSEK",
+    "RawPoints": "280",
+    "RawPips": "28",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPSGD",
+    "RawPoints": "45",
+    "RawPips": "4,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPTRY",
+    "RawPoints": "240",
+    "RawPips": "24",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GBPUSD",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HKDJPY",
+    "RawPoints": "13",
+    "RawPips": "1,3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NOKJPY",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NOKSEK",
+    "RawPoints": "140",
+    "RawPips": "14",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDCAD",
+    "RawPoints": "32",
+    "RawPips": "3,2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDCHF",
+    "RawPoints": "24",
+    "RawPips": "2,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDDKK",
+    "RawPoints": "110",
+    "RawPips": "11",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDJPY",
+    "RawPoints": "20",
+    "RawPips": "2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDSEK",
+    "RawPoints": "180",
+    "RawPips": "18",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDSGD",
+    "RawPoints": "35",
+    "RawPips": "3,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NZDUSD",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SEKJPY",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SGDHKD",
+    "RawPoints": "95",
+    "RawPips": "9,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SGDJPY",
+    "RawPoints": "22",
+    "RawPips": "2,2",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "TRYJPY",
+    "RawPoints": "27",
+    "RawPips": "2,7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDCAD",
+    "RawPoints": "14",
+    "RawPips": "1,4",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDCHF",
+    "RawPoints": "16",
+    "RawPips": "1,6",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDCNH",
+    "RawPoints": "26",
+    "RawPips": "2,6",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDCZK",
+    "RawPoints": "90",
+    "RawPips": "9",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDDKK",
+    "RawPoints": "215",
+    "RawPips": "21,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDHKD",
+    "RawPoints": "240",
+    "RawPips": "24",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDHUF",
+    "RawPoints": "140",
+    "RawPips": "14",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDJPY",
+    "RawPoints": "13",
+    "RawPips": "1,3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDMXN",
+    "RawPoints": "70",
+    "RawPips": "7",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDNOK",
+    "RawPoints": "25",
+    "RawPips": "2,5",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDPLN",
+    "RawPoints": "150",
+    "RawPips": "15",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDRUB",
+    "RawPoints": "1100",
+    "RawPips": "110",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDSEK",
+    "RawPoints": "260",
+    "RawPips": "26",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDSGD",
+    "RawPoints": "30",
+    "RawPips": "3",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDTRY",
+    "RawPoints": "90",
+    "RawPips": "9",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "USDZAR",
+    "RawPoints": "620",
+    "RawPips": "62",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAGAUD",
+    "RawPoints": "20",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAGCHF",
+    "RawPoints": "18",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAGEUR",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAGGBP",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAGUSD",
+    "RawPoints": "18",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAUAUD",
+    "RawPoints": "45",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAUCHF",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAUEUR",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAUGBP",
+    "RawPoints": "25",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XAUUSD",
+    "RawPoints": "25",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XPDUSD",
+    "RawPoints": "400",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XPTUSD",
+    "RawPoints": "160",
+    "RawPips": "-",
+    "Commission": "0"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DAXEUR ",
+    "RawPoints": "290",
+    "RawPips": "2,9",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "F40EUR ",
+    "RawPoints": "250",
+    "RawPips": "2,5",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "FTSGBP ",
+    "RawPoints": "240",
+    "RawPips": "2,4",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SMICHF",
+    "RawPoints": "420",
+    "RawPips": "4,2",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ESXEUR",
+    "RawPoints": "300",
+    "RawPips": "3",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "IBXEUR",
+    "RawPoints": "610",
+    "RawPips": "6,1",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DJIUSD",
+    "RawPoints": "420",
+    "RawPips": "4,2",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SPXUSD",
+    "RawPoints": "165",
+    "RawPips": "1,65",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NDXUSD",
+    "RawPoints": "270",
+    "RawPips": "2,7",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NIKJPY",
+    "RawPoints": "22",
+    "RawPips": "22",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "WTIUSD",
+    "RawPoints": "35",
+    "RawPips": "3,5",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BRNUSD",
+    "RawPoints": "6",
+    "RawPips": "6",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CUCUSD",
+    "RawPoints": "154",
+    "RawPips": "15,4",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NGCUSD",
+    "RawPoints": "34",
+    "RawPips": "3,4",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BATUSD",
+    "RawPoints": "860",
+    "RawPips": "0,86",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BCHUSD",
+    "RawPoints": "7490",
+    "RawPips": "7,49",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCUSD",
+    "RawPoints": "15780",
+    "RawPips": "15,78",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DSHUSD",
+    "RawPoints": "2200",
+    "RawPips": "2,2",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EOSUSD",
+    "RawPoints": "520",
+    "RawPips": "0,52",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETCUSD",
+    "RawPoints": "125",
+    "RawPips": "0,12",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETHUSD",
+    "RawPoints": "2150",
+    "RawPips": "2,15",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "IOTUSD",
+    "RawPoints": "54",
+    "RawPips": "0,005",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LTCUSD",
+    "RawPoints": "39850",
+    "RawPips": "3,985",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NEOUSD",
+    "RawPoints": "8",
+    "RawPips": "0,8",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "OMGUSD",
+    "RawPoints": "28",
+    "RawPips": "0,28",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XMRUSD",
+    "RawPoints": "1100",
+    "RawPips": "1,1",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XRPUSD",
+    "RawPoints": "380",
+    "RawPips": "0,003",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ZECUSD",
+    "RawPoints": "1380",
+    "RawPips": "1,38",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCEUR",
+    "RawPoints": "24718",
+    "RawPips": "24,71",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCGBP",
+    "RawPoints": "28480",
+    "RawPips": "28,48",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCJPY",
+    "RawPoints": "90725",
+    "RawPips": "907,25",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCXAU",
+    "RawPoints": "214",
+    "RawPips": "0,021",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BTCXAG",
+    "RawPoints": "18827",
+    "RawPips": "1,882",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BCHEUR",
+    "RawPoints": "7358",
+    "RawPips": "7,358",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BCHGBP",
+    "RawPoints": "6386",
+    "RawPips": "6,386",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BCHJPY",
+    "RawPoints": "90726",
+    "RawPips": "9,0726",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BCHXAG",
+    "RawPoints": "5600",
+    "RawPips": "0,56",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LTCEUR",
+    "RawPoints": "363",
+    "RawPips": "36,3",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LTCGBP",
+    "RawPoints": "314",
+    "RawPips": "0,31",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LTCJPY",
+    "RawPoints": "4470",
+    "RawPips": "44,7",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LTCXAG",
+    "RawPoints": "277",
+    "RawPips": "0,027",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETHEUR",
+    "RawPoints": "2000",
+    "RawPips": "2",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETHGBP",
+    "RawPoints": "1730",
+    "RawPips": "1,73",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETHJPY",
+    "RawPoints": "24820",
+    "RawPips": "248,2",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ETHXAG",
+    "RawPoints": "1520",
+    "RawPips": "0,15",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XRPUSD",
+    "RawPoints": "380",
+    "RawPips": "0,0038",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XRPJPY",
+    "RawPoints": "59",
+    "RawPips": "0,59",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AMZN",
+    "RawPoints": "100",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AAPL",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BA",
+    "RawPoints": "25",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BAC",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "C",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CSCO",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CVX",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DIS",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "F",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "FB",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "FDX",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GOOGL",
+    "RawPoints": "90",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HD",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HPQ",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "IBM",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "INTC",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "JNJ",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "JPM",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "KO",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MA",
+    "RawPoints": "12",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MCD",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MMM",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MRK",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MSFT",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NFLX",
+    "RawPoints": "20",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NKE",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ORCL",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "PEP",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "PG",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "T",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "TSLA",
+    "RawPoints": "25",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "UNH",
+    "RawPoints": "20",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "V",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "VZ",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "WFC",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "WMT",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "XOM",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ADIDAS",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AI",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AIR",
+    "RawPoints": "40",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ALV",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BAS",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BATS",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BAYN",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BMW",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BN",
+    "RawPoints": "3",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "BNP",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CS",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DAI",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DGE",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "DTE",
+    "RawPoints": "3",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "EDF",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GLEN",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GSK",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "IBE",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MC",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NESN",
+    "RawPoints": "3",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NOVN",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "OR",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "RDSA",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "RIO",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ROG",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SAP",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SIE",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ULVR",
+    "RawPoints": "75",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "VOD",
+    "RawPoints": "3",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "VOW3",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AIA",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Canon",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ChinaMob",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CITIC",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CKHutchi",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CNOOC",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Henderson",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HKBankCh",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Honda",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HSBC",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Ind&ComB",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "JpnTbco",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "KDDI",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Keyence",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Lenovo",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Makita",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Mitsubis",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Mitsui",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Mizuho",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Nissan",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "PICC",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Seven&I",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ShenEnrg",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SHK",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Softbank",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Sony",
+    "RawPoints": "1",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Sumitomo",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Tencent",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Toshiba",
+    "RawPoints": "50",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "Toyota",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "AFLT",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ALRS",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "CHMF",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GAZP",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "GMKN",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "HYDR",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "IRAO",
+    "RawPoints": "20",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "LKOH",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MAGN",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MGNT",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MOEX",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "MTSS",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NLMK",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "NVTK",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "PLZL",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "ROSN",
+    "RawPoints": "10",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "RTKM",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SBER",
+    "RawPoints": "6",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SBERP",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SIBN",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SNGS",
+    "RawPoints": "5",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "SNGSP",
+    "RawPoints": "15",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "TATN",
+    "RawPoints": "30",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "URKA",
+    "RawPoints": "4",
+    "RawPips": "-",
+    "Commission": "10$"
+  },
+  {
+    "GroupID": 7,
+    "Symbol": "VTBR",
+    "RawPoints": "2",
+    "RawPips": "-",
+    "Commission": "10$"
+  }
+]

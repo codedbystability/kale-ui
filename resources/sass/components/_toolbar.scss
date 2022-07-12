@@ -1,0 +1,204 @@
+$toolbar-height: 70px;
+$toolbar-mobile-height: 40px;
+$toolbar-link-color: $color-white;
+$toolbar-hover-link-color: $color-light;
+
+.c-toolbar {
+  background-color: $toolbar-background;
+  height: $toolbar-height;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1003;
+  transition: $transition-base-opacity;
+  @include respond-below(md){
+    height: $toolbar-mobile-height;
+  }
+  > .container {
+    .row {
+      @include respond-below(md) {
+        flex-direction: row-reverse;
+        align-items: center;
+      }
+    }
+  }
+  .navbar--opened & {
+    opacity: 0;
+  }
+  .contact-navigation {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    @include respond-below(md) {
+      justify-content: flex-end;
+    }
+    .list-inline {
+      margin: 0;
+      &__item {
+        position: relative;
+        margin-right: 0;
+        display: inline-flex;
+        align-items: center;
+        &:after {
+          content: '•';
+          font-size: $font-size-xl;
+          padding: $space-025 $space-050 0 $space-075;
+          color: $color-gray;
+        }
+        &:last-child {
+          &:after {
+            content: '';
+            padding: 0;
+          }
+        }
+        &:nth-child(2) {
+          &::after {
+            @include respond-below(md){
+              display: none;
+            }
+          }
+        }
+        &:nth-child(3),
+        &:last-child {
+          @include respond-below(md){
+            display: none;
+          }
+        }
+        a {
+          font-weight: $font-weight-semibold;
+          font-size: $font-size-sm;
+          transition: $transition-base-color;
+          color: $toolbar-link-color;
+          &:hover {
+            color: $toolbar-hover-link-color;
+          }
+        }
+      }
+    }
+  }
+  .user-navigation {
+    display: flex;
+    justify-content: flex-end;
+    @include respond-below(md) {
+      justify-content: flex-start;
+    }
+    .btn-user {
+      background-color: transparent;
+      font-size: $font-size-sm;
+      font-weight: $font-weight-bold;
+      margin-right: $space-050;
+      border-radius: 15px;
+      @include respond-below(md) {
+        display: none;
+      }
+      &:hover {
+        color: $toolbar-hover-link-color;
+      }
+      &:last-child {
+        margin-right: 0;
+      }
+      &-register {
+        background-color: $color-white;
+        color: $color-dark;
+        &:hover {
+          color: $color-white;
+          background-color: $color-dark;
+        }
+      }
+      &-trader {
+        background-color: $color-dark;
+        color: $color-white;
+        &:hover {
+          color: $color-dark;
+          background-color: $color-white;
+        }
+      }
+    }
+  }
+
+}
+.c-language-box {
+  $languageBox: &;
+  position: relative;
+  display: inline-flex;
+  transform-style: preserve-3d;
+  perspective: 1000px;
+  &:hover {
+    #{$languageBox}__trigger {
+      background-color: $color-white;
+      color: $color-dark;
+    }
+  }
+  &__trigger {
+    position: relative;
+    z-index: 2;
+    background-color: transparent;
+    border-radius: 15px;
+    font-weight: $font-weight-bold;
+    font-size: $font-size-sm;
+    &:hover {
+      color: $color-dark;
+    }
+    &::after {
+      @include icons(dropdown, 9, 6);
+      margin: $space-025;
+      position: relative;
+      top: -3px;
+    }
+    &.is-open {
+      background-color: $color-white;
+      color: $color-dark;
+    }
+  }
+  &__list {
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    margin-top: -15px;
+    margin-bottom: 0;
+    left: 0;
+    min-width: 100%;
+    width: 150%;
+    max-height: 13em;
+    overflow: auto;
+    display: block;
+    background-color: $color-white;
+    padding: $space-1 0 0;
+    transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out, visibility 0.2s ease-in-out;
+    border-radius: 15px;
+    border-top-left-radius: 0;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, -2, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    transform-origin: center top;
+    perspective: 1000px;
+    pointer-events: none;
+    visibility: hidden;
+    opacity: 0;
+    &.is-open {
+      transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      visibility: visible;
+      opacity: 1;
+      pointer-events: all;
+      transition-timing-function: ease-out;
+    }
+    li {
+      font-size: $font-size-xs;
+      margin: 0;
+      a {
+        color: $color-dark;
+        padding: $space-050 $space-1;
+        display: block;
+        &:hover {
+          background-color: #f4f4f4;
+        }
+      }
+      &:last-child {
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        a {
+          border-bottom-left-radius: 15px;
+          border-bottom-right-radius: 15px;
+        }
+      }
+    }
+  }
+}

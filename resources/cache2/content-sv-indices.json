@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u0130ndex",
+        "Title2": "Tillg\u00e5ng till v\u00e4rldsb\u00f6rsens index fr\u00e5n en enda plattform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Index<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Index, anv\u00e4nds f\u00f6r att best\u00e4mma den allm\u00e4nna riktningen p\u00e5 aktiemarknaden. Allm\u00e4nna prisutbyten p\u00e5 varje aktiemarknad \u00f6vervakas genom s\u00e4rskilda index. Aktieindex inneh\u00e5ller mer \u00e4n ett lager och \u00e4r ett totalt v\u00e4rde som beror p\u00e5 matematiska ber\u00e4kningar d\u00e4r lagrenas prestanda m\u00e4ts.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Major, Minor and Exotic Currency Parities",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>The foreign currency is the general name given to the foreign countries&#39; currencies in Turkish. Parity is the value of a country&#39;s currency against the currency of another country. The first currency in the currency refers to the base currency. The second currency is the opposite currency. USD \/ TRY is the USD base exchange rate, while TRY is the opposite currency. The value of the USD \/ TRY parity is the value of the US dollar against the Turkish Lira. For example; Assume that USD = 2, TRY = 1; The value of USD \/ TRY parity will be 2. 1 USD = 2 Turkish Liras is equal if we simplify it. The monetary policies and economic developments of the central banks affect the value of the currencies of the countries and create serious investment opportunities in the currency parities.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Forex Exchange",
+        "SeoDesc": "Parity is the mutual value of two currencies. General information about major, minor and exotic currency exchange parities.",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

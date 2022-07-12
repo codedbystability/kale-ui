@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MetaTrader 4 Panel</title>
+</head>
+<body>
+<iframe src="https://trade.mql5.com/trade?servers=EkolGlobalMarkets-Demo%2cEkolGlobalMarkets-Real&trade_server=EkolGlobalMarkets-Demo&demo_server=EkolGlobalMarkets-Demo&startup_mode=open_demo&lang={{ app()->getLocale() }}" allowfullscreen="allowfullscreen" style="width: 100%; height: 700px; border: none"></iframe>    
+</body>
+</html>

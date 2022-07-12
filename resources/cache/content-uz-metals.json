@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metall",
+        "Title2": "Bitta platformaga metallga kirish",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metall<\/h2><\/div><div class=\"fw simpleContent\"><p>Metalllar barcha tovarlar va mahsulotlar savdosiga berilgan nomlardir. Forex bozori siz dunyodagi eng yirik moliya bozoridir. Investitsiya vositalari, ayniqsa, oltin, alyuminiy va kumush; Ekol Global Markets imtiyozi bilan siz Forex bozorida xarid qilishingiz va sotishingiz mumkin.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

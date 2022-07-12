@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Pariturile valutare majore, minore \u0219i exotice",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Valuta str\u0103in\u0103 este numele general acordat monedelor \u021b\u0103rilor str\u0103ine \u00een limba turc\u0103. Paritatea este valoarea monedei unei \u021b\u0103ri fa\u021b\u0103 de moneda unei alte \u021b\u0103ri. Prima moned\u0103 din valut\u0103 se refer\u0103 la moneda de baz\u0103. A doua moned\u0103 este moneda opus\u0103. USD \/ TRY este cursul de schimb USD, \u00een timp ce TRY este moneda opus\u0103. Valoarea parit\u0103\u021bii USD \/ TRY este valoarea dolarului american fa\u021b\u0103 de Lira turceasc\u0103. De exemplu; S\u0103 presupunem c\u0103 USD = 2, TRY = 1; Valoarea parit\u0103\u021bii USD \/ TRY va fi 2. 1 USD = 2 Lira turceasc\u0103 este egal\u0103 dac\u0103 o simplific\u0103m. Politicile monetare \u0219i evolu\u021biile economice ale b\u0103ncilor centrale afecteaz\u0103 valoarea monedelor \u021b\u0103rilor \u0219i creeaz\u0103 oportunit\u0103\u021bi serioase de investi\u021bii \u00een parit\u0103\u021bile valutare.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Belgelerimiz",
+        "Title2": "Sertifikalar\u0131m\u0131z ve belgelerimiz ",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Sertifikalar\u0131m\u0131z<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - TURKEY&nbsp;<\/p><p>Belgemizi g\u00f6rmek i\u00e7in a\u015fa\u011f\u0131daki QR kodunu telefonununuzun kameras\u0131 ile taratt\u0131ktan sonra sistem sizi otomatik olarak ilgili belgeye y\u00f6nlendirecektir.<br \/><br \/><strong>1- <\/strong>\u015eirket Kurulu\u015f Belgesi.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><br \/>&nbsp;<p><strong>2- <\/strong>Uluslararas\u0131 Finansal Piyasa \u0130\u015flem Arac\u0131&nbsp;Kurum Lisans Belgesi. [ <strong>IFMRRC <\/strong>]<\/p><p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr3.png\" \/><\/p><p>Lisanslar g\u00fcncellendik\u00e7e yukar\u0131da s\u0131ralanacakt\u0131r.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Sertifikalar\u0131m\u0131z ve Belgelerimiz ",
+        "SeoDesc": "Ekol FX yetkinlik Sertifikalar\u0131 ve kurulu\u015fumuza ait resmi belge ve d\u00f6k\u00fcmanlar\u0131 i\u00e7erir.",
+        "SeoTags": "belgelerimiz",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

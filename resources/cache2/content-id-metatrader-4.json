@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Dapatkan akses ke platform tempat Anda dapat berinvestasi dengan cara tercepat.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 adalah platform perdagangan dan analisis Forex populer yang menyediakan mata uang perdagangan, saham, logam mulia, dan CFD dalam indeks saham. Di bagian ini, pelanggan Ekol FX dapat mengunduh platform perdagangan MetaTrader 4 dan aplikasi seluler untuk PDA, iPhone, iPad, dan Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">SEMUA PLATFORM DENGAN SATU PASSWORDD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OPERASI KEUANGAN MUDAH DAN CEPAT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">SINYAL FOREX GRATIS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">INVESTASI LANGSUNG GANDA<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">DIKIRIM DAN POSISI BUKA IKUTI<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Fitur Platforms<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Satu kata sandi di semua platform<\/li><li>Pelacakan Pesanan dan Buka Posisi<\/li><li>Batas tampilan dan informasi jaminan<\/li><li>Analisis teknis dan grafik dengan Tradingview<\/li><li>Mengirim pesanan melalui grafik<\/li><li>Pengiriman pesanan satu-klik<\/li><li>Tampilan tiket atau daftar, kirim pesanan melalui daftar<\/li><li>Lebih dari 40 paritas, emas, komoditas, dan investasi CFD<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Persyaratan Sistem<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROSESOR<\/span><span class=\"val\">\u01305 DAN BERAKHIR<\/span><\/li><li><span class=\"title\">KONEKSI INTERNET<\/span><span class=\"val\">4 MB DAN BERAKHIR<\/span><\/li><li><span class=\"title\">RESOLUSI LAYAR<\/span><span class=\"val\">1920X1080 (DIREKOMENDASIKAN)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB DAN BERAKHIR<\/span><\/li><li><span class=\"title\">SISTEM OPERASI<\/span><span class=\"val\">WINDOWS 7 DAN BERAKHIR, MAC OS<\/span><\/li><li><span class=\"title\">WEB BROWSER<\/span><span class=\"val\">SEMUA BROWSER (LEBIH DARI CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

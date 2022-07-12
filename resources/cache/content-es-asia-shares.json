@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 14,
+        "Title": "Acciones AS\u0130A",
+        "Title2": "Casi todos los pa\u00edses tienen una bolsa de valores en la que se negocian empresas que cotizan en bolsa.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Acciones AS\u0130A<\/h2><\/div><div class=\"fw simpleContent\"><p>Asia Stock; Se refiere a una de las partes equivalentes del capital de una empresa. Al comprar acciones de una compa\u00f1\u00eda, usted se convierte en uno de los socios de esa compa\u00f1\u00eda. Cuando invierte en acciones, debe investigar las actividades de la empresa, el endeudamiento, las expectativas de crecimiento, el estado de las ganancias, el dividendo (cantidad de ganancias) y brevemente todo sobre la compa\u00f1\u00eda. Puede beneficiarse de la inversi\u00f3n en acciones al elegir empresas exitosas, a largo plazo y con fines de lucro.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "asia-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

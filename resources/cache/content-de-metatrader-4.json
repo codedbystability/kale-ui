@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Erhalten Sie Zugang zu Plattformen, auf denen Sie am schnellsten investieren k\u00f6nnen.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>Aktienindizes bereitstellt. In diesem Bereich k\u00f6nnen Ekol FX-Kunden die MetaTrader 4-Handelsplattform und mobile Anwendungen f\u00fcr PDA, iPhone, iPad und Android herunterladen.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">ALLE PLATTFORMEN MIT EINEM PASSWORT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">EINFACHE UND SCHNELLE FINANZIELLE OPERATIONEN<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">KOSTENLOSE FOREX-S\u0130GNALE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOPPELTE DIREKTE INVESTITION<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENDEN UND OFFENE POSITION FOLGEN<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Plattform Funktionen<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Ein Passwort auf allen Plattformen <!-- li--><\/li><li>Auftragsverfolgung und Positionsverfolgung <!-- li--><\/li><li>Limit- und Sicherheiteninformationen anzeigen <!-- li--><\/li><li>Technische Analyse und Charts mit Tradingview <!-- li--><\/li><li>Senden von Bestellungen \u00fcber Grafiken <!-- li--><\/li><li>Ein-Klick-Bestellung einreichen <!-- li--><\/li><li>Ticket- oder Listenansicht, Bestellung \u00fcber Liste abschicken <!-- li--><\/li><li>Mehr als 40 Parit\u00e4ts-, Gold-, Rohstoff- und CFD-Anlagen <!-- li--><\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">System Anforderungen<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROZESSOR<\/span><span class=\"val\">\u01305 UND \u00dcBER<\/span><\/li><li><span class=\"title\">INTERNETVERBINDUNG<\/span><span class=\"val\">4 MB UND \u00dcBER<\/span><\/li><li><span class=\"title\">BILDSCHIRMAUFL\u00d6SUNG<\/span><span class=\"val\">1920X1080 (RECOMMENDED)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB AUND \u00dcBER<\/span><\/li><li><span class=\"title\">BETRIEBSSYSTEME<\/span><span class=\"val\">WINDOWS 7 UND \u00dcBER, MAC OS<\/span><\/li><li><span class=\"title\">WEBBROWSER<\/span><span class=\"val\">ALLER BROWSER (\u00dcBER CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

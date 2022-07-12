@@ -1,0 +1,27 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = CoInfo('SeoTitle')  %}
+{% set head_desc = CoInfo('SeoDesc')  %}
+{% set body_class = 'light-theme p-home-page' %}
+{% set menu_active = 'blank-page' %}
+{% block page %}
+{% set live_exchange = true %}
+{% include '../components/header-landing.twig' %}
+
+<div class="main-wrapper">
+  {% include '../../modules/home-slider/home-slider.twig' %}
+  {% include '../sections/home/about-us-section-landing.twig' %}
+  {% include '../sections/home/countdown-section.twig' %}
+  {% include '../sections/home/investment-diversity-section-landing.twig' %}
+  {% include '../sections/home/start-with-kale.twig' %}
+  {% include '../sections/home/available-platforms.twig' %}
+  {# include '../sections/home/forex-training.twig' #}
+  {% include '../sections/home/payment-methods-landing.twig' %}
+  {% include '../sections/home/price-provider.twig' %}
+</div>
+<div id="daily-modal" class="daily-content" style='display:none' data-active="false">
+  <div class="title">
+  </div>
+  <div class="content">
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

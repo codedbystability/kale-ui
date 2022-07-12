@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Commodities",
+        "Title2": "Tilgang til varer fra en enkelt plattform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Commodities<\/h2><\/div><div class=\"fw simpleContent\"><p>R\u00e5varer, edle metaller og metaller er sv\u00e6rt viktige kilder for nasjonale \u00f8konomier. Gull, som har v\u00e6rt popul\u00e6rt i mange \u00e5r, oppfattes som et trygt fristed av investorer. I tillegg til gullet i Forex, s\u00f8lv, platina og andre edle metaller som kan investeres i palladium.<\/p><p>Med Ekol Fx hurtigbehandlingsplattform kan du enkelt utf\u00f8re driften i 5\/24 timer. Ta stedet for raske og sikre investeringer i Ekol Fx og bli en av profesjonelle investorer!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

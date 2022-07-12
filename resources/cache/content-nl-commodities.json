@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Commodities",
+        "Title2": "Toegang tot grondstoffen via een enkel platform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Commodities<\/h2><\/div><div class=\"fw simpleContent\"><p>Grondstoffen, edelmetalen en metalen zijn zeer belangrijke bronnen voor nationale economie\u00ebn. Goud, dat al jaren populair is, wordt door investeerders als een veilige haven beschouwd. Naast het goud in forex, zilver, platina en andere edele metalen dat kan worden ge\u00efnvesteerd in palladium.<\/p><p>Met het snelle verwerkingsplatform van Ekol Fx kunt u uw bewerkingen eenvoudig gedurende 5\/24 uur uitvoeren. Neem de plaats in van snelle en veilige investeringen in Ekol Fx en word een van de professionele beleggers!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

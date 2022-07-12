@@ -1,0 +1,213 @@
+[24-May-2019 00:43:46 Europe/Istanbul] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build in /home/wwwekolfx1/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[24-May-2020 04:43:48 Europe/Istanbul] PHP Warning:  require(/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[24-May-2020 04:43:48 Europe/Istanbul] PHP Warning:  require(/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[24-May-2020 04:43:48 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required '/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[24-May-2020 10:32:03 Europe/Istanbul] PHP Warning:  require(/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[24-May-2020 10:32:03 Europe/Istanbul] PHP Warning:  require(/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[24-May-2020 10:32:03 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required '/home/kalefx1/public_html/vendor/composer/../laravel/framework/src/Illuminate/Foundation/helpers.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/composer/autoload_real.php on line 66
+[27-May-2020 09:20:39 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 09:20:39 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:08 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:08 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:16 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:16 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:30 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:30 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:40 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:55:40 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:57:51 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 11:57:51 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 12:41:43 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 12:41:43 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 16:16:36 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 16:16:36 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 17:05:11 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 17:05:11 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 17:53:09 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 17:53:09 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 18:35:18 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 18:35:18 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 19:39:27 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 19:39:27 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 20:35:52 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 20:35:52 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 22:25:27 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 22:25:27 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 22:26:02 UTC] PHP Warning:  Uncaught ErrorException: require(/home/kalefx1/public_html/routes/web.php): failed to open stream: No such file or directory in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php:35
+Stack trace:
+#0 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/k...', '/home/kalefx1/p...', 35, Array)
+#1 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require()
+#2 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(415): Illuminate\Routing\RouteFileRegistrar->register('/home/kalefx1/p...')
+#3 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/Router.php(373): Illuminate\Routing\Router->loadRoutes('/home/kalefx1/p...')
+#4 /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(121): Illuminate\Routing\Rout in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[27-May-2020 22:26:02 UTC] PHP Fatal error:  Illuminate\Routing\RouteFileRegistrar::register(): Failed opening required '/home/kalefx1/public_html/routes/web.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefx1/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[02-Jun-2022 14:07:34 Europe/Istanbul] PHP Warning:  require(/home/kalefxglobal/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home/kalefxglobal/public_html/vendor/composer/autoload_real.php on line 66
+[02-Jun-2022 14:07:34 Europe/Istanbul] PHP Warning:  require(/home/kalefxglobal/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): failed to open stream: No such file or directory in /home/kalefxglobal/public_html/vendor/composer/autoload_real.php on line 66
+[02-Jun-2022 14:07:34 Europe/Istanbul] PHP Fatal error:  require(): Failed opening required '/home/kalefxglobal/public_html/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kalefxglobal/public_html/vendor/composer/autoload_real.php on line 66
+[02-Jun-2022 11:35:19 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:38:42 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:38:53 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:38:56 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:39:12 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:39:16 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:40:43 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:40:44 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:41:38 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:42:11 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[02-Jun-2022 11:55:13 UTC] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/kalefx1/public_html/storage/framework/views/59a5ea7bf2def5026445dbb498d20b537a368b12.php): failed to open stream: Permission denied in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/home/kalefxglo...', 122, Array)
+#1 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('/home/kalefx1/p...', '<?php $__env->s...', 0)
+#2 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(140): Illuminate\Filesystem\Filesystem->put('/home/kalefx1/p...', '<?php $__env->s...')
+#3 /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/home/kalefxglo...')
+#4 /home/kalefxglobal/public_html in /home/kalefxglobal/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122

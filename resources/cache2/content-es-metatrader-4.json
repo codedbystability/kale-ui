@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Accede a plataformas donde puedes invertir de la manera m\u00e1s r\u00e1pida.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 es una popular plataforma de negociaci\u00f3n y an\u00e1lisis de divisas que proporciona divisas comerciales, acciones, metales preciosos y CFD en los \u00edndices burs\u00e1tiles. En esta secci\u00f3n, los clientes de Ekol FX pueden descargar la plataforma comercial MetaTrader 4 y las aplicaciones m\u00f3viles para PDA, iPhone, iPad y Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">TODAS LAS PLATAFORMAS CON UNA CONTRASE\u00d1A<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OPERACIONES FINANCIERAS F\u00c1CILES Y R\u00c1PIDAS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">SE\u00d1ALES DE FOREX GRATIS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOBLE INVERSION DIRECTA<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">POSICI\u00d3N ENVIADA Y ABIERTA SIGUE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Caracter\u00edsticas de la plataforma<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Una contrase\u00f1a en todas las plataformas <!-- li--><\/li><li>Seguimiento de pedidos y posiciones abiertas <!-- li--><\/li><li>Mostrar informaci\u00f3n l\u00edmite y colateral <!-- li--><\/li><li>An\u00e1lisis t\u00e9cnicos y gr\u00e1ficos con Tradingview. <!-- li--><\/li><li>Terminando los pedidos a trav\u00e9s de gr\u00e1ficos <!-- li--><\/li><li>Env\u00edo de orden con un clic <!-- li--><\/li><li>Boleto o vista de lista, enviar orden v\u00eda lista <!-- li--><\/li><li>M\u00e1s de 40 inversiones en paridad, oro, materias primas y CFD. <!-- li--><\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Requisitos del sistema<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESADOR<\/span><span class=\"val\">\u01305 Y M\u00c1S<\/span><\/li><li><span class=\"title\">CONEXI\u00d3N A INTERNET<\/span><span class=\"val\">4 MB Y M\u00c1S<\/span><\/li><li><span class=\"title\">RESOLUCI\u00d3N DE LA PANTALLA<\/span><span class=\"val\">1920X1080 (RECOMENDADA)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB Y M\u00c1S<\/span><\/li><li><span class=\"title\">SISTEMAS OPERATIVOS<\/span><span class=\"val\">WINDOWS 7 Y M\u00c1S, MAC OS<\/span><\/li><li><span class=\"title\">NAVEGADOR WEB<\/span><span class=\"val\">ALL BROWSER (M\u00c1S CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

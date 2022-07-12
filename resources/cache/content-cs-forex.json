@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Hlavn\u00ed, minoritn\u00ed a exotick\u00e9 m\u011bnov\u00e9 parity",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Ciz\u00ed m\u011bna je obecn\u00fd n\u00e1zev dan\u00e9 m\u011bn\u011b ciz\u00edch zem\u00ed v ture\u010dtin\u011b. Parita je hodnota m\u011bny zem\u011b v\u016f\u010di m\u011bn\u011b jin\u00e9 zem\u011b. Prvn\u00ed m\u011bna v m\u011bn\u011b ozna\u010duje z\u00e1kladn\u00ed m\u011bnu. Druh\u00e1 m\u011bna je opa\u010dn\u00e1 m\u011bna. USD \/ TRY je z\u00e1kladn\u00ed kurz USD, zat\u00edmco TRY je opa\u010dn\u00e1 m\u011bna. Hodnota parity USD \/ TRY je hodnota americk\u00e9ho dolaru v\u016f\u010di tureck\u00e9 li\u0159e. Nap\u0159\u00edklad; P\u0159edpokl\u00e1dejme, \u017ee USD = 2, TRY = 1; Hodnota parity USD \/ TRY bude 2. 1 USD = 2 Tureck\u00e1 l\u00edrka je stejn\u00e1, pokud ji zjednodu\u0161\u00edme. M\u011bnov\u00e1 politika a ekonomick\u00fd v\u00fdvoj centr\u00e1ln\u00edch bank ovliv\u0148uj\u00ed hodnotu m\u011bn zem\u00ed a vytv\u00e1\u0159ej\u00ed v\u00e1\u017en\u00e9 investi\u010dn\u00ed p\u0159\u00edle\u017eitosti v m\u011bnov\u00fdch parit\u00e1ch.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

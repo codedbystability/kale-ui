@@ -1,0 +1,36 @@
+<div class="c-toolbar">
+  <div class="container">
+    <div class="row">
+      <div class="col-8 col-md-6 contact-navigation">
+        <ul class="list-inline">
+         
+          <li class="list-inline__item" style="display: none;">
+            <a href="tel:{{CoInfo('Phone')}}">{{CoInfo('Phone')}}</a>
+          </li>
+          <li class="list-inline__item disable-desktop">
+            <a target="_blank" href="{{localizeURL('/meta') }}">
+              {{LangValue('web_trader')}}
+            </a>
+          </li>
+          <li class="list-inline__item disable-mobile">
+            <a href="{{localizeURL(data.menucontact.SeoTags)}}">{{LangValue('biz_sizi_arayalim')}}</a>
+          </li>
+         
+        </ul>
+      </div>
+      <div class="col-4 col-md-6 user-navigation">
+       
+       
+
+        <a href="{{localizeURL('/register') }}" class="btn btn-user btn-user-register">
+          {{LangValue('hesap_ac')}}
+        </a>
+        <a   target="_blank" href="{{localizeURL('/meta') }}" class="btn btn-user btn-user-trader"  >
+          {{LangValue('web_trader')}}
+        </a>
+
+
+      </div>
+    </div>
+  </div>
+</div>

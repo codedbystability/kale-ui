@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Zertifikate",
+        "Title2": "Unsere offiziellen Dokumente und Zertifikate",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Zertifikate<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - DEUTSCHLAND Ekol Global Markets Dokumente und Zertifikate werden in K\u00fcrze aktualisiert.<\/p><p>Nachdem Sie den folgenden QR-Code mit der Kamera Ihres Telefons gescannt haben, um unser Lizenzdokument anzuzeigen, werden Sie vom System automatisch zum Lizenzdokument weitergeleitet.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Lizenzen werden oben aufgef\u00fchrt, sobald sie aktualisiert werden.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

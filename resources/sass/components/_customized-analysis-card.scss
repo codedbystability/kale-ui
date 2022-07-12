@@ -1,0 +1,27 @@
+body {
+  counter-reset: my-sec-counter;
+}
+.c-customized-analysis-card {
+  border-radius: rem(15);
+  background-color: $color-white;
+  padding: $space-2 $space-3;
+  // box-shadow: 0 0 10px 1px rgba($color-dark, 0.05);
+  &::before {
+    counter-increment: my-sec-counter;
+    content: '0' counter(my-sec-counter);
+    margin-bottom: $space-2;
+    font-size: rem(41);
+    font-weight: $font-weight-bold;
+    display: block;
+    text-align: left;
+  }
+  h2 {
+    font-weight: $font-weight-bold;
+    color: $color-dark;
+  }
+  p {
+    color: $color-dark;
+    font-size: rem(18);
+    font-weight: $font-weight-medium;
+  }
+}

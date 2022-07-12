@@ -1,0 +1,43 @@
+.c-tabs {
+  &__navigation {
+    display: flex;
+    a {
+      padding: $space-1 $space-2 $space-1 0;
+      margin-right: $space-1;
+      font-size: $font-size-xl;
+      display: inline-flex;
+      transition: $transition-base-color;
+      position: relative;
+      line-height: 1;
+      &:hover {
+        cursor: pointer;
+      }
+      &:after {
+        content: '';
+        width: 0;
+        height: 2px;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        transition: width 0.2s ease-in-out;
+        background-color: $color-primary;
+      }
+      &.is-active {
+        color: $color-primary;
+        &:after {
+          width: 100%;
+        }
+      }
+    }
+    @include respond-below(md) {
+      overflow-x: scroll;
+      overflow-y: hidden;
+    }
+  }
+  &__content {
+    display: none;
+    &.is-active {
+      display: block;
+    }
+  }
+}

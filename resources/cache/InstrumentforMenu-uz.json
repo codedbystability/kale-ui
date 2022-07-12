@@ -1,0 +1,368 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 7,
+            "Title": "Forex",
+            "Title2": "Katta, kichik va ekzotik valyutadagi ulushlar",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u0424\u043e\u0440\u0435\u043a\u0441<\/h2><\/div><div class=\"fw simpleContent\"><p>Chet el valyutasi, chet el valyutalari turkchaga berilgan umumiy nomdir. Birlik - boshqa mamlakat valyutasiga nisbatan mamlakat valyutasining qiymati. Pulning birinchi valyutasi asosiy valyutaga to&#39;g&#39;ri keladi. Ikkinchi pul - bu qarama-qarshi valyutadir. USD \/ TRY, AQSh dollari tayanch almashtirish kursi, TRY esa aksincha, valyuta hisoblanadi. USD \/ TRY paritesinin qiymati, AQSh dollari turk liras\u0131n\u0131n qiymatiga tengdir. Misol uchun; Aytaylik, USD = 2, TRY = 1; USD \/ TRY paritesinin qiymati 2. 2 USD = 2 Turk lirasi, biz uni soddalashtiramiz. Markaziy banklarning pul-kredit siyosati va iqtisodiy rivojlanishi mamlakatlar valyutalarining qiymatiga ta&#39;sir qiladi va valyuta paritetlari uchun jiddiy sarmoyaviy imkoniyatlarni yaratadi.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "forex",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-bar-chart",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AUDCAD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AUDJPY",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 8,
+            "Title": "Metall",
+            "Title2": "Bitta platformaga metallga kirish",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metall<\/h2><\/div><div class=\"fw simpleContent\"><p>Metalllar barcha tovarlar va mahsulotlar savdosiga berilgan nomlardir. Forex bozori siz dunyodagi eng yirik moliya bozoridir. Investitsiya vositalari, ayniqsa, oltin, alyuminiy va kumush; Ekol Global Markets imtiyozi bilan siz Forex bozorida xarid qilishingiz va sotishingiz mumkin.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metals",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-magnet-hand-drawn-tool-outline",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "XAGAUD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGCHF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "XAGEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 9,
+            "Title": "Indekslar",
+            "Title2": "Butunjahon fond birjasi indekslariga yagona platformadan kirish.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indekslar<\/h2><\/div><div class=\"fw simpleContent\"><p>Fond bozori indekslari, fond bozorining umumiy yo&#39;nalishini aniqlash uchun ishlatiladi. Har fond bozorida narxlarning umumiy almashinuvi maxsus indekslar orqali kuzatiladi. Aksiyadorlik indekslari bir nechta aktsiyalarni o&#39;z ichiga oladi va aktsiyalarning ishlashi o&#39;lchanadigan matematik hisob-kitoblarning natijasi hisoblanadi.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "indices",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-profit",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "DAXEUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "F40EUR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "FTSGBP",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 10,
+            "Title": "Mahsulotlar",
+            "Title2": "Yagona platformadan mollarga kirish",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Mahsulotlar<\/h2><\/div><div class=\"fw simpleContent\"><p>Tovarlar, qimmatbaho metallar va metallar milliy iqtisodiyot uchun juda muhim manbadir. Ko&#39;p yillardan buyon mashhur bo&#39;lgan Oltin investorlarning xavfsiz hududi sifatida qabul qilinadi. Forex, oltin, kumush, platina va boshqa qimmatbaho metallarga qo&#39;shimcha ravishda palladiyga investitsiya qilish mumkin.<\/p><p>Ekol FX ning tezkor ishlov berish platformasi yordamida siz operatsiyalaringizni 5\/24 soat osongina bajarishingiz mumkin. &quot;Ekol Fx&quot; ga tez va xavfsiz investitsiyalar o&#39;rnini egallab oling va professional investorlardan biriga aylang!<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "commodities",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-stone",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "WTIUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BRNUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CUCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 11,
+            "Title": "Kripto Pul",
+            "Title2": "Kripto Pul - asosiy elektron pul yoki raqamli pul",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>Kripto Pul asosan elektron pul yoki raqamli puldir. Biroq, onlayn-bankingda bo&#39;lgani kabi, bu jismoniy ekvivalenti yo&#39;q. Raqamli displeylar bundan mustasno, hech qachon ko&#39;rilmaydigan yoki tegilmaydigan valyutadir. Kripto sikkalari - bu shaxslardan shaxsga uzatilishi mumkin bo&#39;lgan va hech qanday mamlakat yoki biron-bir hokimiyatga aloqador bo&#39;lmagan to&#39;liq xavfsiz virtual sumkada saqlangan tanga. Bu - global pul o&#39;tkazmalari, to&#39;lovlar va investitsiya tizimi bo&#39;lib, bu banklararo emas, balki shaxsdan shaxsga o&#39;tkazilishi mumkin. Bitcoin bilan ishlaydigan kripto sikkalari turli xil turlari bilan o&#39;z bozorlarini yaratdi. Ular orasida Bitcoin, Litecoin va Ethereum mavjud. Hayotning ko&#39;plab sohalarida to&#39;lov tizimi sifatida ishlatiladigan kripto sikkalari kelajakning moliyaviy tizimi sifatida qaraladi.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "cyrpto-currency",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-cryptography",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "BATUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BCHUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BTCUSD",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 12,
+            "Title": "AQSh aktsiyalari",
+            "Title2": "Deyarli har bir mamlakatda ommaviy savdo qiladigan kompaniyalar sotuvga qo'yilgan birjalar mavjud.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AQSh aktsiyalari<\/h2><\/div><div class=\"fw simpleContent\"><p>AQSh aktsiyalari; kompaniyaning kapitalining ekvivalent qismlaridan biriga tegishlidir. Kompaniyaning aktsiyalarini sotib olib, Siz ushbu kompaniyaning hamkorlaridan biriga aylanasiz. Qimmatli qog&#39;ozlarga investitsiyalar kiritishda kompaniyaning faoliyati, qarzdorligi, o&#39;sish istiqbollari, foydaning holati, dividend miqdori va kompaniyani qisqacha o&#39;rganish kerak. Siz muvaffaqiyatli, uzoq muddatli va foyda keltiruvchi kompaniyalarni tanlab, aktsiyadorlik investitsiyalaridan foydalanishingiz mumkin.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "usa-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "en.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AAPL",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AMZN",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "BA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 13,
+            "Title": "Evropa Hissa",
+            "Title2": "Deyarli har bir mamlakatda ommaviy savdo qiladigan kompaniyalar sotuvga qo'yilgan birjalar mavjud.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Evropa Ittifoqi ulushlari<\/h2><\/div><div class=\"fw simpleContent\"><p>Yevropa kabinetga; kompaniyaning kapitalining ekvivalent qismlaridan biriga tegishlidir. Kompaniyaning aktsiyalarini sotib olib, Siz ushbu kompaniyaning hamkorlaridan biriga aylanasiz. Qimmatli qog&#39;ozlarga investitsiyalar kiritishda kompaniyaning faoliyati, qarzdorligi, o&#39;sish istiqbollari, foydaning holati, dividend miqdori va kompaniyani qisqacha o&#39;rganish kerak. Siz muvaffaqiyatli, uzoq muddatli va foyda keltiruvchi kompaniyalarni tanlab, aktsiyadorlik investitsiyalaridan foydalanishingiz mumkin.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "eu-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "eu.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "ADIDAS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AI",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "AIR",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 14,
+            "Title": "AS\u0130A hissa",
+            "Title2": "Deyarli har bir mamlakatda ommaviy savdo qiladigan kompaniyalar sotuvga qo'yilgan birjalar mavjud.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AS\u0130A hissa<\/h2><\/div><div class=\"fw simpleContent\"><p>Osiyo hissasi; kompaniyaning kapitalining ekvivalent qismlaridan biriga tegishlidir. Kompaniyaning aktsiyalarini sotib olib, Siz ushbu kompaniyaning hamkorlaridan biriga aylanasiz. Qimmatli qog&#39;ozlarga investitsiyalar kiritishda kompaniyaning faoliyati, qarzdorligi, o&#39;sish istiqbollari, foydaning holati, dividend miqdori va kompaniyani qisqacha o&#39;rganish kerak. Siz muvaffaqiyatli, uzoq muddatli va foyda keltiruvchi kompaniyalarni tanlab, aktsiyadorlik investitsiyalaridan foydalanishingiz mumkin.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "asia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "flaticon-asia",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AIA",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "Canon",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ChinaMob",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        },
+        {
+            "Id": 15,
+            "Title": "Rossiya aksiyalari",
+            "Title2": "Deyarli har bir mamlakatda ommaviy savdo qiladigan kompaniyalar sotuvga qo'yilgan birjalar mavjud.",
+            "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Rossiya aksiyalari<\/h2><\/div><div class=\"fw simpleContent\"><p>Rossiya fondlari; kompaniyaning kapitalining ekvivalent qismlaridan biriga tegishlidir. Kompaniyaning aktsiyalarini sotib olib, Siz ushbu kompaniyaning hamkorlaridan biriga aylanasiz. Qimmatli qog&#39;ozlarga investitsiyalar kiritishda kompaniyaning faoliyati, qarzdorligi, o&#39;sish istiqbollari, foydaning holati, dividend miqdori va kompaniyani qisqacha o&#39;rganish kerak. Siz muvaffaqiyatli, uzoq muddatli va foyda keltiruvchi kompaniyalarni tanlab, aktsiyadorlik investitsiyalaridan foydalanishingiz mumkin.<\/p><\/div>",
+            "LongDesc": "",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "russia-shares",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "ru.png",
+            "SubContent": [
+                {
+                    "Id": 0,
+                    "Title": "AFLT",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "ALRS",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                },
+                {
+                    "Id": 0,
+                    "Title": "CHMF",
+                    "Title2": null,
+                    "ShortDesc": null,
+                    "LongDesc": null
+                }
+            ]
+        }
+    ]
+}

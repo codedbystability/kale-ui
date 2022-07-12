@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "Ob\u021bine\u021bi acces la platforme unde pute\u021bi investi \u00een cel mai rapid mod.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 este o platform\u0103 popular\u0103 de tranzac\u021bionare \u0219i analiz\u0103 valutar\u0103 care ofer\u0103 valori de tranzac\u021bionare, ac\u021biuni, metale pre\u021bioase \u0219i CFD-uri \u00een indici bursieri. \u00cen aceast\u0103 sec\u021biune, clien\u021bii Ekol FX pot desc\u0103rca platforma de tranzac\u021bionare MetaTrader 4 \u0219i aplica\u021biile mobile pentru PDA, iPhone, iPad \u0219i Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">TOATE PLATFORMELE CU UN PAS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OPERA\u021aIUNI FINANCIARE ULTIME \u0218I RAPIDE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">GRATUIT SEMNALE FOREX<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">INVESTI\u021aII DIRECTE DIRECT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">TRIMITEREA \u0218I DESCHIDEREA POZI\u021aIEI<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Caracteristicile platformei<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>O parol\u0103 pe toate platformele<\/li><li>Ordine \u0219i urm\u0103rirea pozi\u021biei deschise<\/li><li>Afi\u0219a\u021bi informa\u021bii limit\u0103 \u0219i garan\u021bii<\/li><li>Analiza tehnic\u0103 \u0219i grafice cu Tradingview<\/li><li>Trimiterea comenzilor prin intermediul graficii<\/li><li>Aplica\u021bia de comand\u0103 cu un singur clic<\/li><li>Vizualizare bilete sau liste, trimite\u021bi ordine prin list\u0103<\/li><li>Mai mult de 40 de investi\u021bii de paritate, aur, m\u0103rfuri \u0219i CFD<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Cerin\u021be de sistem<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESOR<\/span><span class=\"val\">\u01305 \u0218i Peste<\/span><\/li><li><span class=\"title\">CONEXIUNE INTERNET<\/span><span class=\"val\">4 MB \u0218i Peste<\/span><\/li><li><span class=\"title\">REZOLUTIA ECRANULUI<\/span><span class=\"val\">1920X1080 (RECOMANDAT)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB \u0218i Peste<\/span><\/li><li><span class=\"title\">SISTEME DE OPERARE<\/span><span class=\"val\">WINDOWS 7 \u0218i Peste, MAC OS<\/span><\/li><li><span class=\"title\">BROWSER WEB<\/span><span class=\"val\">TOATE BROWSER (Peste CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

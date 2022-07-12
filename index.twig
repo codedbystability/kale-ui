@@ -1,0 +1,39 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = CoInfo('SeoTitle')  %}
+{% set head_desc = CoInfo('SeoDesc')  %}
+{% set body_class = 'light-theme p-home-page' %}
+{% set menu_active = 'blank-page' %}
+{% block page %}
+{% set live_exchange = true %}
+{% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  {% include '../../modules/home-slider/home-slider.twig' %}
+  {% include '../sections/home/about-us-section.twig' %}
+  {% include '../sections/home/countdown-section.twig' %}
+  {% include '../sections/home/investment-diversity-section.twig' %}
+  {% include '../sections/home/start-with-kale.twig' %}
+  {% include '../sections/home/product-properties.twig' %}
+  {% include '../sections/home/account-types.twig' %}
+  {# include '../sections/home/forex-training.twig' #}
+  {% include '../sections/home/price-provider.twig' %}
+  {% include '../sections/home/available-platforms.twig' %}
+  {# include '../sections/home/most-users.twig' #}
+
+</div>
+<div id="daily-modal" class="daily-content"  data-active="false">
+  <div class="title">
+    Değerli yatırımcılarımız;
+  </div>
+  <div class="content">
+  19 Mayıs ATATÜRK’Ü Anma, Gençlik ve Spor Bayramı bankaların kapalı olması sebebiyle  18.05.2022 Çarşamba saat 23:59 dan 20.05.2022 Cuma saat 09.00 arasında çekim işlemlerinizi gerçekleştiremeyeceğiz.  
+  <br>
+  Havale ve Fast yöntemi ile yapacağınız para yatırma işlemlerinizde herhangi bir aksaklık olmayacaktır. 
+<br><br>
+Kale Fx LTD.
+
+
+  </div>
+</div>
+
+{% include '../components/footer.twig' %} {% endblock %}

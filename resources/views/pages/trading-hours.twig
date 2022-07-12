@@ -1,0 +1,55 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class =
+'p-trading-hours' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange =
+true %} {% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title text-center mt-4">
+    <div class="container">
+      <h1><strong>{{LangValue('hours_h1')}}</strong> {{LangValue('hours_h1-2')}}</h1>
+      <p>
+        {{LangValue('hours_h2')}}
+      </p>
+    </div>
+  </div>
+  <div class="container mt-4 pb-4">
+    <div class="c-investment">
+      <div class="c-investment__nav">
+        <div class="timezone">
+          <span>{{LangValue('working-hours-select')}}</span> 
+
+          <select name="" id="" class="form-select" change-time>
+            <option value="-3">Türkiye Saati İle (GMT -3)</option>
+            <option value="-2">Türkiye Saati İle (GMT -2)</option>
+            <option value="-1">Türkiye Saati İle (GMT -1)</option>
+            <option value="0" selected>Türkiye Saati İle (GMT 0)</option>
+            <option value="1">Türkiye Saati İle (GMT +1)</option>
+            <option value="2">Türkiye Saati İle (GMT +2)</option>
+            <option value="3">Türkiye Saati İle (GMT +3)</option>
+          </select>
+        </div>
+      </div>
+      <div class="c-investment__content">
+        <table class="c-investment__table small" data-investment-table trading-hours>
+          <thead>
+            <tr>
+              <th class="name">{{LangValue('hours_table_group')}}</th>
+              <th>{{LangValue('hours_table_symbol')}}</th>
+              <th>{{LangValue('hours_table_tr_open')}}</th>
+              <th>{{LangValue('hours_table_tr_hours')}}</th>
+              <th class="is-mob-hidden">{{LangValue('hours_table_tr_close')}}</th>
+            </tr>
+          </thead>
+          <tbody>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with {'pull': true, 'margin': true, 'bg':
+  true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

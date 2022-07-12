@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u6307\u6a19",
+        "Title2": "\u5358\u4e00\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u304b\u3089\u4e16\u754c\u8a3c\u5238\u53d6\u5f15\u6240\u30a4\u30f3\u30c7\u30c3\u30af\u30b9\u3078\u306e\u30a2\u30af\u30bb\u30b9\u3002",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u6307\u6a19<\/h2><\/div><div class=\"fw simpleContent\"><p>\u682a\u5f0f\u5e02\u5834\u6307\u6570\u306f\u3001\u682a\u5f0f\u5e02\u5834\u306e\u4e00\u822c\u7684\u306a\u65b9\u5411\u6027\u3092\u5224\u65ad\u3059\u308b\u305f\u3081\u306b\u4f7f\u7528\u3055\u308c\u307e\u3059\u3002 \u5404\u682a\u5f0f\u5e02\u5834\u306e\u4fa1\u683c\u306e\u4e00\u822c\u7684\u306a\u4ea4\u63db\u306f\u3001\u7279\u5225\u306a\u6307\u6a19\u3092\u901a\u3057\u3066\u76e3\u8996\u3055\u308c\u3066\u3044\u307e\u3059\u3002 \u682a\u4fa1\u6307\u6570\u306f\u8907\u6570\u306e\u682a\u3092\u542b\u307f\u3001\u682a\u306e\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u304c\u6e2c\u5b9a\u3055\u308c\u308b\u6570\u5b66\u7684\u8a08\u7b97\u304b\u3089\u5f97\u3089\u308c\u308b\u5408\u8a08\u5024\u3067\u3059\u3002<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

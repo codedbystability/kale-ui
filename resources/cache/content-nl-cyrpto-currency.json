@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto-Currency",
+        "Title2": "Crypto Money is het standaard elektronisch geld of digitaal geld",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Crypto geld<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money is in feite elektronisch geld of digitaal geld. Maar net als bij online bankieren, heeft het geen fysiek equivalent. Het is een valuta die nooit kan worden gezien of aangeraakt, behalve voor digitale displays. Crypto-munten zijn munten die van persoon tot persoon kunnen worden overgedragen en worden opgeslagen in volledig beveiligde virtuele portemonnees, die niet zijn verbonden met een land of autoriteit. Het is een wereldwijd systeem voor de overdracht, betaling en belegging van geld dat van persoon op persoon kan worden overgedragen, en niet op de interbank. Crypto-munten die beginnen met Bitcoin hebben hun eigen markt gecre\u00eberd met veel verschillende soorten. Hiertoe behoren Bitcoin, Litecoin en Ethereum. Crypto-munten, die op veel gebieden van het leven als betaalsysteem worden gebruikt, worden gezien als het financi\u00eble systeem van de toekomst.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

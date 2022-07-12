@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "F\u00e5 tilgang til plattformer hvor du kan investere p\u00e5 den raskeste m\u00e5ten.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 er en popul\u00e6r Forex trading og analyse plattform som gir trading valutaer, aksjer, edle metaller og CFDs i aksjeindekser. I denne delen kan Ekol FX-kunder laste ned MetaTrader 4-handelsplattformen og mobile applikasjoner for PDA, iPhone, iPad og Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">ALLE PLATFORMS MED EN PASSORD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">EASY OG FAST FINANSIELL VERKSAMHET<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">GRATIS FOREX SIGNALER<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOUBLE DIRECT INVESTMENT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENT OG \u00c5PEN POSISJON F\u00d8LG<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Plattformfunksjoner<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Ett passord p\u00e5 alle plattformer<\/li><li>Ordre og \u00e5pne posisjonsporing<\/li><li>Skjermgrense og sikkerhetsinformasjon<\/li><li>Teknisk analyse og diagrammer med Tradingview<\/li><li>Sende ordre via grafikk<\/li><li>Ett-klikks bestillingsinnlevering<\/li><li>Billett eller listevisning, send inn bestilling via liste<\/li><li>Mer enn 40 paritet, gull, vare og CFD investering<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Systemkrav<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 OG OVER<\/span><\/li><li><span class=\"title\">INTERNETT-TILKOBLING<\/span><span class=\"val\">4 MB OG OVER<\/span><\/li><li><span class=\"title\">SKJERMOPPL\u00d8SNING<\/span><span class=\"val\">1920X1080 (ANBEFALT)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB AND OVER<\/span><\/li><li><span class=\"title\">OPERATIVSYSTEMER<\/span><span class=\"val\">WINDOWS 7 OG OVER, MAC OS<\/span><\/li><li><span class=\"title\">NETTLESER<\/span><span class=\"val\">ALL BROWSER (OVER CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

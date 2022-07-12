@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 15,
+        "Title": "Rusya Borsas\u0131",
+        "Title2": "Hemen hemen her \u00fclkenin, halka a\u00e7\u0131k \u015firketlerinin i\u015flem g\u00f6rd\u00fc\u011f\u00fc, hisse senetleri borsas\u0131 bulunmaktad\u0131r",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Rusya Borsas\u0131<\/h2><\/div><div class=\"fw simpleContent\"><p>Rusya Hisse senedi; bir \u015firketin sermayesinin e\u015fde\u011fer par\u00e7alar\u0131ndan birini ifade eder. Bir \u015firkete ait hisse senedi sat\u0131n alarak, o \u015firketin ortaklar\u0131 aras\u0131na kat\u0131lm\u0131\u015f olursunuz. Hisse senedi yat\u0131r\u0131m yaparken sat\u0131n alaca\u011f\u0131n\u0131z \u015firketin faaliyetleri, bor\u00e7luluk durumu, b\u00fcy\u00fcme beklentileri, kar durumu, temett\u00fc (kar pay\u0131) miktar\u0131 k\u0131saca \u015firketle ilgili her \u015feyi iyice ara\u015ft\u0131rmal\u0131s\u0131n\u0131z. Ba\u015far\u0131l\u0131, uzun y\u0131llar faaliyet g\u00f6steren ve kar elde eden \u015firketleri se\u00e7erek hisse senedi yat\u0131r\u0131mdan kazan\u00e7 sa\u011flayabilirsiniz.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Rusya Borsa \u0130\u015flemleri",
+        "SeoDesc": "Ekol Global Markets g\u00fcvencesiyle Forex piyasalar\u0131nda, Rusya hisse senetleri \u00fczerinden anl\u0131k i\u015flemler ger\u00e7ekle\u015ftirerek kazanmaya ba\u015flay\u0131n !",
+        "SeoTags": "rusya-borsasi",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

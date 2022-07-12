@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Kripto Pul",
+        "Title2": "Kripto Pul - asosiy elektron pul yoki raqamli pul",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>Kripto Pul asosan elektron pul yoki raqamli puldir. Biroq, onlayn-bankingda bo&#39;lgani kabi, bu jismoniy ekvivalenti yo&#39;q. Raqamli displeylar bundan mustasno, hech qachon ko&#39;rilmaydigan yoki tegilmaydigan valyutadir. Kripto sikkalari - bu shaxslardan shaxsga uzatilishi mumkin bo&#39;lgan va hech qanday mamlakat yoki biron-bir hokimiyatga aloqador bo&#39;lmagan to&#39;liq xavfsiz virtual sumkada saqlangan tanga. Bu - global pul o&#39;tkazmalari, to&#39;lovlar va investitsiya tizimi bo&#39;lib, bu banklararo emas, balki shaxsdan shaxsga o&#39;tkazilishi mumkin. Bitcoin bilan ishlaydigan kripto sikkalari turli xil turlari bilan o&#39;z bozorlarini yaratdi. Ular orasida Bitcoin, Litecoin va Ethereum mavjud. Hayotning ko&#39;plab sohalarida to&#39;lov tizimi sifatida ishlatiladigan kripto sikkalari kelajakning moliyaviy tizimi sifatida qaraladi.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

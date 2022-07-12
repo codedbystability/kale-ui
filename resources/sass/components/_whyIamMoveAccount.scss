@@ -1,0 +1,140 @@
+.c-whyiam-mo-ac {
+  max-width: 900px;
+  margin: $space-4 auto;
+  padding: $space-4 0;
+  @include respond-below(md) {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  &__content {
+    padding-top: 100%;
+    position: relative;
+    @include respond-below(md) {
+      padding-top: 0;
+    }
+  }
+  &__container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    @include respond-below(md) {
+      position: relative;
+      padding: 0 $space-1;
+    }
+    &::before {
+      content: '';
+      display: block;
+      width: 90%;
+      height: 90%;
+      position: absolute;
+      left: 5%;
+      top: 5%;
+      border: 10px solid rgba($color-black, 0.05);
+      border-radius: 50%;
+      background-image: url("data:image/svg+xml,%3Csvg width='242' height='274' viewBox='0 0 242 274' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg opacity='0.5'%3E%3Cpath d='M179.432 15C179.432 6.71574 172.717 0 164.432 0H67C58.7157 0 52 6.71573 52 15V112.432C52 120.717 58.7157 127.432 67 127.432H164.432C172.717 127.432 179.432 120.717 179.432 112.432V15ZM128.958 84.5564C127.733 86.396 125.249 86.8937 123.41 85.6678L99.7273 69.8794C97.8892 68.6539 95.4057 69.1506 94.1803 70.9888L78.3843 94.6827C77.1613 96.5172 74.6845 97.0161 72.8466 95.7982L71.119 94.6534C69.2746 93.4313 68.7728 90.944 69.999 89.1023L91.3491 57.0352C92.5739 55.1956 95.0586 54.6979 96.8975 55.9238L120.58 71.7122C122.418 72.9377 124.902 72.441 126.127 70.6028L141.923 46.9089C143.146 45.0744 145.623 44.5755 147.461 45.7934L149.188 46.9382C151.033 48.1603 151.535 50.6476 150.308 52.4893L128.958 84.5564ZM160.302 37.4238C159.082 39.2653 156.6 39.7689 154.758 38.5486L153.033 37.4051C151.191 36.1849 150.687 33.7028 151.908 31.8613L153.051 30.1356C154.271 28.2941 156.754 27.7905 158.595 29.0108L160.321 30.1543C162.162 31.3746 162.666 33.8566 161.446 35.6982L160.302 37.4238Z' fill='%23817E94'/%3E%3Cpath d='M42.411 225L20.703 198.87L40.535 175.487H35.577L10.854 204.431V175.487H6.767V225H10.854V210.126L17.956 201.818L37.185 225H42.411ZM75.2133 196.056C72.1983 191.165 67.0393 188.284 61.0763 188.284C55.9173 188.284 51.6963 190.093 48.2793 193.644C44.9293 197.195 43.2543 201.617 43.2543 206.91C43.2543 212.27 44.9293 216.759 48.3463 220.444C51.7633 224.062 55.9843 225.871 61.0763 225.871C67.0393 225.871 72.1983 222.923 75.2133 218.032V225H79.0993V189.155H75.2133V196.056ZM61.2773 222.186C57.1903 222.186 53.7733 220.712 51.1603 217.831C48.5473 214.95 47.2743 211.332 47.2743 207.044C47.2743 202.823 48.5473 199.205 51.1603 196.324C53.7733 193.443 57.1903 191.969 61.2773 191.969C65.4313 191.969 68.8483 193.443 71.5283 196.324C74.2083 199.205 75.5483 202.756 75.5483 206.91C75.5483 211.198 74.2083 214.816 71.5283 217.764C68.8483 220.712 65.4313 222.186 61.2773 222.186ZM94.0476 174.415H90.0276V225H94.0476V174.415ZM137.106 205.503C137.106 200.21 135.498 196.056 132.349 192.974C129.2 189.825 125.247 188.284 120.423 188.284C115.063 188.284 110.775 190.026 107.492 193.577C104.209 197.128 102.601 201.55 102.601 206.977C102.601 216.357 108.028 225.804 121.227 225.804C127.123 225.804 132.818 223.593 136.302 220.846L134.426 217.764C131.21 220.377 125.917 222.052 121.294 222.052C112.517 222.052 107.358 216.625 106.755 208.652H136.905C137.039 207.044 137.106 205.972 137.106 205.503ZM120.423 191.969C127.726 191.969 132.885 196.994 132.952 204.967H106.755C107.559 197.128 112.919 191.969 120.423 191.969ZM154.761 225V204.833H175.129V196.123H154.761V184.197H178.01V175.487H145.649V225H154.761ZM202.145 206.642L213.669 188.619H203.753L196.718 200.143L190.085 188.619H180.035L190.956 206.374L178.762 225H188.879L196.517 212.672L203.954 225H214.004L202.145 206.642Z' fill='%23817E94'/%3E%3C/g%3E%3C/svg%3E%0A");
+      background-position: center center;
+      background-repeat: no-repeat;
+      @include respond-below(md) {
+        content: unset;
+      }
+    }
+  }
+  &__item {
+    width: 33.333334%;
+    align-self: stretch;
+    @include respond-below(md) {
+      width: 100%;
+    }
+    &:nth-child(1){
+      transform: translateX(-20%) translateY(-10%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    &:nth-child(3) {
+      transform: translateX(20%) translateY(-10%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    &:nth-child(2){
+      transform: translateY(-70%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    &:nth-child(5) {
+      transform: translateY(70%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    &:nth-child(4){
+      transform: translateX(-20%) translateY(10%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    &:nth-child(6) {
+      transform: translateX(20%) translateY(10%);
+      @include respond-below(md) {
+        transform: unset;
+      }
+    }
+    .c-card {
+      background-color: $color-white;
+      border-radius: 50%;
+      width: 300px;
+      height: 300px;
+      padding: $space-2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      @include respond-below(md) {
+        width: auto;
+        border-radius: 25px;
+        padding: $space-4 $space-2;
+        margin-bottom: $space-2;
+      }
+      svg {
+        display: block;
+        margin: 0 auto;
+        max-width: 60%;
+        max-height: 80px;
+        margin-bottom: $space-1;
+        @include respond-below(md) {
+          max-height: 120px;
+        }
+      }
+      hr {
+        width: 100%;
+        height: 2px;
+        background: rgba($color-black, 0.05);
+        border: 0;
+        margin-bottom: $space-1;
+      }
+      h3 {
+        color: $color-primary;
+        font-weight: $font-weight-bold;
+        margin: 0;
+        margin-bottom: $space-1;
+      }
+      p {
+        margin: 0;
+        margin-bottom: $space-1;
+        @include respond-below(md) {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+}

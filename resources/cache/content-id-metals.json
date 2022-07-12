@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Logam",
+        "Title2": "Akses Logam ke Platform Tunggal",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Logam<\/h2><\/div><div class=\"fw simpleContent\"><p>Logam adalah nama yang diberikan untuk semua barang dan produk dalam perdagangan. Pasar Forex adalah pasar keuangan terbesar di dunia, tempat Anda dapat berdagang logam. Instrumen investasi, khususnya emas, aluminium dan perak; Dengan keistimewaan Ekol Global Markets, Anda dapat membeli dan menjual di pasar Forex.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

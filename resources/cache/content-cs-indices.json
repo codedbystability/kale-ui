@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indexy",
+        "Title2": "P\u0159\u00edstup na indexy Sv\u011btov\u00e9 burzy cenn\u00fdch pap\u00edr\u016f z jedin\u00e9 platformy.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indexy<\/h2><\/div><div class=\"fw simpleContent\"><p>Indexy akciov\u00fdch trh\u016f se pou\u017e\u00edvaj\u00ed k ur\u010den\u00ed obecn\u00e9ho sm\u011bru akciov\u00e9ho trhu. Obecn\u00e9 v\u00fdm\u011bny cen na ka\u017ed\u00e9m akciov\u00e9m trhu jsou sledov\u00e1ny prost\u0159ednictv\u00edm speci\u00e1ln\u00edch index\u016f. Akciov\u00e9 indexy obsahuj\u00ed v\u00edce ne\u017e jednu akcii a p\u0159edstavuj\u00ed celkovou hodnotu vypl\u00fdvaj\u00edc\u00ed z matematick\u00fdch v\u00fdpo\u010dt\u016f, kde se m\u011b\u0159\u00ed v\u00fdkonnost akci\u00ed.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

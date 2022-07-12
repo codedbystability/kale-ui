@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u0130ndici",
+        "Title2": "Accesul la indicii bursieri mondiali de pe o singur\u0103 platform\u0103.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">indici<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices, este folosit pentru a determina direc\u021bia general\u0103 a pie\u021bei bursiere. Schimburile generale de pre\u021buri pe fiecare burs\u0103 sunt monitorizate prin intermediul unor indici speciali. Indicele stocului con\u021bine mai mult de un stoc \u0219i reprezint\u0103 o valoare total\u0103 rezultat\u0103 din calcule matematice \u00een care se m\u0103soar\u0103 performan\u021ba stocurilor.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

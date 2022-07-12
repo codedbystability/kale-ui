@@ -1,0 +1,39 @@
+.c-custom-box {
+  display: flex;
+  align-items: flex-start;
+  &::before {
+    content: '';
+    margin-right: $space-1;
+  }
+  span,
+  a {
+    color: $color-white;
+  }
+  span {
+    font-size: $font-size-lg;
+    opacity: 0.7;
+    display: block;
+  }
+  a {
+    font-size: $font-size-xxl;
+    transition: $transition-base-opacity;
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+  &.mail {
+    &::before {
+      @include icons(mail, 23, 18);
+    }
+  }
+  &.phone {
+    &::before {
+      @include icons(phone, 26, 27);
+    }
+  }
+  &.whatsapp {
+    &::before {
+      @include icons(whatsapp, 20, 21);
+    }
+  }
+}

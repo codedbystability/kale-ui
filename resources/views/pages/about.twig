@@ -1,0 +1,200 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-about-us' %} {% set menu_active = 'blank-page'
+%} {% block page %} {% set live_exchange = true %} {% include
+'../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title vertical mt-4">
+    <div class="container">
+      <div class="row d-flex align-items-center">
+        <div class="col-12 col-md-6">
+          <h1 class="pl-0 md-pl-2">
+            <strong>{{LangValue('about-t1')}}</strong><br />{{LangValue('about-t1-1')}}
+          </h1>
+        </div>
+        <div class="col-12 col-md-6">
+          <p class="pr-2">
+             {{LangValue('about-d1')}}
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container mt-4">
+    <div class="about-us-container">
+      <div class="container">
+        <img src="assets/img/about-us.jpg" alt="" class="d-none d-md-inline-block" />
+        <img src="assets/img/about-us-mob.jpg" alt="" class="d-inline-block d-md-none" />
+        <div class="row mt-4 mb-2">
+          <div class="col-12 col-md-4">
+            <h1>{{LangValue('about-t2')}}</h1>
+            <p>
+              {{LangValue('about-d2')}}
+            </p>
+          </div>
+          <div class="col-12 col-md-4">
+            <h1>CFD trading</h1>
+            <p>
+              We offer a wide range of global CFD instruments, including indices, forex, cryptocurrencies, commodities, metals and bonds.
+            </p>
+          </div>
+         <div class="col-12 col-md-4">
+            <h1> Support</h1>
+            <p>
+              Our trade desk associates can provide forex assistance day and night at
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-page-title mt-4">
+    <div class="container text-center">
+      <h1><strong>{{LangValue('about-t5')}}</strong><br />{{LangValue('about-t5-1')}}</h1>
+      <div class="row">
+        <div class="col-10 offset-1">
+          <p>
+          {{LangValue('about-d5')}}
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container mt-4">
+    <div class="about-us-tab__navigation">
+      <a
+        data-toggle-class
+        data-toggle-target="#about-company"
+        data-toggle-radio-group="tabsGroup"
+        role="tab"
+        aria-selected="false"
+        aria-controls="about-company"
+        ><span>{{LangValue('about-sub-1-t')}}</span></a
+      >
+      <a
+        data-toggle-class
+        data-toggle-target="#our-certificate"
+        data-toggle-radio-group="tabsGroup"
+        data-toggle-is-active
+        role="tab"
+        aria-selected="true"
+        aria-controls="our-certificate"
+        ><span>{{LangValue('about-sub-2-t')}}</span></a
+      >
+      <a
+        data-toggle-class
+        data-toggle-target="#our-advantage"
+        data-toggle-radio-group="tabsGroup"
+        role="tab"
+        aria-selected="false"
+        aria-controls="our-advantage"
+        ><span>{{LangValue('about-sub-3-t')}}</span></a
+      >
+    </div>
+    <div class="about-us-tab__contents">
+      <div
+        id="about-company"
+        class="about-us-tab__content"
+        role="tabpanel"
+        aria-labelledby="about-company"
+        aria-hidden="false"
+      >
+       <div class="c-page-title">
+            <div class="container text-center">
+              <h1>{{LangValue('about-sub-1-t2')}}</h1>
+
+                <div class="row">
+                    <div class="col-10 offset-1">
+                      <p>
+                        {{data.SefContent.LongDesc }}
+                      </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div
+        id="our-certificate"
+        class="about-us-tab__content"
+        role="tabpanel"
+        aria-labelledby="out-certificate"
+        aria-hidden="false"
+      >
+        <div class="c-page-title">
+            <div class="container text-center">
+              <h1><strong>{{LangValue('about-sub-2-t2')}}</strong><br />{{LangValue('about-sub-2-d1')}}</h1>
+
+                <div class="row">
+                    <div class="col-10 offset-1">
+                      <p>
+                        {{LangValue('about-sub-2-d2')}}
+                      </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container mt-4">
+          <div class="row">
+            <div class="col-12 col-md-8 offset-0 offset-md-4">
+              <div class="row">
+                <div class="col-12 col-md-6" style="display:none;">
+                  <div class="c-qr-code-box">
+                    <img src="assets/img/qr-code.jpg" alt="" />
+                    <h5>{{LangValue('about-sub-2-item1')}}</h5>
+                  </div>
+                </div>
+                <div class="col-12 col-md-6">
+                  <div class="c-qr-code-box mt-2 md-mt-0" style="background-color: #145ab9;" >
+                   <a  href="https://ifmrrc.com/index.php?page=kalefx-ltd" target="_blank" >
+                    <img src="assets/img/ifmrrc.png" alt="" />
+                    <h5 style="color: #ffffff;">{{LangValue('about-sub-2-item2')}}</h5>
+                    </a>
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      <div
+        id="our-advantage"
+        class="about-us-tab__content"
+        role="tabpanel"
+        aria-labelledby="out-advantage"
+        aria-hidden="false"
+      >
+       <div class="c-page-title">
+            <div class="container text-center">
+              <h1><strong>{{LangValue('about-sub-3-t2')}}</strong><br /> {{LangValue('about-sub-3-d1')}}</h1>
+            </div>
+        </div>
+
+        <div class="container">
+          <div class="p-platform__properties__container">
+            <div class="row">
+              {% for i in 1..15 %}
+              <div class="col-6 col-md-3 mt-1 mb-1">
+                <div class="p-platform__properties__item p-2">
+                  <h1>{{LangValue('about-sub-3-item'~i~'-t')}}</h1>
+                  <p>
+                    {{LangValue('about-sub-3-item'~i~'-d')}}
+                  </p>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with
+  {'pull': true, 'margin': true, 'bg': true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}
+

@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "Eng tezkor tarzda investitsiyalash mumkin bo'lgan platformalarga kiring.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 - valyuta, qimmatli qog&#39;ozlar, qimmatbaho metallar va CFD&#39;larni fond indekslari bilan ta&#39;minlovchi ommabop Forex trading-tahlil platformasi. Ushbu bo&#39;limda Ekol FX mijozlari PDA, iPhone, iPad va Android uchun MetaTrader 4 savdo maydonchasi va mobil ilovalarni yuklab olishlari mumkin.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">BIR POKOG&#39;DAN BARCHA PLATFORMLAR<\/li><\/ul><\/div>{C}{C}<!--.box--><\/div>{C}{C}<!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OSON VA TEZKOR MOL\u0130YAV\u0130Y AMAL\u0130YOTLAR<\/li><\/ul><\/div>{C}{C}<!--.box--><\/div>{C}{C}<!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">BEPUL FOREX SIGNALS<\/li><\/ul><\/div>{C}{C}<!--.box--><\/div>{C}{C}<!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOUBLE DIRECTLY INVESTMENT<\/li><\/ul><\/div>{C}{C}<!--.box--><\/div>{C}{C}<!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">YO&#39;Q VA OShKOR POZ\u0130SYONDAN OLDIN<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform Xususiyatlari<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Barcha platformalarda bitta parol<\/li><li>Buyurtma va Ochiq pozitsiyani kuzatish<\/li><li>Ko&#39;rsatkich chegarasi va ta&#39;minot ma&#39;lumotlari<\/li><li>Tradingview bilan texnik tahlil va jadvallarni<\/li><li>Buyurtmalarni grafikalar orqali yuborish<\/li><li>Bir marta bosish buyurtma yuborish<\/li><li>Chipta yoki ro&#39;yxat ko&#39;rinishi, ro&#39;yxat bo&#39;yicha buyurtma berish<\/li><li>40 dan ortiq parite, oltin, tovar va CFD investitsiyalari<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Tizim talablari<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 VA USTIDA<\/span><\/li><li><span class=\"title\">INTERNETDAN ISHLATISH<\/span><span class=\"val\">4 MB VA USTIDA<\/span><\/li><li><span class=\"title\">SCREEN RESOLUTION<\/span><span class=\"val\">1920X1080 (Tavsiya etilgan)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB AND OVER<\/span><\/li><li><span class=\"title\">OPERATING TIZIMLARI<\/span><span class=\"val\">WINDOWS 7 VA OVER, MAC OS<\/span><\/li><li><span class=\"title\">WEB BROWSER<\/span><span class=\"val\">HAMMA BROWSER (USTIDA CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

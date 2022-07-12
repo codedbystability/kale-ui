@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto p\u00e9nznem",
+        "Title2": "A Crypto Money az elektronikus p\u00e9nz vagy digit\u00e1lis p\u00e9nz",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Crypto p\u00e9nz<\/h2><\/div><div class=\"fw simpleContent\"><p>A Crypto Money alapvet\u0151en elektronikus p\u00e9nz vagy digit\u00e1lis p\u00e9nz. De mint az online banki szolg\u00e1ltat\u00e1sok eset\u00e9ben, nincs fizikai egyen\u00e9rt\u00e9k\u0171. Ez egy olyan p\u00e9nznem, amelyet a digit\u00e1lis kijelz\u0151k kiv\u00e9tel\u00e9vel soha nem lehet l\u00e1tni vagy meg\u00e9rinteni. A titkos \u00e9rm\u00e9k olyan \u00e9rm\u00e9k, amelyek szem\u00e9lyr\u0151l szem\u00e9lyre tov\u00e1bb\u00edthat\u00f3k \u00e9s teljesen biztons\u00e1gos virtu\u00e1lis p\u00e9nzt\u00e1rc\u00e1kban t\u00e1rolhat\u00f3k, \u00e9s nem kapcsol\u00f3dnak egyetlen orsz\u00e1ghoz vagy hat\u00f3s\u00e1ghoz sem. Ez egy glob\u00e1lis p\u00e9nz\u00e1tutal\u00e1si, fizet\u00e9si \u00e9s befektet\u00e9si rendszer, amely szem\u00e9lyr\u0151l szem\u00e9lyre, nem pedig bankk\u00f6zi \u00fcgyletekb\u0151l sz\u00e1ll\u00edthat\u00f3. A Bitcoinnal kezd\u0151d\u0151 kripto-\u00e9rm\u00e9k sz\u00e1mos k\u00fcl\u00f6nb\u00f6z\u0151 t\u00edpus\u00fa piacot hoztak l\u00e9tre. Ezek k\u00f6z\u00e9 tartozik a Bitcoin, a Litecoin \u00e9s az Ethereum. A j\u00f6v\u0151beni p\u00e9nz\u00fcgyi rendszernek tekinthet\u0151 a kriptogr\u00e1fiai \u00e9rm\u00e9k, amelyeket az \u00e9let sz\u00e1mos ter\u00fclet\u00e9n fizet\u00e9si rendszerk\u00e9nt haszn\u00e1lnak.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

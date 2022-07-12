@@ -1,0 +1,161 @@
+.c-icon-box {
+  display: flex;
+  flex-direction: column;
+  transition: $transition-base-bg;
+  @include respond-below(md) {
+    flex-direction: row;
+    background-color: rgba($color-gray, 0.1);
+    padding: $space-2;
+    border-radius: 15px;
+    margin-bottom: $space-2;
+  }
+  &__content {
+    @include respond-below(md) {
+      padding-left: $space-2;
+    }
+  }
+  h2,
+  h4,
+  p {
+    transition: $transition-base-color;
+  }
+  svg {
+    height: 55px;
+    place-self: flex-start;
+    path {
+      transition: $transition-base-svg-fill;
+    }
+    @include respond-below(md) {
+      height: auto;
+      width: 25%;
+      place-self: center;
+    }
+  }
+  h2,
+  h4 {
+    margin: 0;
+  }
+  h2 {
+    color: $color-error;
+    margin-top: $space-1;
+    font-weight: $font-weight-extrabold;
+    opacity: 0.5;
+    @include respond-below(md) {
+      display: none;
+    }
+  }
+  h4 {
+    font-weight: $font-weight-bold;
+    color: $color-white;
+  }
+  hr {
+    display: block;
+    height: 1px;
+    margin: $space-1 0 $space-15;
+    background: rgba($color-white, 0.4);
+    border: none;
+    @include respond-below(md) {
+      display: none;
+    }
+  }
+  p {
+    color: rgba($color-white, 0.7);
+    margin-top: $space-15;
+    font-weight: $font-weight-medium;
+    line-height: 1.4;
+    @include respond-below(md) {
+      margin-top: $space-1;
+      margin-bottom: $space-050;
+    }
+  }
+  .btn-link {
+    padding-left: 0;
+    display: inline-flex;
+    align-items: center;
+    border: 0;
+    color: $color-error;
+    font-weight: $font-weight-bold;
+    place-self: flex-start;
+    svg {
+      display: inline-flex;
+      margin-left: $space-1;
+      width: 12px;
+      transform: translateX(0);
+      transition: transform 0.2s ease-in-out;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+      border: 0;
+    }
+    &:hover {
+      svg {
+        transform: translateX(5px);
+      }
+    }
+  }
+
+  &.horizontal {
+    flex-direction: row;
+    @include respond-below(md) {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    svg {
+      min-width: 60px;
+      max-width: 60px;
+      height: unset;
+      margin-right: $space-2;
+      @include respond-below(md) {
+        margin-right: 0;
+      }
+    }
+    p {
+      margin: 0;
+      color: rgba($color-dark, 0.7);
+      margin-top: $space-050;
+      @include respond-below(md) {
+        display: none;
+      }
+    }
+    h4 {
+      color: $color-primary;
+      font-size: rem(22);
+      @include respond-below(md) {
+        margin-top: $space-1;
+        text-align: center;
+      }
+    }
+  }
+
+  &.is-link {
+    &:hover {
+      background-color: $color-primary;
+      cursor: pointer;
+      h2,
+      h4,
+      p {
+        color: $color-white;
+      }
+      svg {
+        path {
+          fill: $color-white;
+        }
+      }
+    }
+    &.is-active {
+      background-color: $color-dark;
+      h2,
+      h4,
+      p {
+        color: $color-white;
+      }
+      svg {
+        path {
+          fill: $color-white;
+        }
+      }
+    }
+  }
+}

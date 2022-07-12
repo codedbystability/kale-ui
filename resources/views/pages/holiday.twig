@@ -1,0 +1,612 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class =
+'p-trading-hours' %} {% set menu_active = 'blank-page' %} {% block page %} {% set live_exchange =
+true %} {% include '../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title text-center mt-4">
+    <div class="container">
+      <h1><strong>Aralık</strong> 2020 Resmi Tatil Günleri</h1>
+      <p>
+        Aralık ayı için enstrumanların işlem saatleri aşagıdaki gibidir.
+      </p>
+      <p>
+        ( Aşağıda verilen saatler GMT+0'dır. Türkiye Saati için GMT+3 kullanılması gerekmektedir. )
+      </p>
+    </div>
+  </div>
+  <div class="container mt-4 pb-4">
+    <div class="c-investment">
+      {# <div class="c-investment__nav">
+        <div class="timezone">
+          <span>{{LangValue('working-hours-select')}}</span>
+
+          <select name="" id="" class="form-select" change-time>
+            <option value="-3">Türkiye Saati İle (GMT -3)</option>
+            <option value="-2">Türkiye Saati İle (GMT -2)</option>
+            <option value="-1">Türkiye Saati İle (GMT -1)</option>
+            <option value="0" selected>Türkiye Saati İle (GMT 0)</option>
+            <option value="1">Türkiye Saati İle (GMT +1)</option>
+            <option value="2">Türkiye Saati İle (GMT +2)</option>
+            <option value="3">Türkiye Saati İle (GMT +3)</option>
+          </select>
+        </div>
+      </div> #}
+      <div class="c-investment__content">
+        <table class="c-investment__table small" data-investment-table trading-hours>
+          <thead>
+            <tr>
+              <th class="name">Ürünler</th>
+              <th>24 Aralık</th>
+              <th>25 Aralık</th>
+              <th>27 Aralık</th>
+              <th>28 Aralık</th>
+              <th>29 Aralık</th>
+              <th>30 Aralık</th>
+              <th>31 Aralık</th>
+              <th>1 Ocak</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="name">
+                Forex
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                Metal
+              </td>
+              <td>
+                Kapanış 18:45
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                DAXEUR
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Açılış 00:16
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                F40EUR
+              </td>
+              <td>
+                Kapanış 13:05
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 13:05
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                FTSGBP
+              </td>
+              <td>
+                Kapanış 12:50
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Açılış 01:00
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                IBXEUR
+              </td>
+              <td>
+                Kapanış 13:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 13:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                SMICHF
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                NDXUSD
+              </td>
+              <td>
+                Kapanış 18:15
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                DJIUSD
+              </td>
+              <td>
+                Kapanış 18:15
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                SPXUSD
+              </td>
+              <td>
+                Kapanış 18:15
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                HSIHKD
+              </td>
+              <td>
+                Kapanış 04:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 04:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                NIKJPY
+              </td>
+              <td>
+                Kapanış 18:15
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 20:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                ASXAUD
+              </td>
+              <td>
+                Kapanış 03:30
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                Açılış 22:50
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 03:30
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                BRNUSD
+              </td>
+              <td>
+                Kapanış 19:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 20:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                WTIUSD
+              </td>
+              <td>
+                Kapanış 18:45
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 22:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                NGCUSD
+              </td>
+              <td>
+                Kapanış 18:30
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapanış 21:45
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                NYSE Hisseleri
+              </td>
+              <td>
+                Kapanış 18:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                Nasdaq Hisseleri
+              </td>
+              <td>
+                Kapanış 18:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+            <tr>
+              <td class="name">
+                ETF
+              </td>
+              <td>
+                Kapanış 18:00
+              </td>
+              <td>
+                Kapalı
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                -
+              </td>
+              <td>
+                Kapalı
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  {% include '../../modules/create-demo/create-demo.twig' with {'pull': true, 'margin': true, 'bg':
+  true, 'shadow': true} %}
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

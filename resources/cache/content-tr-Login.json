@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 34,
+        "Title": "Kullan\u0131c\u0131 Giri\u015f",
+        "Title2": "",
+        "ShortDesc": "",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Kullan\u0131c\u0131 Giri\u015fi",
+        "SeoDesc": "Kale Forex Kullan\u0131c\u0131 paneli giri\u015f ekran\u0131na ho\u015f geldiniz. L\u00fctfen Giri\u015f Yap\u0131n\u0131z.",
+        "SeoTags": "login",
+        "Sort": 0,
+        "ModuleID": 9,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

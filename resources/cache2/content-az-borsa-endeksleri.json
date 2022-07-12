@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Fond endeksl\u0259ri",
+        "Title2": "T\u0259k bir platformadan D\u00fcnya Birjas\u0131 \u0130ndeksl\u0259rin\u0259 giri\u015f.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Fond Bazar\u0131 Endeksl\u0259ri<\/h2><\/div><div class=\"fw simpleContent\"><p>Fond bazar\u0131 indeksi&nbsp; fond bazar\u0131n\u0131n \u00fcmumi istiqam\u0259tini m\u00fc\u0259yy\u0259n etm\u0259k \u00fc\u00e7\u00fcn istifad\u0259 olunur. H\u0259r bir fond bazar\u0131nda qiym\u0259tl\u0259rin \u00fcmumi m\u00fcbadil\u0259si x\u00fcsusi indeksl\u0259r vasit\u0259sil\u0259 izl\u0259nilir. Birja indeksl\u0259ri bird\u0259n \u00e7ox fond ehtiva edir v\u0259 s\u0259hml\u0259rin performans\u0131 \u00f6l\u00e7\u00fclm\u00fc\u015f oldu\u011fu riyazi hesablamalardan yaranan \u00fcmumi d\u0259y\u0259rdir.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "borsa-endeksleri",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

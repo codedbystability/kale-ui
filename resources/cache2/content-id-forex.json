@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Paritas Mata Uang Utama, Kecil dan Eksotis",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Mata uang asing adalah nama umum yang diberikan kepada mata uang negara asing dalam bahasa Turki. Paritas adalah nilai mata uang suatu negara terhadap mata uang negara lain. Mata uang pertama dalam mata uang mengacu pada mata uang dasar. Mata uang kedua adalah mata uang berlawanan. USD \/ TRY adalah nilai tukar dasar USD, sedangkan TRY adalah mata uang yang berlawanan. Nilai paritas USD \/ TRY adalah nilai dolar AS terhadap Lira Turki. Sebagai contoh; Asumsikan bahwa USD = 2, TRY = 1; Nilai USD \/ TRY paritas akan menjadi 2. 1 USD = 2 Lira Turki sama jika kita menyederhanakannya. Kebijakan moneter dan perkembangan ekonomi bank sentral mempengaruhi nilai mata uang negara dan menciptakan peluang investasi serius dalam paritas mata uang.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

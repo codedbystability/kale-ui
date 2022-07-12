@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certificate",
+        "Title2": "Documentele \u0219i certificatele noastre oficiale",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certificate<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - ROMANIA Ekol Global Markets Documentele \u0219i certificatele vor fi actualizate \u00een scurt timp.<\/p><p>Dup\u0103 scanarea urm\u0103torului cod QR cu camera telefonului dvs. pentru a vedea documentul nostru de licen\u021b\u0103, sistemul v\u0103 va trimite automat la documentul de licen\u021b\u0103.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Licen\u021bele vor fi listate mai sus \u00een momentul actualiz\u0103rii lor.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Valyuta Parit\u0259l\u0259ri",
+        "Title2": "Major, Minor v\u0259 Ekzotik Valyuta Parit\u0259l\u0259ri",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Valyuta Parit\u0259l\u0259ri<\/h2><\/div><div class=\"fw simpleContent\"><p>Xarici valyuta, xarici \u00f6lk\u0259l\u0259rin valyutalar\u0131na T\u00fcrk dilind\u0259ki \u00fcmumi ad\u0131d\u0131r. Paritasiya ba\u015fqa bir \u00f6lk\u0259nin valyutas\u0131na qar\u015f\u0131 bir \u00f6lk\u0259nin valyutas\u0131n\u0131n d\u0259y\u0259ri. Valyutadak\u0131 ilk valyuta \u0259sas valyutaya aiddir. \u0130kinci valyuta \u0259ks valyutad\u0131r. USD \/ TRY USD baz valyuta m\u0259z\u0259nn\u0259si, TRY is\u0259 \u0259ks valyutad\u0131r. USD \/ TRY paritesinin d\u0259y\u0259ri, AB\u015e dollar\u0131 il\u0259 T\u00fcrk Liras\u0131 d\u0259y\u0259ridir. M\u0259s\u0259l\u0259n; USD = 2, TRY = 1; USD \/ TRY paritesinin d\u0259y\u0259ri 2 olacaq. 1 AB\u015e dollar\u0131 = 2 T\u00fcrk liras\u0131 b\u0259rab\u0259r olduqda b\u0259rab\u0259rdir. M\u0259rk\u0259zi banklar\u0131n pul siyas\u0259ti v\u0259 iqtisadi inki\u015faflar\u0131 \u00f6lk\u0259l\u0259rin valyutalar\u0131n\u0131n d\u0259y\u0259rin\u0259 t\u0259sir g\u00f6st\u0259rir v\u0259 valyuta paritetl\u0259rind\u0259 ciddi investisiya imkanlar\u0131 yarad\u0131r.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "doviz-pariteleri",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

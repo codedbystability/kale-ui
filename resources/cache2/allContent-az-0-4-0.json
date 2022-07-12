@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "\u018fn s\u00fcr\u0259tli \u015f\u0259kild\u0259 investisiya ed\u0259 bil\u0259c\u0259yiniz platformalara \u00e7\u0131x\u0131n.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4, valyuta, s\u0259hm, qiym\u0259tli metallar v\u0259 CFD endirim g\u00f6st\u0259r\u0259n m\u0259\u015fhur Forex ticar\u0259t v\u0259 analiz platformad\u0131r. Bu b\u00f6lm\u0259d\u0259 Ekol Fx m\u00fc\u015ft\u0259ril\u0259ri PDA, iPhone v\u0259 reg; iPad v\u0259 ticar\u0259td\u0259n MetaTrader 4 ticar\u0259t platformas\u0131 v\u0259 mobil t\u0259tbiql\u0259rini y\u00fckl\u0259y\u0259 bil\u0259r; v\u0259 Android \u00fc\u00e7\u00fcn y\u00fckl\u0259yin.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">\u015eifr\u0259 il\u0259 b\u00fct\u00fcn platformalara giri\u015f<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">Qolay ke\u00e7en i\u015flemler<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">Pulsuz Forex Signallar\u0131<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">\u0130nvestisiya \u0130mkanlar\u0131<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">Sifari\u015f v\u0259 a\u00e7\u0131q m\u00f6vqe izl\u0259m\u0259<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform X\u00fcsusiyy\u0259tl\u0259ri<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>B\u00fct\u00fcn platformalarda bir parol<\/li><li>Sifari\u015f v\u0259 a\u00e7\u0131q m\u00f6vqe izl\u0259m\u0259<\/li><li>Limit v\u0259 girov m\u0259lumatlar\u0131n\u0131 izl\u0259m\u0259k<\/li><li>Texniki bax\u0131\u015f v\u0259 Tradingview d\u0259st\u0259yi il\u0259 qrafikl\u0259r<\/li><li>Sifari\u015fl\u0259r chart vasit\u0259sil\u0259 g\u00f6nd\u0259rilir<\/li><li>Bir klik ile sipari\u015fi g\u00f6nd\u0259rin<\/li><li>Ticket v\u0259 ya siyah\u0131 g\u00f6r\u00fcn\u00fc\u015f\u00fc, sifari\u015f vasit\u0259sil\u0259 sifari\u015f g\u00f6nd\u0259rin<\/li><li>40-dan \u00e7ox paritet, Q\u0131z\u0131l, \u0259mt\u0259\u0259 v\u0259 CFD&#39;nin investisiya imkan\u0131<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Sistem t\u0259l\u0259bl\u0259ri<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">Prosessor<\/span><span class=\"val\">i5 v\u0259 yoxar\u0131s\u0131<\/span><\/li><li><span class=\"title\">\u0130nternet Ba\u011flant\u0131s\u0131<\/span><span class=\"val\">4Mb v\u0259 yoxar\u0131s\u0131<\/span><\/li><li><span class=\"title\">Ekran\u0131n Q\u0259tnam\u0259si<\/span><span class=\"val\">1920X1080 (T\u00f6vsiy\u0259 Olunur)<\/span><\/li><li><span class=\"title\">Ram<\/span><span class=\"val\">4 Gb v\u0259 yoxar\u0131s\u0131<\/span><\/li><li><span class=\"title\">\u018fm\u0259liyyat sisteml\u0259ri<\/span><span class=\"val\">Windows 7 v\u0259 yoxar\u0131s\u0131 , Mac Os<\/span><\/li><li><span class=\"title\">Web Browser<\/span><span class=\"val\">Ham\u0131s\u0131 (Chrome T\u00f6vsiy\u0259 Olunur)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

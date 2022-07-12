@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Handelsvaror",
+        "Title2": "Tillg\u00e5ng till varor fr\u00e5n en enda plattform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Handelsvaror<\/h2><\/div><div class=\"fw simpleContent\"><p>Varor, \u00e4dla metaller och metaller \u00e4r mycket viktiga k\u00e4llor f\u00f6r de nationella ekonomierna. Guld, som har varit popul\u00e4rt i \u00e5ratal, uppfattas som en fristad av investerare. F\u00f6rutom guldet i Forex, silver, platina och andra \u00e4delmetaller som kan investeras i palladium.<\/p><p>Med Ekol Fx snabbbehandlingsplattform kan du enkelt utf\u00f6ra din verksamhet i 5\/24 timmar. Ta platsen f\u00f6r snabb och s\u00e4ker investering i Ekol Fx och bli en av de professionella investerarna!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

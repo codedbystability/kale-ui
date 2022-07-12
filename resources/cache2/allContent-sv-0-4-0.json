@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 4",
+            "Title2": "F\u00e5 tillg\u00e5ng till plattformar d\u00e4r du kan investera p\u00e5 det snabbaste s\u00e4ttet.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 \u00e4r en popul\u00e4r Forex trading och analysplattform som tillhandah\u00e5ller handelsvalutor, aktier, \u00e4dla metaller och CFD i aktieindex. I det h\u00e4r avsnittet kan Ekol FX-kunder ladda ner MetaTrader 4-handelsplattformen och mobila applikationer f\u00f6r PDA, iPhone, iPad och Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">ALLA PLATFORMER MED EN PASSORD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">LATT OCH SNABB EKONOM\u0130SK VERKSAMHET<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">GRATIS FOREX SIGNALER<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DUBBEL DIREKT INVESTERING<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENT OCH \u00d6PPEN POSITION FOLLOW<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Plattform Funktioner<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Ett l\u00f6senord p\u00e5 alla plattformar<\/li><li>Sp\u00e5ra och \u00f6ppna positionsp\u00e5rning<\/li><li>Visningsgr\u00e4ns och s\u00e4kerhetsinformation<\/li><li>Teknisk analys och diagram med Tradingview<\/li><li>Skicka order via grafik<\/li><li>Inl\u00e4mning av ett klick f\u00f6r best\u00e4llning<\/li><li>Biljett eller listvy, skicka best\u00e4llning via lista<\/li><li>Mer \u00e4n 40 paritets-, guld-, r\u00e5varu- och CFD-investeringar<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Systemkrav<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 OCH \u00d6VER<\/span><\/li><li><span class=\"title\">INTERNET ANSLUTNING<\/span><span class=\"val\">4 MB OCH \u00d6VER<\/span><\/li><li><span class=\"title\">SK\u00c4RMUPPL\u00d6SNING<\/span><span class=\"val\">1920X1080 (REKOMMENDERAD)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB OCH \u00d6VER<\/span><\/li><li><span class=\"title\">OPERATIVSYSTEM<\/span><span class=\"val\">WINDOWS 7 OCH \u00d6VER, MAC OS<\/span><\/li><li><span class=\"title\">WEBBL\u00c4SARE<\/span><span class=\"val\">ALL BROWSER (\u00d6VER CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "",
+            "SeoDesc": "",
+            "SeoTags": "metatrader-4",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

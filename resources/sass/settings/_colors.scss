@@ -1,0 +1,47 @@
+/**
+ * Colors
+ */
+
+// Default text color
+$color-text: #6b7987 !default;
+$body-color: $color-text !default;
+
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+
+// Theme colors
+$color-primary: #2478f4 !default;
+$color-secondary: #145ab9 !default;
+$color-white: #fff !default;
+$color-gray: #c4c4c4 !default;
+$color-light: #e1e7ee !default;
+$color-dark: #252736 !default;
+$color-black: #000 !default;
+$color-success: #96c868 !default;
+$color-error: #f55d61 !default;
+$text-muted: $gray-600 !default;
+$investment-bg: #d3dce6 !default;
+
+$colors: (
+  'default': $color-text,
+  'primary': $color-primary,
+  'secondary': $color-secondary,
+  'white': $color-white,
+  'light': $color-light,
+  'dark': $color-dark,
+  'black': $color-black,
+  'success': $color-success !important,
+  'error': $color-error !important,
+  'gray1': $gray-100,
+) !default;
+
+// Links
+$color-link-color: #6b7987 !default;
+$color-link-color-hover: darken($color-link-color, 20%) !default;

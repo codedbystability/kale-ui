@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Parit\u00e9s mon\u00e9taires majeures, mineures et exotiques",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>La devise \u00e9trang\u00e8re est le nom g\u00e9n\u00e9ral donn\u00e9 aux monnaies des pays \u00e9trangers en turc. La parit\u00e9 est la valeur de la monnaie d&#39;un pays par rapport \u00e0 la monnaie d&#39;un autre pays. La premi\u00e8re devise dans la devise fait r\u00e9f\u00e9rence \u00e0 la devise de base. La deuxi\u00e8me devise est la devise oppos\u00e9e. USD \/ TRY est le taux de change de base de l&#39;USD, tandis que TRY est la devise oppos\u00e9e. La valeur de la parit\u00e9 USD \/ TRY est la valeur du dollar am\u00e9ricain par rapport \u00e0 la lire turque. Par exemple; Supposons que USD = 2, TRY = 1; La valeur de la parit\u00e9 USD \/ TRY sera de 2. 1 USD = 2 Lires turques est \u00e9gal si nous la simplifions. Les politiques mon\u00e9taires et les d\u00e9veloppements \u00e9conomiques des banques centrales affectent la valeur des monnaies des pays et cr\u00e9ent de s\u00e9rieuses opportunit\u00e9s d&#39;investissement dans les parit\u00e9s mon\u00e9taires.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

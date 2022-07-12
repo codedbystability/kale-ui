@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "M\u0259tall\u0259r",
+        "Title2": "T\u0259k platforma m\u0259tallara daxil ol",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">M\u0259tall\u0259r<\/h2><\/div><div class=\"fw simpleContent\"><p>Metallar ticar\u0259td\u0259 b\u00fct\u00fcn mallara v\u0259 m\u0259hsullara veril\u0259n adlard\u0131r. Forex bazar\u0131 d\u00fcnyan\u0131n \u0259n b\u00f6y\u00fck maliyy\u0259 bazar\u0131d\u0131r, burada metallarla ticar\u0259t ed\u0259 bil\u0259rsiniz. \u0130nvestisiya al\u0259tl\u0259ri, x\u00fcsusil\u0259 q\u0131z\u0131l, al\u00fcminium v\u0259 g\u00fcm\u00fc\u015f; Ekol Global Markets imtiyaz\u0131 il\u0259 Forex bazar\u0131nda ala v\u0259 sata bil\u0259rsiniz..<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metaller",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

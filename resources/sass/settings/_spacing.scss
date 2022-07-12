@@ -1,0 +1,71 @@
+/**
+ * Spacing
+ * Used by Utility _spacing.scss
+ */
+$space-auto: auto !default;
+$space-0: 0 !default;
+$space-025: 0.25rem !default;
+$space-050: 0.5rem !default;
+$space-075: 0.75rem !default;
+$space-1: 1rem !default;
+$space-15: 1.5rem !default;
+$space-2: 2rem !default;
+$space-25: 2.5rem !default;
+$space-3: 3rem !default;
+$space-35: 3.5rem !default;
+$space-4: 4rem !default;
+$space-45: 4.5rem !default;
+$space-5: 5rem !default;
+$space-55: 5.5rem !default;
+$space-6: 6rem !default;
+$space-65: 6.5rem !default;
+
+// Margin and padding values array
+$space-values: (
+  auto: $space-auto,
+  0: $space-0,
+  '025': $space-025,
+  '050': $space-050,
+  '075': $space-075,
+  1: $space-1,
+  15: $space-15,
+  2: $space-2,
+  25: $space-25,
+  3: $space-3,
+  35: $space-35,
+  4: $space-4,
+  45: $space-45,
+  5: $space-5,
+  55: $space-55,
+  6: $space-6,
+  65: $space-6,
+) !default;
+
+$space-prefixes: (
+  p: padding,
+  pt: padding-top,
+  pr: padding-right,
+  pb: padding-bottom,
+  pl: padding-left,
+  px: (
+    padding-left,
+    padding-right,
+  ),
+  py: (
+    padding-top,
+    padding-bottom,
+  ),
+  m: margin,
+  mt: margin-top,
+  mr: margin-right,
+  mb: margin-bottom,
+  ml: margin-left,
+  mx: (
+    margin-left,
+    margin-right,
+  ),
+  my: (
+    margin-top,
+    margin-bottom,
+  ),
+) !default;

@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  .c-toolbar {
+    order: 1;
+  }
+  .c-live-exchange {
+    order: 2;
+  }
+  .c-navbar {
+    order: 3;
+  }
+}
+@include media-breakpoint-down(sm) {
+  .header {
+    .c-live-exchange {
+      order: 3;
+    }
+    .c-navbar {
+      order: 2;
+    }
+  }
+}

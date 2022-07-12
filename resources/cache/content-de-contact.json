@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Kontakt",
+        "Title2": "Sie k\u00f6nnen uns Nachrichten senden, indem Sie die Kontaktdaten oder das Formular ausf\u00fcllen!",
+        "ShortDesc": "<h2>Wir sind immer f\u00fcr Sie da<br \/><br \/>Wir haben ein gro\u00dfartiges Team von hervorragenden EkolFX-Benutzern, die immer f\u00fcr Fragen, Kommentare, Vorschl\u00e4ge oder Beschwerden zur Verf\u00fcgung stehen. Sie k\u00f6nnen uns \u00fcber die folgenden Kommunikationskan\u00e4le oder \u00fcber unser Kontaktformular kontaktieren.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

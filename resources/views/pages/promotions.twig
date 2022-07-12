@@ -1,0 +1,48 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-data-bank' %} {% set menu_active = 'blank-page'
+%} {% block page %} {% set live_exchange = true %} {% include
+'../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title mt-4">
+    <div class="container">
+      <h1>{{LangValue('subpage_promotion_h1')}}</h1>
+      <p>
+        {{LangValue('subpage_promotion_h2')}}
+      </p>
+    </div>
+  </div>
+  <div class="p-data-bank__container">
+    <div class="container">
+
+      <div class="p-data-bank__items">
+        <div data-masonry="">
+
+
+          {% for rows in data.promotionList %}
+            <div class="p-data-bank__item">
+              <a href="#" class="promotion-trigger" data-pop-id="{{rows.Id}}">
+                <h3>{{rows.SeoTitle}} <br> {{rows.SeoDesc}} {{rows.SeoTags}} </h3>
+                <hr />
+                <p>
+                  {{rows.Title2}}
+                </p>
+              </a>
+            </div>
+          {% endfor %}
+
+          {% for rows in data.promotionList %}
+            <div class="modal fade" id="promotion-modal--{{rows.Id}}" style="display:none" >
+              <div class="title">{{rows.Title}}</div>
+              <div class="content">{{rows.ShortDesc| raw }}</div>
+            </div>
+          {% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Stora, mindre och exotiska valutapariteter",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Den utl\u00e4ndska valutan \u00e4r det allm\u00e4nna namnet p\u00e5 de fr\u00e4mmande valutorna p\u00e5 turkiska. Paritet \u00e4r v\u00e4rdet av ett lands valuta mot ett annat lands valuta. Den f\u00f6rsta valutan i valutan avser basvalutan. Den andra valutan \u00e4r motsatt valuta. USD \/ TRY \u00e4r USD basen v\u00e4xelkurs, medan TRY \u00e4r motsatt valuta. V\u00e4rdet p\u00e5 USD \/ TRY-pariteten \u00e4r v\u00e4rdet p\u00e5 den amerikanska dollarn mot den turkiska liraen. Till exempel; Antag att USD = 2, TRY = 1; V\u00e4rdet p\u00e5 USD \/ TRY-paritet kommer att vara 2. 1 USD = 2 Turkish Liras \u00e4r lika om vi f\u00f6renklar det. Centralbankernas penningpolitik och ekonomiska utveckling p\u00e5verkar v\u00e4rdet av valutorna i l\u00e4nderna och skapar allvarliga investeringsm\u00f6jligheter i valutapariteterna.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

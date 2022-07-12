@@ -1,0 +1,73 @@
+/**
+ * Section
+ */
+
+.c-section {
+  $section: &;
+  padding-top: $space-4;
+  &__title,
+  &__content,
+  &__title {
+    display: block;
+  }
+  &__title {
+    position: relative;
+    z-index: 2;
+    h1,
+    h5 {
+      margin: 0;
+    }
+    h1 {
+      font-size: rem(50);
+      font-weight: $font-weight-normal;
+      margin-bottom: $space-2;
+      @include respond-below(md) {
+        font-size: rem(37);
+      }
+      strong {
+        font-weight: normal;
+        @include respond-below(md) {
+          font-weight: bold;
+        }
+      }
+    }
+  }
+  &__content {
+    position: relative;
+    z-index: 2;
+  }
+  &__footer {
+    .btn-show-all {
+      border-radius: 15px 15px 0 0;
+      padding: $space-1;
+      font-weight: $font-weight-bold;
+      svg {
+        width: 11px;
+        height: 11px;
+        margin-left: $space-050;
+        transition: transform 0.2s ease-in-out;
+      }
+      &:hover {
+        svg {
+          transform: translateX(5px);
+        }
+      }
+    }
+  }
+  &.dark-style {
+    #{$section}__title {
+      h1,
+      h5 {
+        color: $color-dark;
+      }
+    }
+  }
+  &.light-style {
+    #{$section}__title {
+      h1,
+      h5 {
+        color: $color-white;
+      }
+    }
+  }
+}

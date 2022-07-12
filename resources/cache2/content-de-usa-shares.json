@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "USA Aktien",
+        "Title2": "Fast jedes Land hat eine B\u00f6rse, an der b\u00f6rsennotierte Unternehmen gehandelt werden.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">USA Aktien<\/h2><\/div><div class=\"fw simpleContent\"><p>AUS Aktie; bezieht sich auf einen der \u00e4quivalenten Teile des Kapitals eines Unternehmens. Durch den Kauf von Anteilen eines Unternehmens werden Sie einer der Partner dieses Unternehmens. Wenn Sie in Aktien investieren, sollten Sie die Aktivit\u00e4ten des Unternehmens, die Verschuldung, die Wachstumserwartungen, den Gewinnstatus, die Dividende (H\u00f6he des Gewinns) und kurz alles \u00fcber das Unternehmen untersuchen. Sie k\u00f6nnen von Aktieninvestitionen profitieren, indem Sie erfolgreiche, langfristige und gewinnbringende Unternehmen ausw\u00e4hlen.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

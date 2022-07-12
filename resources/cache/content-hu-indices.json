@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u0130ndexek",
+        "Title2": "Hozz\u00e1f\u00e9r\u00e9s a vil\u00e1g t\u0151zsdei indexeihez egyetlen platformr\u00f3l.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\u0130ndexek<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket indexek; a t\u0151zsde \u00e1ltal\u00e1nos ir\u00e1ny\u00e1nak meghat\u00e1roz\u00e1s\u00e1ra szolg\u00e1l. Az egyes t\u0151zsdei \u00e1rak \u00e1ltal\u00e1nos cser\u00e9j\u00e9t speci\u00e1lis indexek seg\u00edts\u00e9g\u00e9vel figyelemmel k\u00eds\u00e9rik. A r\u00e9szv\u00e9nyindexek t\u00f6bb \u00e1llom\u00e1nyt tartalmaznak, \u00e9s a matematikai sz\u00e1m\u00edt\u00e1sokb\u00f3l sz\u00e1rmaz\u00f3 teljes \u00e9rt\u00e9k, ahol a k\u00e9szletek teljes\u00edtm\u00e9ny\u00e9t m\u00e9ri.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

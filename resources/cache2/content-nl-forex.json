@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Grote, kleine en exotische valuta-pariteiten",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>De buitenlandse valuta is de algemene naam die wordt gegeven aan de valuta&#39;s van het buitenland in het Turks. Pariteit is de waarde van de valuta van een land ten opzichte van de valuta van een ander land. De eerste valuta in de valuta verwijst naar de basisvaluta. De tweede valuta is de tegenovergestelde valuta. USD \/ TRY is de USD-basiswisselkoers, terwijl TRY de tegenovergestelde valuta is. De waarde van de USD \/ TRY-pariteit is de waarde van de Amerikaanse dollar ten opzichte van de Turkse Lira. Bijvoorbeeld; Stel dat USD = 2, TRY = 1; De waarde van USD \/ TRY-pariteit is 2. 1 USD = 2 Turkse liren is gelijk als we het vereenvoudigen. Het monetaire beleid en de economische ontwikkelingen van de centrale banken be\u00efnvloeden de waarde van de valuta&#39;s van de landen en cre\u00ebren serieuze investeringsmogelijkheden in de valutapariteiten.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

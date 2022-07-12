@@ -1,0 +1,128 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-form' %} {% set menu_active = 'blank-page' %}
+{% block page %} {% set live_exchange = true %} {% include
+'../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-form-container form-left has-form-send-btn">
+    <div class="container">
+      <form
+        id="create-demo-account"
+        class="c-form-card form"
+        data-form-type="demo-page"
+        data-submit-msg-success="{{LangValue('forms_return_custom3')}}"
+        data-submit-msg-err1="{{LangValue('forms_return_error')}}"
+        data-submit-msg-err2="{{ LangValue('forms_return_custom2') }}"
+        data-sms-code-title="Sms Doğrulama"
+        data-sms-code-desc="Kayıt olmak için telefonunuza gönderilen kodu <b></b> sn içerisinde yazınız."
+        data-sms-code-error1="Lütfen size gönderilen doğrulama kodunu yazınız."
+        data-sms-code-error2="Lütfen size gönderilen kodunu 6 haneli olacak sekilde yazınız."
+        data-sms-code-btn="GÖNDER"
+      >
+        <div class="c-form-card__header"> {{LangValue('register-demo-t1')}} </div>
+        <div class="c-form-card__content">
+          <p>
+
+             {{LangValue('register-demo-t2')}}
+            <span></span>
+          </p>
+          <div class="c-form">
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line user"
+                data-validation="required"
+                name="name"
+              />
+              <label for="">{{LangValue('index_c10_input1-t')}} </label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="tel"
+                class="form-input form-input__line phone"
+                data-validation="required phone"
+                name="phone"
+              />
+              <label for="">{{LangValue('index_c10_input3-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line mail"
+                data-validation="required email"
+                name="email"
+              />
+              <label for="">{{LangValue('index_c10_input4-t')}}</label>
+            </div>
+            <div class="c-form__row mt-2">
+              <div class="g-recaptcha" data-sitekey="6LfqAi4bAAAAANikRyoht_o9oVYUt9ntdzshw19S"></div>
+            </div>
+            <div class="c-form__row mt-2">
+              <div class="form-checkbox">
+                <input
+                  id="privacy-policy"
+                  type="checkbox"
+                  class="checkbox"
+                  data-validation="requiredCheck"
+                />
+                <label for="privacy-policy">
+                  <svg viewBox="0,0,50,50">
+                    <path d="M5 30 L 20 45 L 45 5"></path>
+                  </svg>
+                </label>
+                <label for="privacy-policy"
+                  ><a href="#" class="privacy-policy-trigger">{{LangValue('register-agreement-l')}}</a> {{LangValue('register-agreement-t')}}</label
+                >
+              </div>
+            </div>
+            <div class="c-form__row mt-1">
+              <div class="form-checkbox">
+                <input
+                  id="contract"
+                  type="checkbox"
+                  class="checkbox"
+                  data-validation="requiredCheck"
+                />
+                <label for="contract">
+                  <svg viewBox="0,0,50,50">
+                    <path d="M5 30 L 20 45 L 45 5"></path>
+                  </svg>
+                </label>
+                <label for="contract">
+                   <a href="#" class="main-policy-trigger">{{LangValue('register-agreement-l2')}}</a> {{LangValue('register-agreement-t2')}}</label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="c-form-card__footer">
+          <button
+            type="submit"
+            id="create-demo-account-btn"
+            class="btn btn-secondary btn-block btn-create-account btn-loading"
+            >{{LangValue('register-demo-btn1')}}</button
+          >
+          <p class="text-center mt-2 mb-2">
+               {{LangValue('register-demo-btn2')}}
+          </p>
+          <a href="#" class="btn btn-block btn-white"
+            >{{LangValue('register-demo-btn3')}} </a
+          >
+        </div>
+      </form>
+      <div class="c-form-card content green-skin f-create-account">
+        <div class="c-form-card__header">{{LangValue('register-demo-t3')}} </div>
+        <div class="c-form-card__content">
+          <p>
+             {{LangValue('register-demo-t4')}}
+          </p>
+          <a href="#" class="btn btn-link"
+            ><i></i>{{LangValue('register-demo-btn4')}}</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

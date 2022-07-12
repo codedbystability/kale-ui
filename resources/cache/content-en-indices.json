@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indices",
+        "Title2": "Access to the World Stock Exchange Indices from a single platform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indices<\/h2><\/div><div class=\"fw simpleContent\"><p>Stock Narket Indices,&nbsp; is used to determine the general direction of the stock market. General exchanges of prices in each stock market are monitored through special indices. Stock indexes contain more than one stock and are a total value resulting from mathematical calculations where the performance of stocks is measured.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Stock Exchange Indices",
+        "SeoDesc": "Forex Stock Exchange indices are used to determine the general direction of the stock market by moving from price movements in shares.",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

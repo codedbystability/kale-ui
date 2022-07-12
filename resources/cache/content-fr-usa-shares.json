@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "Actions USA",
+        "Title2": "Presque tous les pays ont une bourse dans laquelle des soci\u00e9t\u00e9s cot\u00e9es en bourse sont n\u00e9goci\u00e9es.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Actions USA<\/h2><\/div><div class=\"fw simpleContent\"><p>USA Stock; se r\u00e9f\u00e8re \u00e0 l&#39;une des parties \u00e9quivalentes du capital d&#39;une entreprise. En achetant des actions d&#39;une entreprise, vous devenez l&#39;un des partenaires de cette entreprise. Lorsque vous investissez dans des actions, vous devez examiner les activit\u00e9s de la soci\u00e9t\u00e9, son endettement, ses pr\u00e9visions de croissance, son statut, son dividende (montant de son b\u00e9n\u00e9fice) et bri\u00e8vement tout ce qui concerne la soci\u00e9t\u00e9. Vous pouvez b\u00e9n\u00e9ficier d&#39;un investissement en actions en choisissant des soci\u00e9t\u00e9s performantes, \u00e0 long terme et \u00e0 but lucratif.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "usa-shares",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

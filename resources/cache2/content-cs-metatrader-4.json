@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Z\u00edskejte p\u0159\u00edstup k platform\u00e1m, do kter\u00fdch m\u016f\u017eete investovat nejrychlej\u0161\u00edm zp\u016fsobem.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 je popul\u00e1rn\u00ed platforma pro obchodov\u00e1n\u00ed a anal\u00fdzu Forex, kter\u00e1 poskytuje obchodn\u00ed m\u011bny, akcie, drah\u00e9 kovy a CFD v akciov\u00fdch indexech. V t\u00e9to sekci si z\u00e1kazn\u00edci Ekol FX mohou st\u00e1hnout obchodn\u00ed platformu MetaTrader 4 a mobiln\u00ed aplikace pro PDA, iPhone, iPad a Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">V\u0160ECHNY PLO\u0160INY S JEDNOU HESLOD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">SNADN\u00c9 A RYCHL\u00c9 FINAN\u010cN\u00cd OPERACE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">FREE FOREX SIGNALS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DVOJIT\u00c9 P\u0158\u00cdM\u00c9 INVESTICE<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENT A OTEV\u0158EN\u00c1 POLOHA POKRA\u010cOVAT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Funkce platformy<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Jedno heslo na v\u0161ech platform\u00e1ch<\/li><li>Sledov\u00e1n\u00ed objedn\u00e1vky a otev\u0159en\u00e9 pozice<\/li><li>Limit zobrazen\u00ed a informace o zaji\u0161t\u011bn\u00ed<\/li><li>Technick\u00e1 anal\u00fdza a grafy s aplikac\u00ed Tradingview<\/li><li>Odes\u00edl\u00e1n\u00ed objedn\u00e1vek prost\u0159ednictv\u00edm grafiky<\/li><li>Odesl\u00e1n\u00ed objedn\u00e1vky jedn\u00edm kliknut\u00edm<\/li><li>Zobrazen\u00ed vstupenky nebo seznamu, odesl\u00e1n\u00ed objedn\u00e1vky p\u0159es seznam<\/li><li>V\u00edce ne\u017e 40 paritn\u00edch, zlat\u00fdch, komoditn\u00edch a CFD investic<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Po\u017eadavky na syst\u00e9m<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 A P\u0158ES<\/span><\/li><li><span class=\"title\">P\u0158IPOJEN\u00cd K INTERNETU<\/span><span class=\"val\">4 MB A P\u0158ES<\/span><\/li><li><span class=\"title\">ROZLI\u0160EN\u00cd OBRAZOVKY<\/span><span class=\"val\">1920X1080 (DOPORU\u010cENO)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB A P\u0158ES<\/span><\/li><li><span class=\"title\">OPERA\u010cN\u00cd SYST\u00c9MY<\/span><span class=\"val\">WINDOWS 7 A P\u0158ES, MAC OS<\/span><\/li><li><span class=\"title\">WEBOV\u00dd PROHL\u00cd\u017dE\u010c<\/span><span class=\"val\">ALL BROWSER (P\u0158ES CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

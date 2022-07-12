@@ -1,0 +1,68 @@
+/**
+ * Carousel
+ */
+
+.product-slider {
+  margin-left: -($grid-gutter-width / 2);
+  margin-right: -($grid-gutter-width / 2);
+  display: flex;
+  @include respond-below(md) {
+    text-align: center;
+  }
+  @include respond-below(sm) {
+    overflow-x: scroll;
+  }
+  &.is-hidden {
+    display: none;
+  }
+  &.flickity-enabled {
+    opacity: 1;
+  }
+  &__item {
+    width: 33.3333334%;
+    padding: 0 ($grid-gutter-width / 2);
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+    }
+  }
+
+  .flickity-prev-next-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba($color-white, 0.5);
+    transition: $transition-base-bg;
+    top: -10%;
+    @include respond-below(md) {
+      position: relative;
+      top: auto;
+      transform: translateY(0);
+      margin: $space-2 $space-050 0;
+    }
+    .flickity-button-icon {
+      position: unset;
+      width: 30%;
+      height: 30%;
+      fill: $gray-600;
+      transition: $transition-base-fill;
+    }
+    &.previous {
+      left: auto;
+      right: 60px;
+      @include respond-below(md) {
+        right: 0;
+      }
+    }
+    &.next {
+      @include respond-below(md) {
+        right: 0;
+      }
+    }
+    &:hover {
+      background: rgba($color-primary, 1);
+      .flickity-button-icon {
+        fill: $color-white;
+      }
+    }
+  }
+}

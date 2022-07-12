@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Productos b\u00e1sicos",
+        "Title2": "Acceso a productos b\u00e1sicos desde una sola plataforma",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Productos b\u00e1sicos<\/h2><\/div><div class=\"fw simpleContent\"><p>Los productos b\u00e1sicos, metales preciosos y metales son fuentes muy importantes para las econom\u00edas nacionales. El oro, que ha sido popular durante a\u00f1os, es percibido como un refugio seguro por los inversores. Adem\u00e1s del oro en Forex, plata, platino y otros metales preciosos que se pueden invertir en paladio.<\/p><p>Con la plataforma de procesamiento r\u00e1pido de Ekol Fx, puede realizar f\u00e1cilmente sus operaciones durante 5\/24 horas. &iexcl;Tome el lugar de la inversi\u00f3n r\u00e1pida y segura en Ekol Fx y convi\u00e9rtase en uno de los inversores profesionales!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

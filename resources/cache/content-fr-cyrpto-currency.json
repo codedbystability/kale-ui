@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto-monnaie",
+        "Title2": "Crypto Money est la base de la monnaie \u00e9lectronique ou de la monnaie num\u00e9rique",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Crypto-Monnaie<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money est essentiellement de la monnaie \u00e9lectronique ou de la monnaie num\u00e9rique. Mais comme dans la banque en ligne, il n&rsquo;a pas d&rsquo;\u00e9quivalent physique. C&#39;est une monnaie qui ne peut jamais \u00eatre vue ou touch\u00e9e, \u00e0 l&#39;exception des affichages num\u00e9riques. Les pi\u00e8ces cryptographiques sont des pi\u00e8ces qui peuvent \u00eatre transmises de personne \u00e0 personne et stock\u00e9es dans des sacs virtuels enti\u00e8rement s\u00e9curis\u00e9s, qui ne sont connect\u00e9s \u00e0 aucun pays ni \u00e0 aucune autorit\u00e9. C&rsquo;est un syst\u00e8me global de transfert de fonds, de paiement et d&rsquo;investissement qui peut \u00eatre transf\u00e9r\u00e9 de personne \u00e0 personne, et non d&rsquo;interbancaire. Les pi\u00e8ces cryptographiques commen\u00e7ant par Bitcoin ont cr\u00e9\u00e9 leur propre march\u00e9 avec de nombreux types diff\u00e9rents. Parmi ceux-ci figurent Bitcoin, Litecoin et Ethereum. Les pi\u00e8ces cryptographiques, utilis\u00e9es comme syst\u00e8me de paiement dans de nombreux domaines de la vie, sont consid\u00e9r\u00e9es comme le syst\u00e8me financier du futur.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

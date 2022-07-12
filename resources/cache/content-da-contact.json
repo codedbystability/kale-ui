@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Kontakt",
+        "Title2": "Du kan sende os beskeder ved at udfylde kontaktoplysninger eller formularer!",
+        "ShortDesc": "<h2>We are always ready for you<br \/><br \/>We have a great team of outstanding EkolFX users who are always available for questions, comments, suggestions or complaints. You can contact us by using our communication channels below or using our contact form.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

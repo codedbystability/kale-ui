@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Criptomoned\u0103",
+        "Title2": "Crypto Money este banii electronici de baz\u0103 sau banii digitali",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Criptomoned\u0103<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money este practic bani electronici sau bani digitali. Dar, la fel ca \u00een sectorul bancar online, nu are un echivalent fizic. Este o moned\u0103 care nu poate fi niciodat\u0103 v\u0103zut\u0103 sau atins\u0103, cu excep\u021bia ecranelor digitale. Crypto monedele sunt monede care pot fi transmise de la o persoan\u0103 la alta \u0219i stocate \u00een portofele virtuale securizate, f\u0103r\u0103 leg\u0103tur\u0103 cu nici o \u021bar\u0103 sau cu nici o autoritate. Este un sistem global de transfer de bani, de plat\u0103 \u0219i de investi\u021bii, care poate fi transferat de la o persoan\u0103 la alta, nu de la o interbancare. Crypto monedele \u00eencep\u00e2nd cu Bitcoin \u0219i-au creat propria pia\u021b\u0103 cu multe tipuri diferite. Printre acestea se num\u0103r\u0103 Bitcoin, Litecoin \u0219i Ethereum. Crypto monede, care sunt folosite ca sistem de plat\u0103 \u00een multe domenii ale vie\u021bii, sunt v\u0103zute ca sistemul financiar al viitorului.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "Indices",
+        "Title2": "Acc\u00e8s aux indices World Stock Exchange depuis une seule plateforme.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Indices<\/h2><\/div><div class=\"fw simpleContent\"><p>Indices boursiers boursiers, &amp; nbsp; est utilis\u00e9 pour d\u00e9terminer la direction g\u00e9n\u00e9rale du march\u00e9 boursier. Les \u00e9changes g\u00e9n\u00e9raux de prix sur chaque march\u00e9 boursier sont contr\u00f4l\u00e9s par des indices sp\u00e9ciaux. Les indices d&rsquo;actions contiennent plus d&rsquo;une action et sont une valeur totale r\u00e9sultant de calculs math\u00e9matiques lorsque la performance des actions est mesur\u00e9e.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Store, mindre og eksotiske valutapariteter",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>Utenlandsk valuta er det generelle navnet gitt til utenlands valutaer p\u00e5 tyrkisk. Paritet er verdien av et lands valuta mot valutaen i et annet land. Den f\u00f8rste valutaen i valutaen refererer til basisvalutaen. Den andre valutaen er motsatt valuta. USD \/ TRY er USD basekursen, mens TRY er motsatt valuta. Verdien av USD \/ TRY-pariteten er verdien av amerikanske dollar mot den tyrkiske liraen. For eksempel; Anta at USD = 2, TRY = 1; Verdien av USD \/ TRY paritet vil v\u00e6re 2. 1 USD = 2 Tyrkisk Liras er lik hvis vi forenkler det. Pengepolitikken og den \u00f8konomiske utviklingen i sentralbankene p\u00e5virker verdien av valutaene i landene og skaper store investeringsmuligheter i valutapariene.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

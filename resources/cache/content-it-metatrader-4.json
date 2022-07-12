@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 4",
+        "Title2": "Accedi alle piattaforme in cui puoi investire nel modo pi\u00f9 veloce.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 \u00e8 una piattaforma di trading e analisi Forex molto diffusa che fornisce valute di trading, azioni, metalli preziosi e CFD negli indici azionari. In questa sezione, i clienti di Ekol FX possono scaricare la piattaforma di trading MetaTrader 4 e le applicazioni mobili per PDA, iPhone, iPad e Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">TUTTE LE PIATTAFORME CON UNA PASSWORD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">OPERAZIONI FINANZIARIE FACILI E VELOCI<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">SEGNALI A FOREX GRATUITI<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOPPIO INVESTIMENTO DIRETTO<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">POSIZIONE INVIATA E APERTA<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Caratteristiche della piattaforma<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>Una password su tutte le piattaforme<\/li><li>Monitoraggio dell&#39;ordine e della posizione aperta<\/li><li>Mostra limite e informazioni collaterali<\/li><li>Analisi tecnica e grafici con Tradingview<\/li><li>Invio di ordini tramite grafica<\/li><li>Invio dell&#39;ordine con un clic<\/li><li>Visualizzazione ticket o elenco, invio ordine tramite lista<\/li><li>Pi\u00f9 di 40 investimenti in parit\u00e0, oro, materie prime e CFD<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Requisiti di sistema<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSORE<\/span><span class=\"val\">\u01305 E OLTRE<\/span><\/li><li><span class=\"title\">CONNESSIONE INTERNET<\/span><span class=\"val\">4 MB E OLTRE<\/span><\/li><li><span class=\"title\">RISOLUZIONE DELLO SCHERMO<\/span><span class=\"val\">1920X1080 (RECOMMENDED)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB E OLTRE<\/span><\/li><li><span class=\"title\">SISTEMI OPERATIVI<\/span><span class=\"val\">WINDOWS 7 AND OVER, MAC OS<\/span><\/li><li><span class=\"title\">PROGRAMMA DI NAVIGAZIONE IN RETE<\/span><span class=\"val\">TUTTO IL BROWSER (OLTRE CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metatrader-4",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto-valuta",
+        "Title2": "Crypto Money \u00e8 il denaro elettronico di base o il denaro digitale",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Crypto denaro<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money \u00e8 fondamentalmente denaro elettronico o denaro digitale. Ma come nel banking online, non ha un equivalente fisico. \u00c8 una valuta che non pu\u00f2 mai essere vista o toccata tranne che per i display digitali. Le monete crittografiche sono monete che possono essere trasmesse da persona a persona e conservate in borse virtuali completamente sicure, non collegate a nessun paese o autorit\u00e0. \u00c8 un sistema di trasferimento, pagamento e investimento globale che pu\u00f2 essere trasferito da persona a persona, non da interbancario. Le monete crittografiche che iniziano con Bitcoin hanno creato il proprio mercato con molti tipi diversi. Tra questi ci sono Bitcoin, Litecoin ed Ethereum. Le monete crittografiche, che sono utilizzate come sistema di pagamento in molti settori della vita, sono viste come il sistema finanziario del futuro.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

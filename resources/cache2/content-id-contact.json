@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "Kontak",
+        "Title2": "Anda dapat mengirim pesan kepada kami dengan mengisi rincian kontak atau formulir! ",
+        "ShortDesc": "<h2>Kami selalu siap untuk Anda<br \/><br \/>Kami memiliki tim hebat pengguna EkolFX yang luar biasa yang selalu tersedia untuk pertanyaan, komentar, saran atau keluhan. Anda dapat menghubungi kami dengan menggunakan saluran komunikasi kami di bawah ini atau menggunakan formulir kontak kami.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

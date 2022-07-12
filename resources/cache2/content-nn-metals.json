@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 8,
+        "Title": "Metaller",
+        "Title2": "Tilgang til metall til enkel plattform",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Metaller<\/h2><\/div><div class=\"fw simpleContent\"><p>Metaller er navnene som er gitt til alle varer og produkter i handelen. Forexmarkedet er verdens st\u00f8rste finansmarked, hvor du kan handle p\u00e5 metaller. Investeringsinstrumenter, spesielt gull, aluminium og s\u00f8lv; Med privilegiet til Ekol Global Markets kan du kj\u00f8pe og selge p\u00e5 Forex markedet.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "metals",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

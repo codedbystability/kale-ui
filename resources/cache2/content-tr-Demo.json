@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 35,
+        "Title": "Demo Hesap A\u00e7\u0131n",
+        "Title2": "",
+        "ShortDesc": "",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "Demo Hesap A\u00e7\u0131n",
+        "SeoDesc": "Forex piyasalar\u0131nda sizde yer almak i\u00e7in deneme hesab\u0131 olu\u015fturun: Yat\u0131r\u0131m yapmadan \u00f6nce 10.000 USD sanal para ile demo i\u015flem imkan\u0131",
+        "SeoTags": "demo",
+        "Sort": 0,
+        "ModuleID": 9,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

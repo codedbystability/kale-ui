@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 12,
+        "Title": "AB\u015e fond birjas\u0131",
+        "Title2": "Dem\u0259k olar ki, h\u0259r bir \u00f6lk\u0259nin birjas\u0131 var ki, burada ictimaiyy\u0259t\u0259 sat\u0131lan \u015firk\u0259tl\u0259r sat\u0131l\u0131r.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">AB\u015e Fond Birjas\u0131<\/h2><\/div><div class=\"fw simpleContent\"><p>AB\u015e fondlar\u0131; bir \u015firk\u0259tin kapitalinin b\u0259rab\u0259r hiss\u0259l\u0259rind\u0259n birin\u0259 istinad edir. Bir \u015firk\u0259tin s\u0259hml\u0259rini sat\u0131n alaraq, siz h\u0259min \u015firk\u0259tin t\u0259r\u0259fda\u015flar\u0131ndan biris\u0259n. S\u0259hml\u0259r\u0259 s\u0259rmay\u0259 qoydu\u011funuz zaman, \u015firk\u0259tin f\u0259aliyy\u0259ti, borc \u00f6hd\u0259liyi, b\u00f6y\u00fcm\u0259 g\u00f6zl\u0259ntil\u0259ri, m\u0259nf\u0259\u0259t v\u0259ziyy\u0259ti, dividend (m\u0259nf\u0259\u0259t m\u0259bl\u0259\u011fi) v\u0259 \u015firk\u0259t haqq\u0131nda q\u0131saca h\u0259r \u015feyi ara\u015fd\u0131rmal\u0131s\u0131n\u0131z. M\u00fcv\u0259ff\u0259qiyy\u0259tli, uzunm\u00fcdd\u0259tli v\u0259 m\u0259nf\u0259\u0259t ver\u0259n \u015firk\u0259tl\u0259ri se\u00e7\u0259r\u0259k s\u0259hml\u0259rd\u0259n investisiya \u0259ld\u0259 ed\u0259 bil\u0259rsiniz.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "abd-borsasi",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

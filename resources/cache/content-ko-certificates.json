@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "\uc778\uc99d\uc11c",
+        "Title2": "\uacf5\uc2dd \ubb38\uc11c \ubc0f \uc99d\uba85\uc11c",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">\uc778\uc99d\uc11c<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - KOREA Ekol Global Markets \ubb38\uc11c \ubc0f \uc778\uc99d\uc11c\uac00 \uace7 \uc5c5\ub370\uc774\ud2b8 \ub420 \uc608\uc815\uc785\ub2c8\ub2e4.<\/p><p>\ub77c\uc774\uc13c\uc2a4 \ud30c\uc77c\uc744\ubcf4\uae30 \uc704\ud574 \ud734\ub300 \uc804\ud654\uc758 \uce74\uba54\ub77c\ub85c \ub2e4\uc74c QR \ucf54\ub4dc\ub97c \uc2a4\uce94\ud558\uba74 \uc2dc\uc2a4\ud15c\uc5d0\uc11c \uc790\ub3d9\uc73c\ub85c \uc0ac\uc6a9\uc790\ub97c \ub77c\uc774\uc13c\uc2a4 \ubb38\uc11c\ub85c \uc804\ub2ec\ud569\ub2c8\ub2e4.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>\ub77c\uc774\uc13c\uc2a4\ub294 \uc5c5\ub370\uc774\ud2b8 \ub420 \ub54c \uc704\uc5d0 \ub098\uc5f4\ub429\ub2c8\ub2e4.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

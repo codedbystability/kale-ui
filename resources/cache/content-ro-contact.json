@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 19,
+        "Title": "A lua legatura",
+        "Title2": "Ne pute\u021bi trimite mesaje prin completarea detaliilor de contact sau a formularului!",
+        "ShortDesc": "<h2>Suntem mereu preg\u0103ti\u021bi pentru dvs.<br \/><br \/>Avem o mare echip\u0103 de utilizatori remarcabili EkolFX care sunt \u00eentotdeauna disponibili pentru \u00eentreb\u0103ri, comentarii, sugestii sau pl\u00e2ngeri. Ne pute\u021bi contacta folosind canalele de comunicare de mai jos sau utiliz\u00e2nd formularul nostru de contact.<\/h2>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "contact",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

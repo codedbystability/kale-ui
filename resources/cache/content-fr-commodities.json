@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Produits de base",
+        "Title2": "Acc\u00e8s aux produits depuis une plate-forme unique",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Produits de base<\/h2><\/div><div class=\"fw simpleContent\"><p>Les produits de base, les m\u00e9taux pr\u00e9cieux et les m\u00e9taux sont des sources tr\u00e8s importantes pour les \u00e9conomies nationales. L&#39;or, populaire depuis des ann\u00e9es, est per\u00e7u comme une valeur refuge par les investisseurs. Outre l&#39;or sur le Forex, l&#39;argent, le platine et d&#39;autres m\u00e9taux pr\u00e9cieux peuvent \u00eatre investis dans le palladium.<\/p><p>Avec la plate-forme de traitement rapide d&#39;Ekol Fx, vous pouvez facilement effectuer vos op\u00e9rations pendant 5\/24 heures. Prenez la place d&#39;un investissement rapide et s\u00e9curis\u00e9 dans Ekol Fx et devenez l&#39;un des investisseurs professionnels!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

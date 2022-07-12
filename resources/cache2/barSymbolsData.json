@@ -1,0 +1,222 @@
+[
+    {
+        "SYMBOL": "AAPL",
+        "BID": "160,47",
+        "ASK": "160,49",
+        "LOW": "157,64",
+        "HIGH": "160,58",
+        "BIDNUMERIC": "160.47",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "AUDCAD",
+        "BID": "0,93123",
+        "ASK": "0,93135",
+        "LOW": "0,92441",
+        "HIGH": "0,93463",
+        "BIDNUMERIC": "0.93123",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "AUDJPY",
+        "BID": "87,451",
+        "ASK": "87,468",
+        "LOW": "86,488",
+        "HIGH": "87,583",
+        "BIDNUMERIC": "87.451",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "AUDNZD",
+        "BID": "1,07056",
+        "ASK": "1,07074",
+        "LOW": "1,06640",
+        "HIGH": "1,07189",
+        "BIDNUMERIC": "1.07056",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "AUDUSD",
+        "BID": "0,73751",
+        "ASK": "0,73759",
+        "LOW": "0,72831",
+        "HIGH": "0,73928",
+        "BIDNUMERIC": "0.73751",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "BMW",
+        "BID": "76,750",
+        "ASK": "76,780",
+        "LOW": "75,500",
+        "HIGH": "79,300",
+        "BIDNUMERIC": "76.750",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "CADCHF",
+        "BID": "0,74165",
+        "ASK": "0,74183",
+        "LOW": "0,73864",
+        "HIGH": "0,74349",
+        "BIDNUMERIC": "0.74165",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "CADJPY",
+        "BID": "93,903",
+        "ASK": "93,921",
+        "LOW": "93,470",
+        "HIGH": "94,063",
+        "BIDNUMERIC": "93.903",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "CHFDKK",
+        "BID": "7,16240",
+        "ASK": "7,16505",
+        "LOW": "7,15058",
+        "HIGH": "7,18431",
+        "BIDNUMERIC": "7.16240",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "DAXEUR",
+        "BID": "14.350,30",
+        "ASK": "14.358,80",
+        "LOW": "14.242,25",
+        "HIGH": "14.530,40",
+        "BIDNUMERIC": "14.350.30",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "DJIUSD",
+        "BID": "34.328,90",
+        "ASK": "34.334,10",
+        "LOW": "33.864,40",
+        "HIGH": "34.499,90",
+        "BIDNUMERIC": "34.328.90",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "EURCZK",
+        "BID": "24,7154",
+        "ASK": "24,7798",
+        "LOW": "24,6184",
+        "HIGH": "24,7969",
+        "BIDNUMERIC": "24.7154",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "EURTRY",
+        "BID": "16,16351",
+        "ASK": "16,50998",
+        "LOW": "15,87953",
+        "HIGH": "16,29681",
+        "BIDNUMERIC": "16.16351",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "F40EUR",
+        "BID": "6.595,20",
+        "ASK": "6.596,30",
+        "LOW": "6.529,80",
+        "HIGH": "6.639,00",
+        "BIDNUMERIC": "6.595.20",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "GAUTRY",
+        "BID": "917,91",
+        "ASK": "919,08",
+        "LOW": "903,43",
+        "HIGH": "925,40",
+        "BIDNUMERIC": "917.91",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "GBPTRY",
+        "BID": "19,16164",
+        "ASK": "19,57314",
+        "LOW": "18,93651",
+        "HIGH": "19,45671",
+        "BIDNUMERIC": "19.16164",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "MSFT",
+        "BID": "294,84",
+        "ASK": "294,91",
+        "LOW": "289,37",
+        "HIGH": "294,99",
+        "BIDNUMERIC": "294.84",
+        "CLASS": "fa-caret-up",
+        "CLASS2": "text-success"
+    },
+    {
+        "SYMBOL": "NZDJPY",
+        "BID": "81,657",
+        "ASK": "81,675",
+        "LOW": "81,029",
+        "HIGH": "81,729",
+        "BIDNUMERIC": "81.657",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "SAP",
+        "BID": "103,540",
+        "ASK": "103,580",
+        "LOW": "102,640",
+        "HIGH": "104,380",
+        "BIDNUMERIC": "103.540",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "TRYJPY",
+        "BID": "7,902",
+        "ASK": "8,194",
+        "LOW": "7,847",
+        "HIGH": "7,972",
+        "BIDNUMERIC": "7.902",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "TSLA",
+        "BID": "871,35",
+        "ASK": "871,62",
+        "LOW": "826,00",
+        "HIGH": "874,85",
+        "BIDNUMERIC": "871.35",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    },
+    {
+        "SYMBOL": "USDTRY",
+        "BID": "14,56289",
+        "ASK": "14,86711",
+        "LOW": "14,41954",
+        "HIGH": "14,72887",
+        "BIDNUMERIC": "14.56289",
+        "CLASS": "fa-caret-down",
+        "CLASS2": "text-danger"
+    }
+]

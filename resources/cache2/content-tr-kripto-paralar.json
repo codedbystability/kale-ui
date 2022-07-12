@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Kripto Paralar",
+        "Title2": "Kripto Paralar ile 7\/24 i\u015flem yapabilirsiniz",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Kripto Paralar<\/h2><\/div><div class=\"fw simpleContent\"><p>Kripto Paralar son y\u0131llarda yat\u0131r\u0131mc\u0131 say\u0131s\u0131n\u0131 en \u00e7ok artt\u0131ran yat\u0131r\u0131m arac\u0131d\u0131r. Teknoloji \u00e7a\u011f\u0131n\u0131n en \u00f6nemli bulu\u015flar\u0131ndan kabul edilen bitcoin, ileride ka\u011f\u0131t paralar\u0131n yerini almay\u0131 hedeflemektedir. G\u00fcn\u00fcm\u00fczde ki\u015fiden ki\u015fiye para transferlerinde, \u00f6deme y\u00f6ntemlerinde ve yat\u0131r\u0131m platformlar\u0131nda s\u0131k\u00e7a kullan\u0131lmaktad\u0131r. Ayn\u0131 platform \u00fczerinden siz de bitcoin alabilir veya satabilirsiniz.<\/p><\/div>",
+        "LongDesc": "Kripto Paralar son y\u0131llarda yat\u0131r\u0131mc\u0131 say\u0131s\u0131n\u0131 en \u00e7ok artt\u0131ran yat\u0131r\u0131m arac\u0131d\u0131r. Teknoloji \u00e7a\u011f\u0131n\u0131n en \u00f6nemli bulu\u015flar\u0131ndan kabul edilen bitcoin, ileride ka\u011f\u0131t paralar\u0131n yerini almay\u0131 hedeflemektedir. G\u00fcn\u00fcm\u00fczde ki\u015fiden ki\u015fiye para transferlerinde, \u00f6deme y\u00f6ntemlerinde ve yat\u0131r\u0131m platformlar\u0131nda s\u0131k\u00e7a kullan\u0131lmaktad\u0131r. Ayn\u0131 platform \u00fczerinden siz de bitcoin alabilir veya satabilirsiniz.",
+        "Link": null,
+        "SeoTitle": "Forex Kripto Para ",
+        "SeoDesc": "Kale FX, Forex piyasas\u0131nda kripto paralar 7\/27 anl\u0131k i\u015flem yapabilir, yat\u0131r\u0131mlar\u0131n\u0131z hakk\u0131nda dan\u0131\u015fmanl\u0131k talep edebilirsiniz.",
+        "SeoTags": "kripto-paralar",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

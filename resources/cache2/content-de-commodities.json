@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 10,
+        "Title": "Rohstoffe",
+        "Title2": "Zugriff auf Rohstoffe von einer einzigen Plattform aus",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Rohstoffe<\/h2><\/div><div class=\"fw simpleContent\"><p>Rohstoffe, Edelmetalle und Metalle sind sehr wichtige Quellen f\u00fcr die Volkswirtschaften. Das seit Jahren beliebte Gold wird von Anlegern als sicherer Hafen wahrgenommen. Neben dem Gold in Forex k\u00f6nnen Silber, Platin und andere Edelmetalle in Palladium investiert werden.<\/p><p>Mit der schnellen Verarbeitungsplattform von Ekol Fx k\u00f6nnen Sie Ihre Operationen problemlos 5\/24 Stunden lang ausf\u00fchren. Nehmen Sie den Platz einer schnellen und sicheren Investition in Ekol Fx ein und werden Sie einer der professionellen Investoren!<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "commodities",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

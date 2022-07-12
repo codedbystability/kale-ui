@@ -1,0 +1,26 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": [
+        {
+            "Id": 22,
+            "Title": "Metatrader 5",
+            "Title2": "Get access to platforms where you can invest in the fastest way.",
+            "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 4 is a popular Forex trading and analysis platform that provides trading currencies, stocks, precious metals and CFDs in stock indices. In this section, KALE FX customers can download the MetaTrader 4 trading platform and mobile applications for PDA, iPhone, iPad and Android.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">ALL PLATFORMS WITH ONE PASSWORD<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">EASY AND FAST FINANCIAL OPERATIONS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">FREE FOREX SIGNALS<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">DOUBLE DIRECTLY INVESTMENT<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">SENT AND OPEN POSITION FOLLOW<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+            "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform Features<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>One password on all platforms <!-- li--><\/li><li>Order and Open Position tracking <!-- li--><\/li><li>Display limit and collateral information <!-- li--><\/li><li>Technical analysis and charts with Tradingview <!-- li--><\/li><li>Sending orders via graphics <!-- li--><\/li><li>One-click order submission <!-- li--><\/li><li>Ticket or list view, submit order via list <!-- li--><\/li><li>More than 40 parity, gold, commodity and CFD investment <!-- li--><\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">System requirements<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">PROCESSOR<\/span><span class=\"val\">\u01305 AND OVER<\/span><\/li><li><span class=\"title\">INTERNET CONNECTION<\/span><span class=\"val\">4 MB AND OVER<\/span><\/li><li><span class=\"title\">SCREEN RESOLUTION<\/span><span class=\"val\">1920X1080 (RECOMMENDED)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB AND OVER<\/span><\/li><li><span class=\"title\">OPERATING SYSTEMS<\/span><span class=\"val\">WINDOWS 7 AND OVER, MAC OS<\/span><\/li><li><span class=\"title\">WEB BROWSER<\/span><span class=\"val\">ALL BROWSER (OVER CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+            "Link": null,
+            "MainImages": "",
+            "ListImages": "",
+            "Banner1": "",
+            "SeoTitle": "Metatrader 4 ",
+            "SeoDesc": "Metatrader 5 is at your service with the assurance of  KaleFx where you can get instant access to all platforms in the fastest way!",
+            "SeoTags": "metatrader-5",
+            "Api1": "",
+            "Api2": "",
+            "IconHTML": "",
+            "SubContent": null
+        }
+    ]
+}

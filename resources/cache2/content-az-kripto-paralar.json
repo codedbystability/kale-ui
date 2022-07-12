@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cirpto-Valyuta",
+        "Title2": "Kripto Pul \u0259sas\u0259n elektron pul v\u0259 ya r\u0259q\u0259msal puldur",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Kripto Pullar<\/h2><\/div><div class=\"fw simpleContent\"><p>Kripto Pul \u0259sas\u0259n elektron pul v\u0259 ya r\u0259q\u0259msal puldur. Lakin onlayn bank\u00e7\u0131l\u0131qda oldu\u011fu kimi fiziki ekvivalenti yoxdur. R\u0259q\u0259msal g\u00f6r\u00fcn\u00fc\u015fl\u0259r istisna olmaqla, he\u00e7 vaxt g\u00f6r\u00fcnm\u0259y\u0259n v\u0259 toxunulmayan bir valyuta. Kripto sikk\u0259l\u0259r, \u015f\u0259xsd\u0259n \u015f\u0259xsl\u0259r\u0259 \u00f6t\u00fcr\u00fcl\u0259n v\u0259 h\u0259r hans\u0131 bir \u00f6lk\u0259y\u0259 v\u0259 ya h\u0259r hans\u0131 bir orqana ba\u011fl\u0131 olmayan tam t\u0259hl\u00fck\u0259siz virtual \u00e7antalarda saxlan\u0131lan pullard\u0131r. Bu, qlobal pul k\u00f6\u00e7\u00fcrm\u0259l\u0259ri, \u00f6d\u0259m\u0259 v\u0259 investisiya sistemidir ki, bu \u015f\u0259xsl\u0259rd\u0259n \u015f\u0259xs\u0259n banklara k\u00f6\u00e7\u00fcr\u00fclm\u0259y\u0259c\u0259kdir. Bitcoin il\u0259 ba\u015flayan kripto sikk\u0259l\u0259ri bir \u00e7ox m\u00fcxt\u0259lif n\u00f6v il\u0259 \u00f6z bazar\u0131n\u0131 yarad\u0131blar. Bunlar aras\u0131nda Bitcoin, Litecoin v\u0259 Ethereum var. H\u0259yat\u0131n bir \u00e7ox sah\u0259l\u0259rind\u0259 \u00f6d\u0259m\u0259 sistemi olaraq istifad\u0259 olunan kripto sikk\u0259l\u0259ri g\u0259l\u0259c\u0259yin maliyy\u0259 sistemi kimi q\u0259bul edilir.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "kripto-paralar",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

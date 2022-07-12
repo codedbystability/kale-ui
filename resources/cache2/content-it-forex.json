@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 7,
+        "Title": "Forex",
+        "Title2": "Parit\u00e0 valutarie maggiori, minori ed esotiche",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Forex<\/h2><\/div><div class=\"fw simpleContent\"><p>La valuta estera \u00e8 il nome generico dato alle valute straniere in turco. La parit\u00e0 \u00e8 il valore della valuta di un paese rispetto alla valuta di un altro paese. La prima valuta nella valuta si riferisce alla valuta di base. La seconda valuta \u00e8 la valuta opposta. USD \/ TRY \u00e8 il tasso di cambio della base USD, mentre TRY \u00e8 la valuta opposta. Il valore della parit\u00e0 USD \/ TRY \u00e8 il valore del dollaro USA rispetto alla lira turca. Per esempio; Supponiamo che USD = 2, TRY = 1; Il valore della parit\u00e0 USD \/ TRY sar\u00e0 2. 1 USD = 2 Lire turche \u00e8 uguale se lo semplificiamo. Le politiche monetarie e gli sviluppi economici delle banche centrali influenzano il valore delle valute dei paesi e creano serie opportunit\u00e0 di investimento nelle parit\u00e0 valutarie.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "forex",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

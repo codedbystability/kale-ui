@@ -1,0 +1,80 @@
+{% extends '../layouts/default.twig' %} 
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %} 
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-form' %} {% set menu_active = 'blank-page' %}
+{% block page %} {% set live_exchange = true %} {% include
+'../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-form-container form-left has-form-send-btn">
+    <div class="container">
+      <form class="c-form-card form">
+        <div class="c-form-card__header">{{LangValue('login-t1')}}</div>
+        <div class="c-form-card__content">
+          <p>
+             {{LangValue('login-t2')}} 
+          </p>
+          <div class="c-form">
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line user"
+                data-validation="required"
+              />
+              <label for="">{{LangValue('login-input1-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="password"
+                class="form-input form-input__line password"
+                data-validation="required"
+              />
+              <label for="">{{LangValue('login-input2-t')}}</label>
+            </div>
+            <div class="c-form__row mt-2">
+              <div class="form-checkbox">
+                <input id="check" type="checkbox" class="checkbox" />
+                <label for="check">
+                  <svg viewBox="0,0,50,50">
+                    <path d="M5 30 L 20 45 L 45 5"></path>
+                  </svg>
+                </label>
+                <label for="check">{{LangValue('login-remember')}}</label>
+              </div>
+            </div>
+            <div class="c-form__row text-right mt-4">
+              <div class="btn btn-link btn-forgot-password">
+                {{LangValue('login-forgot')}}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="c-form-card__footer">
+          <a
+            href="#"
+            class="btn btn-secondary btn-block btn-create-account"
+            >{{LangValue('login-btn1')}}</a
+          >
+          <p class="text-center mt-2 mb-2">
+           {{LangValue('login-btn2')}}
+          </p>
+          <a href="#" class="btn btn-block btn-white"
+            >{{LangValue('login-btn3')}}</a
+          >
+        </div>
+      </form>
+      <div class="c-form-card content dark-skin">
+        <div class="c-form-card__header">{{LangValue('login-t3')}} </div>
+        <div class="c-form-card__content">
+          <p>
+            {{LangValue('register-demo-t4')}} 
+          </p>
+          <a href="#" class="btn btn-link"
+            ><i></i>{{LangValue('login-btn4')}}</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

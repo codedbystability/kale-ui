@@ -1,0 +1,134 @@
+{% extends '../layouts/default.twig' %}
+{% set head_title = data.SefContent.SeoTitle ~ ' ' ~  CoInfo('SeosubFix') %}
+{% set head_desc = data.SefContent.SeoDesc %}
+{% set body_class = 'p-form' %} {% set menu_active = 'blank-page' %}
+{% block page %} {% set live_exchange = true %} {% include
+'../components/header.twig' %}
+
+<div class="main-wrapper">
+  <div class="c-page-title mt-4">
+    <div class="container">
+      <h1><strong>{{LangValue('subpage_contact_h1')}}</strong> {{LangValue('subpage_contact_h1-1')}}</h1>
+      <p>
+
+        {{LangValue('subpage_contact_h2')}}
+        <span></span>
+      </p>
+    </div>
+  </div>
+  <div class="c-form-container form-left">
+    <div class="container">
+      <form
+        id="contact-form"
+        class="c-form-card form contact"
+        data-form-type="contact"
+      >
+        <div class="c-form-card__header justify-content-start">
+          <strong class="pl-3">{{LangValue('subpage_contact_t1')}}</strong>
+        </div>
+        <div class="c-form-card__content">
+          <p>
+           {{LangValue('subpage_contact_t3')}}
+          </p>
+          <div class="c-form">
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line user"
+                data-validation="required name"
+              />
+              <label for="">{{LangValue('index_c10_input1-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="tel"
+                class="form-input form-input__line phone"
+                data-validation="required phone"
+              />
+              <label for="">{{LangValue('index_c10_input3-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line mail"
+                data-validation="required email"
+              />
+              <label for="">{{LangValue('index_c10_input4-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <input
+                type="text"
+                class="form-input form-input__line sub department"
+              />
+              <label for="">{{LangValue('index_c10_input6-t')}}</label>
+            </div>
+            <div class="c-form__row">
+              <textarea
+                class="form-input form-input__line form-input--textarea message"
+                data-validation="required"
+              ></textarea>
+              <label for="">{{LangValue('index_c10_input5-t')}}</label>
+            </div>
+            <div class="c-form__row mt-2">
+              <button type="submit" class="btn btn-secondary btn-lg">
+               {{LangValue('index_c10_input-btn')}}
+
+              </button>
+            </div>
+          </div>
+        </div>
+      </form>
+      <div class="c-form-card content blue-skin">
+        <div class="c-form-card__header justify-content-start pl-3">
+          {{LangValue('subpage_contact_t2')}}
+        </div>
+        <div class="c-form-card__content">
+          <ul class="list-unstyled">
+            <li>
+              <h4>
+                <small class="d-block">  {{LangValue('index_c10-2_info1')}}</small>
+                {{CoInfo('Name')}}
+              </h4>
+            </li>
+            <li>
+              <h4>
+                <small class="d-block"> {{LangValue('index_c10-2_info2')}}</small>
+                <a href="mailto:{{CoInfo('Mail')}}" class="line-style"> {{CoInfo('Mail')}}</a>
+              </h4>
+            </li>
+            <li>
+              <h4>
+                <small class="d-block"> {{LangValue('index_c10-2_info3')}}</small>
+                <a href="tel:" class="line-style">{{CoInfo('Phone')}}</a>
+
+              </h4>
+            </li>
+          
+           
+
+            <li>
+              <h5>
+                <small class="d-block">Adress </small>
+                {{CoInfo('Adress')}}
+              </h5>
+            </li>
+            <li style="display:none">
+              <h6>
+                <small class="d-block">{{LangValue('adress_title-2')}} </small>
+
+                 {{CoInfo('Adress2')}}
+              </h6>
+            </li>
+            <li style="display:none">
+              <h6>
+                <small class="d-block">{{LangValue('adress_title-3')}} </small>
+                {{CoInfo('Adress2')}}
+              </h6>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include '../components/footer.twig' %} {% endblock %}

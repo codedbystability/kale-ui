@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 11,
+        "Title": "Cyrpto-Valuta",
+        "Title2": "Crypto Money er de grundl\u00e6ggende elektroniske penge eller digitale penge",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Cyrpto-valuta<\/h2><\/div><div class=\"fw simpleContent\"><p>Crypto Money er stort set elektroniske penge eller digitale penge. Men som i online banking har den ikke en fysisk \u00e6kvivalent. Det er en valuta, der aldrig kan ses eller r\u00f8res, undtagen for digitale sk\u00e6rme. Crypto-m\u00f8nter er m\u00f8nter, der kan overf\u00f8res fra person til person og opbevares i fuldt sikre virtuelle punge, ikke forbundet med noget land eller nogen myndighed. Det er et globalt pengeoverf\u00f8rsels-, betalings- og investeringssystem, som kan overf\u00f8res fra person til person, ikke fra interbank. Crypto-m\u00f8nter, der starter med Bitcoin, har skabt deres eget marked med mange forskellige typer. Blandt disse er Bitcoin, Litecoin og Ethereum. Kryptom\u00f8nter, der anvendes som betalingssystem p\u00e5 mange omr\u00e5der af livet, ses som fremtidens finansielle system.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "cyrpto-currency",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

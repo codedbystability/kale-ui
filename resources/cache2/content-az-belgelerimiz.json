@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "S\u0259n\u0259dl\u0259rimiz",
+        "Title2": "Sertifikatlar v\u0259 S\u0259n\u0259dl\u0259r",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">S\u0259n\u0259dl\u0259rimiz<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - AZ\u018fRBAYCAN sertifikalar\u0131m\u0131z v\u0259 Belgelerimiz q\u0131sa m\u00fcdd\u0259t i\u00e7\u0259risind\u0259 g\u00fcncellenecektir.<\/p><p>Lisenziya s\u0259n\u0259dimizi g\u00f6rm\u0259k \u00fc\u00e7\u00fcn telefonunuzun kameras\u0131nda a\u015fa\u011f\u0131dak\u0131 qr kodunu tarad\u0131ktan sonra sistemi avtomatik olaraq lisenziya s\u0259n\u0259din\u0259 g\u00f6nd\u0259rir.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>Lisenziyalar yenil\u0259yinc\u0259 yuxar\u0131da g\u00f6st\u0259ril\u0259c\u0259kdir.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "belgelerimiz",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

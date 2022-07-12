@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 22,
+        "Title": "Metatrader 5",
+        "Title2": "En h\u0131zl\u0131 \u015fekilde yat\u0131r\u0131m i\u015flemlerinizi yapabilece\u011finiz platformlara eri\u015fin.",
+        "ShortDesc": "<div class=\"fw simpleContent\"><p>MetaTrader 5, hisse senedi endekslerinde al\u0131m sat\u0131m para birimleri, hisse senetleri, de\u011ferli metaller ve CFD&#39;ler sa\u011flayan pop\u00fcler bir Forex ticaret ve analiz platformudur. Bu b\u00f6l\u00fcmde, Kale&nbsp;FX m\u00fc\u015fterileri MetaTrader 4 i\u015flem platformunu ve mobil uygulamalar\u0131n\u0131 PDA, iPhone&reg;, iPad &trade; ve Android i\u00e7in indirebilirler.<\/p><\/div><!--.content--><div class=\"fw platformFeatures\"><div class=\"platformFeaturesRow\"><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-key\"><\/i><\/li><li class=\"title\">TEK \u015e\u0130FRE \u0130LE T\u00dcM PLATFORMLAR<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-wallet\"><\/i><\/li><li class=\"title\">KOLAY VE HIZLI F\u0130NANSAL \u0130\u015eLEMLER<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-computer\"><\/i><\/li><li class=\"title\">\u00dcCRETS\u0130Z FOREX S\u0130NYALLER\u0130<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-expand-square\"><\/i><\/li><li class=\"title\">\u00c7\u0130FT Y\u00d6NL\u00dc YATIRIM \u0130MKANI<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><div class=\"platformFeaturesCol\"><div class=\"fw platformFeaturesBox\"><ul class=\"sul\"><li class=\"icon\"><i class=\"flaticon-graph\"><\/i><\/li><li class=\"title\">EM\u0130R VE A\u00c7IK POZ\u0130SYON TAK\u0130B\u0130<\/li><\/ul><\/div><!--.box--><\/div><!--.col--><\/div><!--.row--><\/div>",
+        "LongDesc": "<div class=\"fw platformOzellikleri\"><div class=\"platformOzellikleriRow\"><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Platform \u00d6zellikleri<\/li><\/ul><\/div><!--.title--><div class=\"fw platformOzellikleriDiv\"><ul><li>T\u00fcm platformlarda tek \u015fifre<\/li><li>Emir ve A\u00e7\u0131k Pozisyon takibi<\/li><li>Limit ve teminat bilgileri g\u00f6r\u00fcnt\u00fcleme<\/li><li>Tradingview destekli teknik analiz ve grafikler<\/li><li>Grafik \u00fczerinden emir g\u00f6nderimi<\/li><li>Tek t\u0131kla emir g\u00f6nderimi<\/li><li>Ticket ya da liste g\u00f6r\u00fcn\u00fcm\u00fc, liste \u00fczerinden emir g\u00f6nderme<\/li><li>40&rsquo;dan fazla parite, alt\u0131n, emtia ve CFD&rsquo;ye yat\u0131r\u0131m imkan\u0131<\/li><\/ul><\/div><!--.div--><\/div><!--.ozellikleribox--><\/div><!--.col--><div class=\"platformOzellikleriCol\"><div class=\"fw platformOzellikleriBox\"><div class=\"fw simpleTitle\"><ul class=\"sul\"><li class=\"title\">Sistem Gereksinimleri<\/li><\/ul><\/div><!--.title--><div class=\"fw sistemGereksinimleri\"><ul><li><span class=\"title\">\u0130\u015eLEMC\u0130<\/span><span class=\"val\">\u01305 VE \u00dcZER\u0130<\/span><\/li><li><span class=\"title\">\u0130NTERNET BA\u011eLANTISI<\/span><span class=\"val\">4 MB VE \u00dcZER\u0130<\/span><\/li><li><span class=\"title\">EKRAN \u00c7\u00d6Z\u00dcN\u00dcRL\u00dc\u011e\u00dc<\/span><span class=\"val\">1920X1080 (TAVS\u0130YE ED\u0130LEN)<\/span><\/li><li><span class=\"title\">RAM<\/span><span class=\"val\">4 GB VE \u00dcZER\u0130<\/span><\/li><li><span class=\"title\">\u0130\u015eLET\u0130M S\u0130STEMLER\u0130<\/span><span class=\"val\">WINDOWS 7 VE \u00dcZER\u0130, MAC OS<\/span><\/li><li><span class=\"title\">TARAYICI<\/span><span class=\"val\">T\u00dcM\u00dc (TAVS\u0130YE ED\u0130LEN CHROME)<\/span><\/li><\/ul><\/div><!--.sistemGereksinimleri--><\/div><!--.ozellikleribox--><\/div><!--.col--><\/div><!--.row--><\/div><!--.platformOzellikleri-->",
+        "Link": null,
+        "SeoTitle": "Metatrader 5",
+        "SeoDesc": "En h\u0131zl\u0131 \u015fekilde t\u00fcm platformlara anl\u0131k eri\u015fim sa\u011flayabilece\u011finiz, Meta Trader 5  Kale Fx ile hizmetinizde",
+        "SeoTags": "metatrader-5",
+        "Sort": 0,
+        "ModuleID": 4,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

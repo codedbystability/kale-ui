@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 17,
+        "Title": "Certificados",
+        "Title2": "Nossos documentos e certificados oficiais",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">Certificados<\/h2><\/div><div class=\"fw simpleContent\"><p>Ekol Global Markets - PORTUGUESE Ekol Global Markets Documentos e certificados ser\u00e3o atualizados em breve.<\/p><p>Depois de digitalizar o seguinte c\u00f3digo QR com a c\u00e2mera do seu telefone para ver nosso documento de licen\u00e7a, o sistema encaminhar\u00e1 voc\u00ea automaticamente para o documento de licen\u00e7a.<\/p><img src=\"https:\/\/www.ekolfx1.com\/assets\/images\/qr.png\" \/><p>&nbsp;<\/p><p>As licen\u00e7as ser\u00e3o listadas acima conforme forem atualizadas.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "certificates",
+        "Sort": 0,
+        "ModuleID": 2,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}

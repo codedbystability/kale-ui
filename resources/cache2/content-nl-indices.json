@@ -1,0 +1,25 @@
+{
+    "IsSuccess": true,
+    "ErrorCode": "200",
+    "ErrorMessage": "Ok",
+    "StatusCode": 200,
+    "Data": {
+        "Id": 9,
+        "Title": "\u0130ndex",
+        "Title2": "Toegang tot de World Stock Exchange Indices vanaf \u00e9\u00e9n platform.",
+        "ShortDesc": "<div class=\"fw simpleContentTitle\"><h2 class=\"title\">index<\/h2><\/div><div class=\"fw simpleContent\"><p>Aandelen Narket Indices, wordt gebruikt om de algemene richting van de aandelenmarkt te bepalen. Algemene ruilprijzen op elke aandelenmarkt worden gevolgd via speciale indices. Aandelenindexen bevatten meer dan \u00e9\u00e9n aandeel en zijn een totale waarde die resulteert uit wiskundige berekeningen waarbij de prestaties van aandelen worden gemeten.<\/p><\/div>",
+        "LongDesc": "",
+        "Link": null,
+        "SeoTitle": "",
+        "SeoDesc": "",
+        "SeoTags": "indices",
+        "Sort": 0,
+        "ModuleID": 3,
+        "MainImages": "",
+        "ListImages": "",
+        "Banner1": "",
+        "SubContent": [],
+        "SubImages1": [],
+        "SubImages2": null
+    }
+}
